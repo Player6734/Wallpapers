@@ -152,11 +152,10 @@ touch "$INDEX_FILE"
 write_header "$INDEX_FILE"
 
 # Loop through each folder in the Pictures directory
+# Main script loop
 for subdir in "$PICTURES_DIR"/*/; do
     if [ -d "$subdir" ]; then
-        subdir_basename=$(basename "$subdir")
-        echo "<h3><a href=\"${subdir_basename}_index.html\">$subdir_basename</a></h3>" >> "$INDEX_FILE"
-        process_directory "$subdir" true
+        process_directory "$subdir" "$PICTURES_DIR/index.html"
     fi
 done
 
