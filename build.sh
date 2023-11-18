@@ -163,9 +163,12 @@ write_header "$INDEX_FILE"
 # Main script loop
 for subdir in "$PICTURES_DIR"/*/; do
     if [ -d "$subdir" ]; then
-        process_directory "$subdir" "$PICTURES_DIR/index.html"
+        subdir_basename=$(basename "$subdir")
+        subdir_index_file="$PICTURES_DIR/${subdir_basename}_index.html"
+        process_directory "$subdir" "$subdir_index_file"
     fi
 done
+
 
 
 
