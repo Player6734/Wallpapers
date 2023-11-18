@@ -64,11 +64,12 @@ process_directory() {
     local dir_path="$1"
     local output_file="$2"
     local subdir_name=$(basename "$dir_path")
+    local checkbox_id="checkbox_$subdir_name"
 
-    # Create a checkbox and a label for the directory
-    echo "<input type='checkbox' id='$subdir_name' style='display:none;'>" >> "$output_file"
-    echo "<label for='$subdir_name' style='font-size: 18px; color: #EBDBB2; cursor: pointer;'>$subdir_name</label>" >> "$output_file"
-    echo "<div style='display:none;' id='content_$subdir_name'>" >> "$output_file"
+    # Create a checkbox (hidden) and a label for the directory
+    echo "<input type='checkbox' id='$checkbox_id' style='display:none;' />" >> "$output_file"
+    echo "<label for='$checkbox_id' style='font-size: 18px; color: #EBDBB2; cursor: pointer;'>$subdir_name</label>" >> "$output_file"
+    echo "<div class='content' id='content_$subdir_name'>" >> "$output_file"
 
     # Process files in the current directory
     while IFS= read -r -d '' file_info; do
