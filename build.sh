@@ -61,29 +61,22 @@ process_directory() {
 
 process_directory() {
     local dir_path="$1"
-    local output_file="$2"
+    local main_dir="$2"  # Directory where the main index.html and styles.css are located
     local subdir_name=$(basename "$dir_path")
-    local checkbox_id="checkbox_$subdir_name"
+    local subdir_index_file="$main_dir/${subdir_name}_index.html"
 
-    # Create a checkbox (hidden) and a label for the directory
-    echo "<input type='checkbox' id='$checkbox_id' style='display:none;' />" >> "$output_file"
-    echo "<label for='$checkbox_id' style='cursor: pointer;'>$subdir_name</label>" >> "$output_file"
-    echo "<div class='content' id='content_$subdir_name'>" >> "$output_file"
+    # Write header for the subdir index file
+    write_header "$subdir_index_file" "$subdir_name"
 
-    # Process files in the current directory
+    # Process files in the directory
     while IFS= read -r -d '' file_info; do
-        # Check if processing for the main index or a subdirectory
-        if [[ "$output_file" == *"_index.html" ]]; then
-            # Write full images to the subdir index file
-            write_img "$file_info" "$output_file"
-        else
-            # For the main index, limit the number of previews
-            write_img_preview "$file_info" "$output_file"
-        fi
+        write_img "$file_info" "$subdir_index_file"
     done < <(find "$dir_path" -maxdepth 1 -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" -o -name "*.avif" \) -print0)
 
-    echo "</div>" >> "$output_file"
+    # Close the HTML tags for the subdir index file
+    echo "</body></html>" >> "$subdir_index_file"
 }
+
 
 
 
@@ -147,10 +140,12 @@ write_header() {
 <body>
 EOF
 
+    # Add directory name as a header if provided
     if [ -n "$dir_name" ]; then
         echo "<h1>$dir_name</h1>" >> "$output_file"
     fi
 }
+
 
 
 
@@ -162,13 +157,14 @@ write_header "$INDEX_FILE"
 
 # Loop through each folder in the Pictures directory
 # Main script loop
+# Main script loop
 for subdir in "$PICTURES_DIR"/*/; do
     if [ -d "$subdir" ]; then
         subdir_basename=$(basename "$subdir")
-        subdir_index_file="$PICTURES_DIR/${subdir_basename}_index.html"
-        process_directory "$subdir" "$subdir_index_file"
+        process_directory "$subdir" "$PICTURES_DIR"
     fi
 done
+
 
 
 
