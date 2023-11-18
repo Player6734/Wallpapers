@@ -66,4 +66,13 @@ img.preview {
     color: #EBDBB2;
     font-size: 18px;
 }
+/* Hide content initially */
+#content_subdir_name {
+    display: none;
+}
+
+/* Show content when checkbox is checked */
+input[type='checkbox']:checked + label + #content_subdir_name {
+    display: block;
+}
 
