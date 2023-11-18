@@ -161,6 +161,7 @@ for subdir in "$PICTURES_DIR"/*/; do
 done
 
 
+
 echo "</body></html>" >> "$INDEX_FILE"
 
 
