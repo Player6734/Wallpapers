@@ -142,7 +142,7 @@ write_header() {
 <head>
     <meta charset="UTF-8">
     <title>${dir_name:-Gallery}</title>
-    <link rel="stylesheet" type="text/css" href="../styles.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
 EOF
@@ -151,6 +151,7 @@ EOF
         echo "<h1>$dir_name</h1>" >> "$output_file"
     fi
 }
+
 
 
 
