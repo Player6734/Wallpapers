@@ -27,50 +27,34 @@ create_preview() {
 }
 
 # Function to process each directory
-
 process_directory() {
     local dir_path="$1"
-    local main_output_file="$2"
-    local is_main_index="$3"
+    local is_main_index="$2"
+    local parent_dir="$(dirname "$dir_path")"
     local subdir_name=$(basename "$dir_path")
-
-    local subdir_html_file="$dir_path/index.html"
-    echo "Processing directory: $dir_path"  # Debug statement
+    local subdir_index_file="$parent_dir/${subdir_name}_index.html"
 
     if [[ "$is_main_index" != true ]]; then
-        echo "Creating index for subdir: $subdir_html_file"  # Debug statement
-        write_header "$subdir_html_file" "$subdir_name"
+        # Write header with directory name for subdir index files
+        write_header "$subdir_index_file" "$subdir_name"
     fi
 
-    local count=0
+    # Process files in the current directory
     while IFS= read -r -d '' file_info; do
         if [[ "$is_main_index" == true ]]; then
-            if [[ "$count" -lt 8 ]]; then
-                write_img_preview "$file_info" "$main_output_file"
-                ((count++))
-            fi
+            write_img_preview "$file_info" "$parent_dir/index.html"
         else
-            # Write full images to the subdir index file
-            write_img "$file_info" "$subdir_html_file"
+            write_img "$file_info" "$subdir_index_file"
         fi
     done < <(find "$dir_path" -maxdepth 1 -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" -o -name "*.avif" \) -print0)
 
-    # Process subdirectories
-    for subdir in "$dir_path"/*/; do
-        subdir=$(basename "$subdir")
-        if [ -d "$dir_path/$subdir" ]; then
-            if [[ "$is_main_index" == true ]] && [[ "$count" -lt 8 ]]; then
-                echo "<h4><a href=\"$dir_path/$subdir/index.html\" style=\"color: #EBDBB2; font-size: 18px;\">$subdir</a></h4>" >> "$main_output_file"
-                process_directory "$dir_path/$subdir" "$main_output_file" true
-            fi
-        fi
-    done
-
+    # Close HTML tags for subdir index files
     if [[ "$is_main_index" != true ]]; then
-        # Close HTML tags for subdir index files
-        echo "</body></html>" >> "$subdir_html_file"
+        echo "</body></html>" >> "$subdir_index_file"
     fi
 }
+
+
 
 
 
@@ -183,8 +167,8 @@ write_header "$INDEX_FILE"
 for subdir in "$PICTURES_DIR"/*/; do
     if [ -d "$subdir" ]; then
         subdir_basename=$(basename "$subdir")
-        echo "<h3><a href=\"$subdir_basename/index.html\">$subdir_basename</a></h3>" >> "$INDEX_FILE"
-        process_directory "$subdir" "$INDEX_FILE" true
+        echo "<h3><a href=\"${subdir_basename}_index.html\">$subdir_basename</a></h3>" >> "$INDEX_FILE"
+        process_directory "$subdir" true
     fi
 done
 
