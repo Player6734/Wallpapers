@@ -4,6 +4,42 @@
 PICTURES_DIR=$(pwd)
 PREVIEWS_DIR="$PICTURES_DIR/.previews"
 
+create_main_index() {
+    local pictures_dir="$1"
+    local index_file="$2"
+
+    # Start the index file
+    write_header "$index_file"
+
+    # Loop through each subdirectory
+    for subdir in "$pictures_dir"/*/; do
+        if [ -d "$subdir" ]; then
+            local subdir_name=$(basename "$subdir")
+
+            # Add the subdirectory name as a section header to the index file
+            echo "<div class='subdirectory'>" >> "$index_file"
+            echo "<h2>$subdir_name</h2>" >> "$index_file"
+            echo "<div class='preview-container'>" >> "$index_file"
+
+            # Get 8 image previews from the subdirectory
+            local count=0
+            while IFS= read -r -d '' file_info && [ "$count" -lt 8 ]; do
+                local preview_file="$PREVIEWS_DIR/$(basename "$file_info")"
+                create_preview "$file_info" "$preview_file"
+                echo "<img src='$preview_file' alt='Preview'>" >> "$index_file"
+                ((count++))
+            done < <(find "$subdir" -maxdepth 1 -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" -o -name "*.avif" \) -print0)
+
+            # Close the preview container and subdirectory div
+            echo "</div>" >> "$index_file"
+            echo "</div>" >> "$index_file"
+        fi
+    done
+
+    # Close the HTML tags for the index file
+    echo "</body></html>" >> "$index_file"
+}
+
 create_preview() {
     local original_file="$1"
     local preview_file="$2"
@@ -164,8 +200,7 @@ for subdir in "$PICTURES_DIR"/*/; do
         process_directory "$subdir" "$PICTURES_DIR"
     fi
 done
-
-
+create_main_index "$PICTURES_DIR" "$INDEX_FILE"
 
 
 
