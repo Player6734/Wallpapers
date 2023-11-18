@@ -1,0 +1,69 @@
+/* Apply styles to the body to set a common background color and text color */
+body {
+  background-color: #282828;
+  color: #ebdbb2;
+  padding-left: 4%;
+  padding-right: 4%;
+  text-align: center;
+
+}
+
+/* Apply styles to h1 (main directories) */
+h1 {
+  background-color: #ebdbb2;
+  color: #282828;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Apply styles to h3 (subdirectories) */
+h3 {
+  background-color: #ebdbb2; /* Background color for subdirectories */
+  color: #282828; /* Text color for subdirectories */
+  text-align: center; /* Center text for subdirectories */
+  text-decoration: none;
+  font-size: 24px; /* Adjust font size for subdirectories */
+}
+
+/* Apply styles to links (a) */
+a {
+  color: #282828}
+
+/* Apply styles to the "Show More" button */
+.showmore {
+  text-align: center;
+  background-color: #ebdbb2;
+  color: #282828;
+}
+
+/* Apply background colors for different sections (s1, s2, etc.) */
+#s1 { background-color: #d65d0e; }
+#s2 { background-color: #cc241d; }
+#s3 { background-color: #98971a; }
+#s4 { background-color: #d79921; }
+#s5 { background-color: #458588; }
+#s6 { background-color: #b16286; }
+#s7 { background-color: #689d6a; }
+
+/* Apply styles to the image */
+img {
+  transition: all .2s ease-in-out;
+}
+
+/* Apply styles to the image on hover */
+img:hover {
+  transform: scale(1.2);
+  border: none;
+  box-shadow: 5px 4px 10px #000000;
+}
+img.preview {
+  max-width: 100%;
+  height: 200px; /* Set a fixed height for the previews */
+  display: block;
+  margin: 0 auto; /* Center the previews horizontally */
+}
+.subdir-text {
+    color: #EBDBB2;
+    font-size: 18px;
+}
+
