@@ -39,6 +39,26 @@ create_preview() {
     echo "Preview creation complete."
 }
 
+create_subdir_index() {
+    local dir_path="$1"
+    local subdir_name=$(basename "$dir_path")
+    local subdir_html_file="$PICTURES_DIR/${subdir_name}.html"
+
+    # Start writing the subdir index file with a standard HTML header
+    write_header "$subdir_html_file" "$subdir_name"
+
+    # Loop through each image file in the subdirectory and add it to the HTML
+    echo "Adding images to $subdir_html_file..."
+    find "$dir_path" -maxdepth 1 -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" -o -name "*.avif" \) | while read file_path; do
+        write_img "$file_path" "$subdir_html_file"
+        echo "Added image $(basename "$file_path") to $subdir_html_file"
+    done
+
+    # Close the HTML tags for the subdir index file
+    echo "</body></html>" >> "$subdir_html_file"
+    echo "$subdir_html_file created successfully."
+}
+
 # Function to create the main index.html file
 create_main_index() {
     local pictures_dir="$1"
