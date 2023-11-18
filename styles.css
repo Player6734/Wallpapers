@@ -76,6 +76,29 @@ img.preview {
 input[type='checkbox']:checked + label + .content {
     display: block;
 }
+.directory-section {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #333; /* Or any color you prefer */
+}
+
+.subdir-title {
+    color: #EBDBB2; /* The color you want for the titles */
+    margin-bottom: 10px;
+}
+
+.subdir-previews {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    /* Add more styles as needed */
+}
+
+.subdir-previews img {
+    width: calc(25% - 10px); /* Four images per row, adjust as needed */
+    height: auto;
+    /* Add more styles as needed */
+}
 
 
 
