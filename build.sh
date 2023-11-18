@@ -4,6 +4,21 @@
 PICTURES_DIR=$(pwd)
 PREVIEWS_DIR="$PICTURES_DIR/.previews"
 
+write_img_preview() {
+    local original_file="$1"
+    local output_file="$2"
+    local preview_file_name=$(basename "$original_file")
+    local preview_file_path="$PREVIEWS_DIR/$preview_file_name"
+
+    # Call the create_preview function to create the preview image if it doesn't exist
+    if [ ! -f "$preview_file_path" ]; then
+        create_preview "$original_file" "$preview_file_path"
+    fi
+
+    # Write the HTML image tag to the output_file
+    echo "<a href=\"$original_file\"><img src=\"$preview_file_path\" alt=\"$preview_file_name\" /></a>" >> "$output_file"
+}
+
 create_preview() {
     local original_file="$1"
     local preview_file="$2"
