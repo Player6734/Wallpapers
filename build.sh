@@ -59,7 +59,6 @@ process_directory() {
 
 
 
-
 process_directory() {
     local dir_path="$1"
     local output_file="$2"
@@ -68,16 +67,24 @@ process_directory() {
 
     # Create a checkbox (hidden) and a label for the directory
     echo "<input type='checkbox' id='$checkbox_id' style='display:none;' />" >> "$output_file"
-    echo "<label for='$checkbox_id' style='font-size: 18px; color: #EBDBB2; cursor: pointer;'>$subdir_name</label>" >> "$output_file"
+    echo "<label for='$checkbox_id' style='cursor: pointer;'>$subdir_name</label>" >> "$output_file"
     echo "<div class='content' id='content_$subdir_name'>" >> "$output_file"
 
     # Process files in the current directory
     while IFS= read -r -d '' file_info; do
-        write_img "$file_info" "$output_file"
+        # Check if processing for the main index or a subdirectory
+        if [[ "$output_file" == *"_index.html" ]]; then
+            # Write full images to the subdir index file
+            write_img "$file_info" "$output_file"
+        else
+            # For the main index, limit the number of previews
+            write_img_preview "$file_info" "$output_file"
+        fi
     done < <(find "$dir_path" -maxdepth 1 -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" -o -name "*.avif" \) -print0)
 
     echo "</div>" >> "$output_file"
 }
+
 
 
 

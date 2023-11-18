@@ -69,11 +69,13 @@ img.preview {
 /* Style for the content sections, initially hidden */
 .content {
     display: none;
+    margin-top: 10px;  /* Adjust as needed */
 }
 
 /* Style to show the content when the corresponding checkbox is checked */
 input[type='checkbox']:checked + label + .content {
     display: block;
 }
+
 
 
