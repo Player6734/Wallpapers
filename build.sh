@@ -4,21 +4,6 @@
 PICTURES_DIR=$(pwd)
 PREVIEWS_DIR="$PICTURES_DIR/.previews"
 
-write_img_preview() {
-    local original_file="$1"
-    local output_file="$2"
-    local preview_file_name=$(basename "$original_file")
-    local preview_file_path="$PREVIEWS_DIR/$preview_file_name"
-
-    # Call the create_preview function to create the preview image if it doesn't exist
-    if [ ! -f "$preview_file_path" ]; then
-        create_preview "$original_file" "$preview_file_path"
-    fi
-
-    # Write the HTML image tag to the output_file
-    echo "<a href=\"$original_file\"><img src=\"$preview_file_path\" alt=\"$preview_file_name\" /></a>" >> "$output_file"
-}
-
 create_preview() {
     local original_file="$1"
     local preview_file="$2"
@@ -55,11 +40,11 @@ process_directory() {
     fi
 
     # Process files in the current directory
-    local count=0
     while IFS= read -r -d '' file_info; do
-        if [[ "$count" -lt 8 ]]; then
-            write_img_preview "$file_info" "$output_file"
-            ((count++))
+        if [[ "$is_main_index" == true ]]; then
+            write_img_preview "$file_info" "$parent_dir/index.html"
+        else
+            write_img "$file_info" "$subdir_index_file"
         fi
     done < <(find "$dir_path" -maxdepth 1 -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" -o -name "*.avif" \) -print0)
 
@@ -76,27 +61,21 @@ process_directory() {
 
 process_directory() {
     local dir_path="$1"
-    local main_output_file="$2"
+    local main_dir="$2"  # Directory where the main index.html and styles.css are located
     local subdir_name=$(basename "$dir_path")
+    local subdir_index_file="$main_dir/${subdir_name}_index.html"
 
-    # Create a section with a title for the subdirectory
-    echo "<div class='directory-section'>" >> "$main_output_file"
-    echo "<h2 class='subdir-title'>$subdir_name</h2>" >> "$main_output_file"
-    echo "<div class='subdir-previews'>" >> "$main_output_file"
+    # Write header for the subdir index file
+    write_header "$subdir_index_file" "$subdir_name"
 
-    # Process files in the current directory
-    local count=0
-    while IFS= read -r -d '' file_info && [ "$count" -lt 8 ]; do
-        write_img_preview "$file_info" "$main_output_file"
-        ((count++))
+    # Process files in the directory
+    while IFS= read -r -d '' file_info; do
+        write_img "$file_info" "$subdir_index_file"
     done < <(find "$dir_path" -maxdepth 1 -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" -o -name "*.avif" \) -print0)
 
-    # Close the previews container div
-    echo "</div>" >> "$main_output_file"
-    # Close the directory section div
-    echo "</div>" >> "$main_output_file"
+    # Close the HTML tags for the subdir index file
+    echo "</body></html>" >> "$subdir_index_file"
 }
-
 
 
 
@@ -168,20 +147,29 @@ EOF
 }
 
 
-# Start the main index.html file
+
+
+
+# Create index file
 INDEX_FILE="$PICTURES_DIR/index.html"
+touch "$INDEX_FILE"
 write_header "$INDEX_FILE"
 
 # Loop through each folder in the Pictures directory
+# Main script loop
+# Main script loop
 for subdir in "$PICTURES_DIR"/*/; do
     if [ -d "$subdir" ]; then
-        process_directory "$subdir" "$INDEX_FILE"
+        subdir_basename=$(basename "$subdir")
+        process_directory "$subdir" "$PICTURES_DIR"
     fi
 done
 
-# Finalize the main index.html file
-echo "</body></html>" >> "$INDEX_FILE"
 
+
+
+
+echo "</body></html>" >> "$INDEX_FILE"
 
 
 echo "Script completed."
