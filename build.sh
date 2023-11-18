@@ -55,11 +55,11 @@ process_directory() {
     fi
 
     # Process files in the current directory
+    local count=0
     while IFS= read -r -d '' file_info; do
-        if [[ "$is_main_index" == true ]]; then
-            write_img_preview "$file_info" "$parent_dir/index.html"
-        else
-            write_img "$file_info" "$subdir_index_file"
+        if [[ "$count" -lt 8 ]]; then
+            write_img_preview "$file_info" "$output_file"
+            ((count++))
         fi
     done < <(find "$dir_path" -maxdepth 1 -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" -o -name "*.avif" \) -print0)
 
