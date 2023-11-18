@@ -56,7 +56,6 @@ create_main_index() {
     for subdir in "$pictures_dir"/*/; do
         if [ -d "$subdir" ]; then
             local subdir_name=$(basename "$subdir")
-            echo "Processing subdirectory: $subdir_name"
 
             echo "<div class='subdirectory'>" >> "$index_file"
             echo "<h2>$subdir_name</h2>" >> "$index_file"
@@ -73,12 +72,10 @@ create_main_index() {
 
             echo "</div>" >> "$index_file"
             echo "</div>" >> "$index_file"
-            echo "Finished processing $subdir_name"
         fi
     done
 
     echo "</body></html>" >> "$index_file"
-    echo "Completed writing to $index_file."
 }
 
 write_header() {
@@ -102,7 +99,6 @@ EOF
     fi
 }
 
-echo "Starting script..."
 
 mkdir -p "$PREVIEWS_DIR"
 echo "Verified that the previews directory exists."
@@ -110,7 +106,5 @@ echo "Verified that the previews directory exists."
 INDEX_FILE="$PICTURES_DIR/index.html"
 echo "Set INDEX_FILE to $INDEX_FILE"
 
-echo "Creating the main index file..."
 create_main_index "$PICTURES_DIR" "$INDEX_FILE"
 
-echo "Script completed successfully."
