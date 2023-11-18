@@ -76,7 +76,7 @@ write_img_preview() {
 
         if [ "$original_height" -ne 0 ]; then
             local new_width=$((desired_height * original_width / original_height))
-            convert "$file_path" -strip -quality 75 -resize "${new_width}x${desired_height}" "$preview_path"
+            convert -strip "$file_path"  -quality 75 -resize "${new_width}x${desired_height}" "$preview_path"
         else
             echo "Error: Unable to read image dimensions for $file_path"
             return  # Skip if unable to process the image
