@@ -1037,3 +1037,381 @@ convert: unable to open image '/wallpaper.png': Permission denied @ error/blob.c
 convert: WriteBlob Failed `/wallpaper.png' @ error/png.c/MagickPNGErrorHandler/1492.
 Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-pixelart/wallpaper.png
 Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_1.png
+convert: unable to open image '/Eizin_Suzuki_1.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Eizin_Suzuki_1.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_1.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_2.png
+convert: unable to open image '/Eizin_Suzuki_2.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Eizin_Suzuki_2.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_2.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_3.png
+convert: unable to open image '/Eizin_Suzuki_3.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Eizin_Suzuki_3.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_3.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_4.png
+convert: unable to open image '/Eizin_Suzuki_4.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Eizin_Suzuki_4.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_4.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_5.png
+convert: unable to open image '/Eizin_Suzuki_5.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Eizin_Suzuki_5.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_5.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_6.png
+convert: unable to open image '/Eizin_Suzuki_6.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Eizin_Suzuki_6.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_6.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/planes.png
+convert: unable to open image '/planes.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/planes.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/planes.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/future_city.jpg
+convert: unable to open image '/future_city.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/future_city.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/neon_wall.png
+convert: unable to open image '/neon_wall.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/neon_wall.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/neon_wall.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/minimalist_sunset.jpg
+convert: unable to open image '/minimalist_sunset.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/minimalist_sunset.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/水中列車.jpeg
+convert: unable to open image '/水中列車.jpeg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/水中列車.jpeg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/cave_door2.jpg
+convert: unable to open image '/cave_door2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/cave_door2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/background09.jpg
+convert: unable to open image '/background09.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/background09.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/self-made4.png
+convert: unable to open image '/self-made4.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/self-made4.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/self-made4.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/macOS_2.jpg
+convert: unable to open image '/macOS_2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/macOS_2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/oil_waves.jpg
+convert: unable to open image '/oil_waves.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/oil_waves.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/macOS_5.jpg
+convert: unable to open image '/macOS_5.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/macOS_5.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/scrap_dealers.png
+convert: unable to open image '/scrap_dealers.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/scrap_dealers.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/scrap_dealers.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/under_the_strange_horizon.jpg
+convert: unable to open image '/under_the_strange_horizon.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/under_the_strange_horizon.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/beyond_the_aquila_rift_2.jpg
+convert: unable to open image '/beyond_the_aquila_rift_2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/beyond_the_aquila_rift_2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/saitama_bike.jpg
+convert: unable to open image '/saitama_bike.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/saitama_bike.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/space_map.jpg
+convert: unable to open image '/space_map.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/space_map.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/high_seas.jpg
+convert: unable to open image '/high_seas.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/high_seas.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/fantasy_pixels.jpg
+convert: unable to open image '/fantasy_pixels.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/fantasy_pixels.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/spaceship_maze.jpg
+convert: unable to open image '/spaceship_maze.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/spaceship_maze.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/two_stars.png
+convert: unable to open image '/two_stars.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/two_stars.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/two_stars.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/Windows_xp.jpg
+convert: unable to open image '/Windows_xp.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/Windows_xp.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/comet.jpg
+convert: unable to open image '/comet.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/comet.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/adventure_sunset.jpg
+convert: unable to open image '/adventure_sunset.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/adventure_sunset.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/background55.jpg
+convert: unable to open image '/background55.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/background55.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/camper_van.jpg
+convert: unable to open image '/camper_van.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/camper_van.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/非行.jpeg
+convert: unable to open image '/非行.jpeg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/非行.jpeg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/candy_pool.jpeg
+convert: unable to open image '/candy_pool.jpeg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/candy_pool.jpeg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/mac_OS_8.jpg
+convert: unable to open image '/mac_OS_8.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/mac_OS_8.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/att-03.jpg
+convert: unable to open image '/att-03.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/att-03.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/background20.jpg
+convert: unable to open image '/background20.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/background20.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/wheel_space_station.jpg
+convert: unable to open image '/wheel_space_station.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/wheel_space_station.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/cave_door1.jpg
+convert: unable to open image '/cave_door1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/cave_door1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/demon_giant.jpg
+convert: unable to open image '/demon_giant.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/demon_giant.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/background21.jpg
+convert: unable to open image '/background21.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/background21.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/beyond_the_aquila_rift.jpg
+convert: unable to open image '/beyond_the_aquila_rift.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/beyond_the_aquila_rift.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/futurism.jpg
+convert: unable to open image '/futurism.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/futurism.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/metro_forest.jpg
+convert: unable to open image '/metro_forest.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/metro_forest.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/colored_jungle.png
+convert: unable to open image '/colored_jungle.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/colored_jungle.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/colored_jungle.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/planets_and_stars.jpg
+convert: unable to open image '/planets_and_stars.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/planets_and_stars.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/purple_ring.jpg
+convert: unable to open image '/purple_ring.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/purple_ring.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/spiderman__warrior31992.jpg
+convert: unable to open image '/spiderman__warrior31992.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/spiderman__warrior31992.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/background56.jpg
+convert: unable to open image '/background56.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/background56.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/reflections_in_the_moonlight.jpg
+convert: unable to open image '/reflections_in_the_moonlight.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/reflections_in_the_moonlight.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/lake_house.jpeg
+convert: unable to open image '/lake_house.jpeg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/lake_house.jpeg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/sci_fi_ring.png
+convert: unable to open image '/sci_fi_ring.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/sci_fi_ring.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/sci_fi_ring.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/floral_rebellion.jpg
+convert: unable to open image '/floral_rebellion.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/floral_rebellion.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/alone_but_awesome.jpg
+convert: unable to open image '/alone_but_awesome.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/alone_but_awesome.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/path_of_mines.png
+convert: unable to open image '/path_of_mines.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/path_of_mines.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/path_of_mines.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/river_flow.png
+convert: unable to open image '/river_flow.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/river_flow.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/river_flow.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/background40.jpg
+convert: unable to open image '/background40.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/background40.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/Annapurna.jpeg
+convert: unable to open image '/Annapurna.jpeg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/Annapurna.jpeg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/howl_castle.jpg
+convert: unable to open image '/howl_castle.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/howl_castle.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/macOS_1.jpg
+convert: unable to open image '/macOS_1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/macOS_1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/mountains_lake.jpg
+convert: unable to open image '/mountains_lake.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/mountains_lake.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/空ノ月、海ノ月.jpeg
+convert: unable to open image '/空ノ月、海ノ月.jpeg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/空ノ月、海ノ月.jpeg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/lunch_break.jpg
+convert: unable to open image '/lunch_break.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/lunch_break.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/our_shell_our_soul.jpg
+convert: unable to open image '/our_shell_our_soul.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/our_shell_our_soul.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/self-made2.png
+convert: unable to open image '/self-made2.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/self-made2.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/self-made2.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/blue_woods.jpg
+convert: unable to open image '/blue_woods.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/blue_woods.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/house_in_field.jpg
+convert: unable to open image '/house_in_field.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/house_in_field.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/fluffy_dog.png
+convert: unable to open image '/fluffy_dog.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/fluffy_dog.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/fluffy_dog.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/background50.jpg
+convert: unable to open image '/background50.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/background50.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/cybercity_2.jpg
+convert: unable to open image '/cybercity_2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/cybercity_2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/red_beast.png
+convert: unable to open image '/red_beast.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/red_beast.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/red_beast.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/self-made1.png
+convert: unable to open image '/self-made1.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/self-made1.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/self-made1.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/cybercity_1.jpg
+convert: unable to open image '/cybercity_1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/cybercity_1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/alternative_star_wars.png
+convert: unable to open image '/alternative_star_wars.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/alternative_star_wars.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/alternative_star_wars.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/sea_of_mists.jpg
+convert: unable to open image '/sea_of_mists.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/sea_of_mists.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/sea_waterfall.jpg
+convert: unable to open image '/sea_waterfall.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/sea_waterfall.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/lonely_walk.jpg
+convert: unable to open image '/lonely_walk.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/lonely_walk.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/big_fight.jpg
+convert: unable to open image '/big_fight.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/big_fight.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/cliff_sunset.jpg
+convert: unable to open image '/cliff_sunset.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/cliff_sunset.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/astro.png
+convert: unable to open image '/astro.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/astro.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/astro.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/costal_rocks.jpg
+convert: unable to open image '/costal_rocks.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/costal_rocks.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/future_garage.jpg
+convert: unable to open image '/future_garage.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/future_garage.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/fluids.png
+convert: unable to open image '/fluids.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/fluids.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/fluids.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/放課後.jpeg
+convert: unable to open image '/放課後.jpeg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/放課後.jpeg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/adventure_time_tree_fort.jpg
+convert: unable to open image '/adventure_time_tree_fort.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/adventure_time_tree_fort.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/redline.jpg
+convert: unable to open image '/redline.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/redline.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/laundry.png
+convert: unable to open image '/laundry.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/laundry.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/laundry.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/doodle.jpeg
+convert: unable to open image '/doodle.jpeg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/doodle.jpeg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/DOOM.png
+convert: unable to open image '/DOOM.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/DOOM.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/DOOM.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/red-robot.jpg
+convert: unable to open image '/red-robot.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/red-robot.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/retro-2000s.jpg
+convert: unable to open image '/retro-2000s.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/retro-2000s.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/dark-well.jpg
+convert: unable to open image '/dark-well.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/dark-well.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/Windows_11-1.jpg
+convert: unable to open image '/Windows_11-1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/Windows_11-1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/Windows_11-2.jpg
+convert: unable to open image '/Windows_11-2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/Windows_11-2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/Windows_11-3.jpg
+convert: unable to open image '/Windows_11-3.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/Windows_11-3.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/Windows_11-4.jpg
+convert: unable to open image '/Windows_11-4.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/Windows_11-4.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/Windows_11-5.jpg
+convert: unable to open image '/Windows_11-5.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/Windows_11-5.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/Windows_11-6.jpg
+convert: unable to open image '/Windows_11-6.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/Windows_11-6.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/Windows_11-7.jpg
+convert: unable to open image '/Windows_11-7.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/Windows_11-7.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/Windows_11-8.jpg
+convert: unable to open image '/Windows_11-8.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/Windows_11-8.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/Windows_11-9.jpg
+convert: unable to open image '/Windows_11-9.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/Windows_11-9.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Old/decomposed-laptop.png
+convert: unable to open image '/decomposed-laptop.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/decomposed-laptop.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/decomposed-laptop.png
+Creating preview for /home/iori/Pictures/Wallpapers/Old/gruvbox_dark-well.jpg
+convert: unable to open image '/gruvbox_dark-well.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Old/gruvbox_dark-well.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/The Legend of Speed/AMG.jpg
+convert: unable to open image '/AMG.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/The Legend of Speed/AMG.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/The Legend of Speed/GTR.jpg
+convert: unable to open image '/GTR.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/The Legend of Speed/GTR.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/The Legend of Speed/911-RSR.jpg
+convert: unable to open image '/911-RSR.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/The Legend of Speed/911-RSR.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/The Legend of Speed/Mustang.jpg
+convert: unable to open image '/Mustang.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/The Legend of Speed/Mustang.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/The Legend of Speed/Mini.jpg
+convert: unable to open image '/Mini.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/The Legend of Speed/Mini.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/The Legend of Speed/EVO.jpg
+convert: unable to open image '/EVO.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/The Legend of Speed/EVO.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/The Legend of Speed/Supra.jpg
+convert: unable to open image '/Supra.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/The Legend of Speed/Supra.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/The Legend of Speed/Subaru-BRZ.jpg
+convert: unable to open image '/Subaru-BRZ.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/The Legend of Speed/Subaru-BRZ.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/The Legend of Speed/M2.jpg
+convert: unable to open image '/M2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/The Legend of Speed/M2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/SULCE/Sulce_1.png
+convert: unable to open image '/Sulce_1.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Sulce_1.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/SULCE/Sulce_1.png
+Creating preview for /home/iori/Pictures/Wallpapers/SULCE/Sulce_2.png
+convert: unable to open image '/Sulce_2.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Sulce_2.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/SULCE/Sulce_2.png
+Creating preview for /home/iori/Pictures/Wallpapers/SULCE/Sulce_3.png
+convert: unable to open image '/Sulce_3.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Sulce_3.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/SULCE/Sulce_3.png
+Creating preview for /home/iori/Pictures/Wallpapers/SULCE/Sulce_4.png
+convert: unable to open image '/Sulce_4.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Sulce_4.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/SULCE/Sulce_4.png
+Creating preview for /home/iori/Pictures/Wallpapers/SULCE/Sulce_5.png
+convert: unable to open image '/Sulce_5.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Sulce_5.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/SULCE/Sulce_5.png
+Creating preview for /home/iori/Pictures/Wallpapers/SULCE/Sulce_6.png
