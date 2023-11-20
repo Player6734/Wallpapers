@@ -3,8 +3,8 @@
 # Set the Pictures directory and the Previews directory.
 PICTURES_DIR=$(pwd)
 PREVIEWS_DIR="$PICTURES_DIR/.previews"
-
-
+SUBDIR_HTML_DIR="subdir-html"  # Name of the new directory to store HTML files
+mkdir -p "$SUBDIR_HTML_DIR"
 
 cat << EOF > styles.css
 body {
@@ -82,7 +82,8 @@ create_preview() {
 create_subdir_index() {
     local dir_path="$1"
     local subdir_name=$(basename "$dir_path")
-    local subdir_html_file="$PICTURES_DIR/${subdir_name}.html"
+    local subdir_html_file="${SUBDIR_HTML_DIR}/${subdir_name}.html"  # Save HTML in the subdir-html folder
+
 
     # Write the header of the subdir index file
     write_header "$subdir_html_file" "$subdir_name"
@@ -132,7 +133,7 @@ write_img() {
 # Create the main index file with a header
 
 # Loop through each folder in the Pictures directory to create subdir HTMLs
-for subdir in "$PICTURES_DIR"/*/; do
+for subdir in "${PICTURES_DIR}"/*/; do
     if [ -d "$subdir" ]; then
         create_subdir_index "$subdir"
     fi
