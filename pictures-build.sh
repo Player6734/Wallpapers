@@ -77,13 +77,11 @@ create_preview() {
 
 
 
-# Function to create an HTML file for a subdirectory showing all images
-create_subdir_index() {
-    local dir_path="${1%/}"  # Remove trailing slash
+# Function to create an HTML file for a subdirectory and process images
+process_directory_and_create_previews() {
+    local dir_path="$1"
     local relative_path="${dir_path#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
-    local html_file_name="${relative_path//\//-}"  # Replace '/' with '-'
-    html_file_name="${html_file_name%-}.html"  # Remove trailing '-' and add .html
-
+    local html_file_name="${relative_path//\//-}.html"  # Replace '/' with '-' in file name
     local html_file_path="${SUBDIR_HTML_DIR}/${html_file_name}"
 
     # Write the header for the HTML file
@@ -92,20 +90,26 @@ create_subdir_index() {
     # Process images in the directory
     for img_file in "$dir_path"/*.{jpg,jpeg,png,avif,webp}; do
         if [ -f "$img_file" ]; then
+            # Process the image for HTML
             write_img "$img_file" "$html_file_path"
+
+            # Create a preview image
+            local file_name=$(basename "$img_file")
+            create_preview "$img_file" "${PREVIEW_DIR}/$file_name"
         fi
     done
 
     # Recursively process subdirectories
     for subdir in "$dir_path"/*/; do
         if [ -d "$subdir" ]; then
-            create_subdir_index "$subdir"
+            process_directory_and_create_previews "$subdir"
         fi
     done
 
     # Finalize the HTML file
     echo "</body></html>" >> "$html_file_path"
 }
+
 
 
 
@@ -209,12 +213,13 @@ EOF
 }
 
 
-# Loop through each folder in the Pictures directory to create subdir HTMLs
-for subdir in "${PICTURES_DIR}"/*/; do
+# Main script execution
+for subdir in "$PICTURES_DIR"/*/; do
     if [ -d "$subdir" ]; then
-        create_subdir_index "$subdir"
+        process_directory_and_create_previews "$subdir"
     fi
 done
+
 
 
 find "$PICTURES_DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.avif" -o -name "*.webp" \) | while read img_file; do
