@@ -32,8 +32,12 @@ create_preview() {
 
     if [ "$original_height" -ne 0 ]; then
         local new_width=$((desired_height * original_width / original_height))
-        convert "$original_file" -strip -quality 75 -resize "${new_width}x${desired_height}" "$preview_file"
-        echo "Preview created: $preview_file" >> debug.log
+        convert "$original_file" -strip -quality 75 -resize "${new_width}x${desired_height}" "$preview_file" 2>> debug.log
+        if [ $? -eq 0 ]; then
+            echo "Preview successfully created: $preview_file" >> debug.log
+        else
+            echo "Error during conversion for $original_file" >> debug.log
+        fi
     else
         echo "Error: Unable to read image dimensions for $original_file" >> debug.log
     fi
