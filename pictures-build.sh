@@ -81,19 +81,25 @@ create_preview() {
 # Function to create an HTML file for a subdirectory showing all images
 create_subdir_index() {
     local dir_path="$1"
-    local subdir_name=$(basename "$dir_path")
-    local subdir_html_file="${SUBDIR_HTML_DIR}/${subdir_name}.html"
+    local relative_path="${dir_path#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
+    local html_file_name="${relative_path//\//-}.html"  # Replace '/' with '-' in file name
+    local html_file_path="${SUBDIR_HTML_DIR}/${html_file_name}"
 
-    # Write the header of the subdir index file
-    write_header "$subdir_html_file" "$subdir_name"
+    # Write the header for the HTML file
+    write_header "$html_file_path" "$(basename "$dir_path")"
 
-    # Loop through each image file in the subdirectory and add it to the HTML
-    find "$dir_path" -maxdepth 1 -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" -o -name "*.avif" \) | while read file_path; do
-        write_img "$file_path" "$subdir_html_file" "$subdir_name"
+    # Process images in the directory
+    process_images "$dir_path" "$html_file_path"
+
+    # Recursively process subdirectories
+    for subdir in "$dir_path"/*/; do
+        if [ -d "$subdir" ]; then
+            create_subdir_index "$subdir"
+        fi
     done
 
     # Finalize the HTML file
-    echo "</body></html>" >> "$subdir_html_file"
+    echo "</body></html>" >> "$html_file_path"
 }
 
 # Function to write the header of the HTML file
