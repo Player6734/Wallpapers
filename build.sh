@@ -83,7 +83,7 @@ for subdir in "$PICTURES_DIR"/*/; do
 done
 
 # Generate main index previews after subdir HTMLs to ensure the preview images exist
-create_main_index "$PICTURES_DIR" "$INDEX_FILE"
+# create_main_index "$PICTURES_DIR" "$INDEX_FILE"
 
 # Finalize the main index HTML file
 echo "</body></html>" >> "$INDEX_FILE"
@@ -128,7 +128,7 @@ EOF
 </html>
 EOF
 }
-x
+
 create_index_html
 
 
