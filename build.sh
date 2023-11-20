@@ -57,21 +57,6 @@ write_img() {
     echo "<img src=\"$file_path\" alt=\"$(basename "$file_path")\" style='height:200px;'>" >> "$output_file"
 }
 
-# Create the main index file with a header
-INDEX_FILE="$PICTURES_DIR/index.html"
-
-# Loop through each folder in the Pictures directory to create subdir HTMLs
-for subdir in "$PICTURES_DIR"/*/; do
-    if [ -d "$subdir" ]; then
-        create_subdir_index "$subdir"
-    fi
-done
-
-# Generate main index previews after subdir HTMLs to ensure the preview images exist
-# create_main_index "$PICTURES_DIR" "$INDEX_FILE"
-
-# Finalize the main index HTML file
-echo "</body></html>" >> "$INDEX_FILE"
 
 # Function to create index.html
 create_index_html() {
