@@ -128,6 +128,7 @@ EOF
 </html>
 EOF
 }
+create_index_html
 
 
 echo "Script completed."
