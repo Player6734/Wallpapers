@@ -98,18 +98,18 @@ create_index_html() {
     <title>Index of Folders</title>
 </head>
 <body>
-    <h3>Index of Folders</h3>
+
 EOF
 
     for folder in */ ; do
         folder_name=${folder%/}
         echo "<div class='folder-entry'>" >> index.html
-        echo "<h3><a href='${folder_name}.html'>$folder_name</a></h3>" >> index.html  # Titles as h1
+        echo "<h3><a href='${folder_name}.html'>$folder_name</a></h3>" >> index.html  # Titles as h3
 
-        # Add up to four images from the folder, with a height limit of 200 pixels
+        # Add up to four images from the .preview folder, with a height limit of 200 pixels
         img_count=0
         for img_format in jpg jpeg png avif webp; do
-            for img in "${folder}"*.$img_format; do
+            for img in ".preview/${folder_name}"*.$img_format; do
                 if [ $img_count -ge 4 ]; then
                     break 2  # Exit both loops when 4 images have been added
                 fi
@@ -128,6 +128,7 @@ EOF
 </html>
 EOF
 }
+
 
 create_index_html
 
