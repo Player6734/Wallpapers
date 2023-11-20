@@ -12,6 +12,10 @@ create_preview() {
     local original_file="$1"
     local preview_file="$2"
     local desired_height=200  # Set your desired height for the preview image
+    if [ -z "$original_file" ]; then
+        echo "No file name provided for preview creation" >> debug.log
+        return
+    fi
 
     echo "Checking preview for: $original_file" >> debug.log
 
