@@ -153,23 +153,27 @@ EOF
         echo "<div class='folder-entry'>" >> index.html
         echo "<h3><a href='${folder_name}.html'>$folder_name</a></h3>" >> index.html
 
-        # Add up to four images from the .preview folder, with a height limit of 200 pixels
-        img_count=0
-        for img_format in jpg jpeg png avif webp; do
-            for original_img in "${folder}"*.$img_format; do
-                # Extract only the file name from the path
-                file_name=$(basename "$original_img")
-                preview_img=".preview/$file_name"
-                if [ $img_count -ge 4 ]; then
-                    break 2  # Exit both loops when 4 images have been added
-                fi
-                if [ -f "$preview_img" ]; then  # Check if the preview file actually exists
-                echo "<a href='${folder_name}/${file_name}' target='_blank'><img src='.preview/${file_name}' alt='$folder_name Image' style='height: 200px;'></a>" >> index.html
+        # Initialize a counter for the images
+        local img_count=0
 
-                else
-                    echo "Preview image not found for: $original_img" >> debug.log  # Add debug information
-                fi
-            done
+        # Loop through image files in the folder, sorted by name
+        for img_file in "${folder}"*.{jpg,jpeg,png,avif,webp}; do
+            # Only proceed if it's a file
+            if [ -f "$img_file" ] && [ $img_count -lt 4 ]; then
+                # Increment the counter
+                ((img_count++))
+
+                # Extract just the file name
+                file_name=$(basename "$img_file")
+
+                # Add the image and link to the original image in the index.html
+                echo "<a href='${folder}${file_name}' target='_blank'><img src='.preview/${file_name}' alt='$folder_name Image' style='height: 200px;'></a>" >> index.html
+            fi
+
+            # Break the loop if we have already added four images
+            if [ $img_count -eq 4 ]; then
+                break
+            fi
         done
 
         echo "</div>" >> index.html
@@ -180,6 +184,10 @@ EOF
 </html>
 EOF
 }
+
+# Call the function to create index.html
+create_index_html
+
 
 
 
