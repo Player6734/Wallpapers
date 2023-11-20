@@ -208,23 +208,8 @@ for subdir in "${PICTURES_DIR}"/*/; do
 done
 
 
-for folder in */ ; do
-    for img_file in "${folder}"*; do
-        # Extract file extension and check if it's a valid image format
-        file_extension="${img_file##*.}"
-        case "$file_extension" in
-            jpg|jpeg|png|avif|webp)
-                # It's a valid image file, process it
-                file_name=$(basename "$img_file")
-                create_preview "$img_file" ".preview/$file_name"
-                ;;
-            *)
-                # Not a valid image file, skip it
-                echo "Skipping non-image file: $img_file" >> debug.log
-                ;;
-        esac
-    done
-done
+find "$PICTURES_DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.avif" -o -name "*.webp" \) -exec bash -c 'create_preview "{}" ".preview/$(basename "{}")"' \;
+
 
 create_index_html
 
