@@ -89,7 +89,7 @@ create_subdir_index() {
     write_header "$html_file_path" "$(basename "$dir_path")"
 
     # Process images in the directory
-    process_images "$dir_path" "$html_file_path"
+    write_img "$dir_path" "$html_file_path"
 
     # Recursively process subdirectories
     for subdir in "$dir_path"/*/; do
@@ -127,13 +127,14 @@ EOF
 write_img() {
     local file_path="$1"
     local output_file="$2"
-    local subdir_name="$3"
     local file_name=$(basename "$file_path")
-    local preview_path="../.preview/$file_name"  # Adjust the path to your preview directory structure
+    local preview_path="../${PREVIEW_DIR}/$file_name"  # Path to the preview image
 
     # Write the image tag wrapped in an anchor tag to the HTML file
-    echo "<a href=\"../${subdir_name}/${file_name}\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
+    # Link to the original image and use the preview image as the source
+    echo "<a href=\"../${file_path}\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
 }
+
 
 
 # Create the main index file with a header
