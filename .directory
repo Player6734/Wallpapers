@@ -2,7 +2,9 @@
 Icon=start-here
 
 [Dolphin]
-Timestamp=2023,11,20,16,53,27.576999999999998
+SortOrder=1
+SortRole=modificationtime
+Timestamp=2023,11,20,19,55,54.651
 Version=4
 ViewMode=1
 
