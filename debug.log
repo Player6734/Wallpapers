@@ -1,792 +1,1338 @@
 Checking preview for: /home/iori/Pictures/Wallpapers/AVIF//earth.avif
-Creating preview for /home/iori/Pictures/Wallpapers/AVIF//earth.avif
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/AVIF//earth.avif: Width=5120, Height=2880
-Processing file: /home/iori/Pictures/Wallpapers/AVIF//earth.avif
-convert: unable to open image '/earth.avif': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/AVIF//earth.avif
+Invalid preview file path: /earth.avif
 Checking preview for: /home/iori/Pictures/Wallpapers/AVIF//Firewatch.avif
-Creating preview for /home/iori/Pictures/Wallpapers/AVIF//Firewatch.avif
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/AVIF//Firewatch.avif: Width=1920, Height=1080
-Processing file: /home/iori/Pictures/Wallpapers/AVIF//Firewatch.avif
-convert: unable to open image '/Firewatch.avif': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/AVIF//Firewatch.avif
+Invalid preview file path: /Firewatch.avif
 Checking preview for: /home/iori/Pictures/Wallpapers/AVIF//frog-party.avif
-Creating preview for /home/iori/Pictures/Wallpapers/AVIF//frog-party.avif
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/AVIF//frog-party.avif: Width=2560, Height=1600
-Processing file: /home/iori/Pictures/Wallpapers/AVIF//frog-party.avif
-convert: unable to open image '/frog-party.avif': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/AVIF//frog-party.avif
+Invalid preview file path: /frog-party.avif
 Checking preview for: /home/iori/Pictures/Wallpapers/AVIF//Landscape.avif
-Creating preview for /home/iori/Pictures/Wallpapers/AVIF//Landscape.avif
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/AVIF//Landscape.avif: Width=5120, Height=3200
-Processing file: /home/iori/Pictures/Wallpapers/AVIF//Landscape.avif
-convert: unable to open image '/Landscape.avif': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/AVIF//Landscape.avif
+Invalid preview file path: /Landscape.avif
 Checking preview for: /home/iori/Pictures/Wallpapers/AVIF//low-polly-mountan.avif
-Creating preview for /home/iori/Pictures/Wallpapers/AVIF//low-polly-mountan.avif
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/AVIF//low-polly-mountan.avif: Width=1920, Height=1080
-Processing file: /home/iori/Pictures/Wallpapers/AVIF//low-polly-mountan.avif
-convert: unable to open image '/low-polly-mountan.avif': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/AVIF//low-polly-mountan.avif
+Invalid preview file path: /low-polly-mountan.avif
 Checking preview for: /home/iori/Pictures/Wallpapers/AVIF//Zelda_Ghib.avif
-Creating preview for /home/iori/Pictures/Wallpapers/AVIF//Zelda_Ghib.avif
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/AVIF//Zelda_Ghib.avif: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/AVIF//Zelda_Ghib.avif
-convert: unable to open image '/Zelda_Ghib.avif': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/AVIF//Zelda_Ghib.avif
+Invalid preview file path: /Zelda_Ghib.avif
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//10.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//10.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//10.jpg: Width=2000, Height=2500
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//10.jpg
-convert: unable to open image '/10.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//10.jpg
+Invalid preview file path: /10.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//14.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//14.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//14.jpg: Width=3000, Height=3750
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//14.jpg
-convert: unable to open image '/14.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//14.jpg
+Invalid preview file path: /14.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//15.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//15.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//15.jpg: Width=4000, Height=5000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//15.jpg
-convert: unable to open image '/15.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//15.jpg
+Invalid preview file path: /15.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//16.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//16.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//16.jpg: Width=3200, Height=4000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//16.jpg
-convert: unable to open image '/16.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//16.jpg
+Invalid preview file path: /16.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//17.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//17.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//17.jpg: Width=3200, Height=4000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//17.jpg
-convert: unable to open image '/17.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//17.jpg
+Invalid preview file path: /17.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//1.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//1.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//1.jpg: Width=4000, Height=5000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//1.jpg
-convert: unable to open image '/1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//1.jpg
+Invalid preview file path: /1.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//21.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//21.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//21.jpg: Width=3048, Height=3810
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//21.jpg
-convert: unable to open image '/21.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//21.jpg
+Invalid preview file path: /21.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//22.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//22.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//22.jpg: Width=3200, Height=4000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//22.jpg
-convert: unable to open image '/22.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//22.jpg
+Invalid preview file path: /22.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//23.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//23.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//23.jpg: Width=4256, Height=4932
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//23.jpg
-convert: unable to open image '/23.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//23.jpg
+Invalid preview file path: /23.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//2.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//2.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//2.jpg: Width=4000, Height=5000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//2.jpg
-convert: unable to open image '/2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//2.jpg
+Invalid preview file path: /2.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//3.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//3.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//3.jpg: Width=4000, Height=5000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//3.jpg
-convert: unable to open image '/3.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//3.jpg
+Invalid preview file path: /3.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//4.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//4.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//4.jpg: Width=4000, Height=5000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//4.jpg
-convert: unable to open image '/4.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//4.jpg
+Invalid preview file path: /4.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//5.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//5.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//5.jpg: Width=4000, Height=5000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//5.jpg
-convert: unable to open image '/5.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//5.jpg
+Invalid preview file path: /5.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//6.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//6.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//6.jpg: Width=5200, Height=2925
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//6.jpg
-convert: unable to open image '/6.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//6.jpg
+Invalid preview file path: /6.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//7.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//7.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//7.jpg: Width=4000, Height=5000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//7.jpg
-convert: unable to open image '/7.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//7.jpg
+Invalid preview file path: /7.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//8.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//8.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//8.jpg: Width=4000, Height=5000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//8.jpg
-convert: unable to open image '/8.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//8.jpg
+Invalid preview file path: /8.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//9.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//9.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//9.jpg: Width=3000, Height=3750
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//9.jpg
-convert: unable to open image '/9.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//9.jpg
+Invalid preview file path: /9.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_10.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_10.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_10.jpg: Width=1440, Height=1800
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_10.jpg
-convert: unable to open image '/Baka_CO_10.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_10.jpg
+Invalid preview file path: /Baka_CO_10.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_11.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_11.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_11.jpg: Width=1440, Height=1800
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_11.jpg
-convert: unable to open image '/Baka_CO_11.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_11.jpg
+Invalid preview file path: /Baka_CO_11.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_1.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_1.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_1.jpg: Width=2000, Height=2500
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_1.jpg
-convert: unable to open image '/Baka_CO_1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_1.jpg
+Invalid preview file path: /Baka_CO_1.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_2.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_2.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_2.jpg: Width=2000, Height=2500
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_2.jpg
-convert: unable to open image '/Baka_CO_2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_2.jpg
+Invalid preview file path: /Baka_CO_2.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_3.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_3.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_3.jpg: Width=2000, Height=2500
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_3.jpg
-convert: unable to open image '/Baka_CO_3.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_3.jpg
+Invalid preview file path: /Baka_CO_3.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_4.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_4.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_4.jpg: Width=2000, Height=2500
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_4.jpg
-convert: unable to open image '/Baka_CO_4.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_4.jpg
+Invalid preview file path: /Baka_CO_4.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_5.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_5.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_5.jpg: Width=800, Height=1000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_5.jpg
-convert: unable to open image '/Baka_CO_5.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_5.jpg
+Invalid preview file path: /Baka_CO_5.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_6.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_6.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_6.jpg: Width=2000, Height=2500
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_6.jpg
-convert: unable to open image '/Baka_CO_6.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_6.jpg
+Invalid preview file path: /Baka_CO_6.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_7.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_7.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_7.jpg: Width=2000, Height=2500
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_7.jpg
-convert: unable to open image '/Baka_CO_7.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_7.jpg
+Invalid preview file path: /Baka_CO_7.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_8.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_8.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_8.jpg: Width=1600, Height=2000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_8.jpg
-convert: unable to open image '/Baka_CO_8.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_8.jpg
+Invalid preview file path: /Baka_CO_8.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_9.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_9.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_9.jpg: Width=1800, Height=2250
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_9.jpg
-convert: unable to open image '/Baka_CO_9.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_9.jpg
+Invalid preview file path: /Baka_CO_9.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_1.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_1.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_1.jpg: Width=3000, Height=3750
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_1.jpg
-convert: unable to open image '/Person-R_1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_1.jpg
+Invalid preview file path: /Person-R_1.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_2.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_2.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_2.jpg: Width=3000, Height=3750
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_2.jpg
-convert: unable to open image '/Person-R_2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_2.jpg
+Invalid preview file path: /Person-R_2.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_3.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_3.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_3.jpg: Width=3000, Height=3750
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_3.jpg
-convert: unable to open image '/Person-R_3.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_3.jpg
+Invalid preview file path: /Person-R_3.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_1.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_1.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_1.jpg: Width=3000, Height=3750
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_1.jpg
-convert: unable to open image '/Person-T_1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_1.jpg
+Invalid preview file path: /Person-T_1.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_2.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_2.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_2.jpg: Width=3000, Height=3750
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_2.jpg
-convert: unable to open image '/Person-T_2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_2.jpg
+Invalid preview file path: /Person-T_2.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_3.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_3.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_3.jpg: Width=3000, Height=3750
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_3.jpg
-convert: unable to open image '/Person-T_3.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_3.jpg
+Invalid preview file path: /Person-T_3.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_1.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_1.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_1.jpg: Width=3000, Height=3750
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_1.jpg
-convert: unable to open image '/Person-W_1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_1.jpg
+Invalid preview file path: /Person-W_1.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_2.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_2.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_2.jpg: Width=3000, Height=3750
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_2.jpg
-convert: unable to open image '/Person-W_2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_2.jpg
+Invalid preview file path: /Person-W_2.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_3.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_3.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_3.jpg: Width=3000, Height=3750
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_3.jpg
-convert: unable to open image '/Person-W_3.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_3.jpg
+Invalid preview file path: /Person-W_3.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//RESULT.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//RESULT.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//RESULT.jpg: Width=1080, Height=1080
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//RESULT.jpg
-convert: unable to open image '/RESULT.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//RESULT.jpg
+Invalid preview file path: /RESULT.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//11.png
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//11.png
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//11.png: Width=3200, Height=4000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//11.png
-convert: unable to open image '/11.png': Permission denied @ error/blob.c/OpenBlob/3569.
-convert: WriteBlob Failed `/11.png' @ error/png.c/MagickPNGErrorHandler/1492.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//11.png
+Invalid preview file path: /11.png
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//24.png
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//24.png
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//24.png: Width=4000, Height=5000
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//24.png
-convert: unable to open image '/24.png': Permission denied @ error/blob.c/OpenBlob/3569.
-convert: WriteBlob Failed `/24.png' @ error/png.c/MagickPNGErrorHandler/1492.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//24.png
+Invalid preview file path: /24.png
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_1.png
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_1.png
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_1.png: Width=2000, Height=2500
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_1.png
-convert: unable to open image '/Person-M_1.png': Permission denied @ error/blob.c/OpenBlob/3569.
-convert: WriteBlob Failed `/Person-M_1.png' @ error/png.c/MagickPNGErrorHandler/1492.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_1.png
+Invalid preview file path: /Person-M_1.png
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_2.png
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_2.png
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_2.png: Width=2000, Height=2500
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_2.png
-convert: unable to open image '/Person-M_2.png': Permission denied @ error/blob.c/OpenBlob/3569.
-convert: WriteBlob Failed `/Person-M_2.png' @ error/png.c/MagickPNGErrorHandler/1492.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_2.png
+Invalid preview file path: /Person-M_2.png
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_3.png
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_3.png
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_3.png: Width=2000, Height=2500
-Processing file: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_3.png
-convert: unable to open image '/Person-M_3.png': Permission denied @ error/blob.c/OpenBlob/3569.
-convert: WriteBlob Failed `/Person-M_3.png' @ error/png.c/MagickPNGErrorHandler/1492.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_3.png
+Invalid preview file path: /Person-M_3.png
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-01.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-01.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-01.jpg
-convert: unable to open image '/Betta-Fish-01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-01.jpg
+Invalid preview file path: /Betta-Fish-01.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-02.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-02.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-02.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-02.jpg
-convert: unable to open image '/Betta-Fish-02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-02.jpg
+Invalid preview file path: /Betta-Fish-02.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-03.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-03.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-03.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-03.jpg
-convert: unable to open image '/Betta-Fish-03.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-03.jpg
+Invalid preview file path: /Betta-Fish-03.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-04.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-04.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-04.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-04.jpg
-convert: unable to open image '/Betta-Fish-04.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-04.jpg
+Invalid preview file path: /Betta-Fish-04.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-05.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-05.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-05.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-05.jpg
-convert: unable to open image '/Betta-Fish-05.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-05.jpg
+Invalid preview file path: /Betta-Fish-05.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-06.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-06.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-06.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-06.jpg
-convert: unable to open image '/Betta-Fish-06.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-06.jpg
+Invalid preview file path: /Betta-Fish-06.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-07.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-07.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-07.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-07.jpg
-convert: unable to open image '/Betta-Fish-07.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-07.jpg
+Invalid preview file path: /Betta-Fish-07.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-08.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-08.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-08.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-08.jpg
-convert: unable to open image '/Betta-Fish-08.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-08.jpg
+Invalid preview file path: /Betta-Fish-08.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-09.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-09.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-09.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-09.jpg
-convert: unable to open image '/Betta-Fish-09.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-09.jpg
+Invalid preview file path: /Betta-Fish-09.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-10.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-10.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-10.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-10.jpg
-convert: unable to open image '/Betta-Fish-10.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-10.jpg
+Invalid preview file path: /Betta-Fish-10.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-11.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-11.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-11.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-11.jpg
-convert: unable to open image '/Betta-Fish-11.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-11.jpg
+Invalid preview file path: /Betta-Fish-11.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-12.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-12.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-12.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-12.jpg
-convert: unable to open image '/Betta-Fish-12.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-12.jpg
+Invalid preview file path: /Betta-Fish-12.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-13.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-13.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-13.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-13.jpg
-convert: unable to open image '/Betta-Fish-13.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-13.jpg
+Invalid preview file path: /Betta-Fish-13.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-14.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-14.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-14.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-14.jpg
-convert: unable to open image '/Betta-Fish-14.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-14.jpg
+Invalid preview file path: /Betta-Fish-14.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-15.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-15.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-15.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-15.jpg
-convert: unable to open image '/Betta-Fish-15.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-15.jpg
+Invalid preview file path: /Betta-Fish-15.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-16.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-16.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-16.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-16.jpg
-convert: unable to open image '/Betta-Fish-16.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-16.jpg
+Invalid preview file path: /Betta-Fish-16.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-17.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-17.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-17.jpg: Width=4096, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-17.jpg
-convert: unable to open image '/Betta-Fish-17.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-17.jpg
+Invalid preview file path: /Betta-Fish-17.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Cars//911-DownRoad.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Cars//911-DownRoad.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Cars//911-DownRoad.jpg: Width=2256, Height=1504
-Processing file: /home/iori/Pictures/Wallpapers/Cars//911-DownRoad.jpg
-convert: unable to open image '/911-DownRoad.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Cars//911-DownRoad.jpg
+Invalid preview file path: /911-DownRoad.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Cars//911-Station.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Cars//911-Station.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Cars//911-Station.jpg: Width=2256, Height=1504
-Processing file: /home/iori/Pictures/Wallpapers/Cars//911-Station.jpg
-convert: unable to open image '/911-Station.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Cars//911-Station.jpg
+Invalid preview file path: /911-Station.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Cars//Ford-GT40.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Cars//Ford-GT40.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Cars//Ford-GT40.jpg: Width=2256, Height=1504
-Processing file: /home/iori/Pictures/Wallpapers/Cars//Ford-GT40.jpg
-convert: unable to open image '/Ford-GT40.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Cars//Ford-GT40.jpg
+Invalid preview file path: /Ford-GT40.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Cars//Pikes-peak.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Cars//Pikes-peak.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Cars//Pikes-peak.jpg: Width=2256, Height=1504
-Processing file: /home/iori/Pictures/Wallpapers/Cars//Pikes-peak.jpg
-convert: unable to open image '/Pikes-peak.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Cars//Pikes-peak.jpg
+Invalid preview file path: /Pikes-peak.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Cars//Pikes-peak-Sunset.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Cars//Pikes-peak-Sunset.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Cars//Pikes-peak-Sunset.jpg: Width=2256, Height=1504
-Processing file: /home/iori/Pictures/Wallpapers/Cars//Pikes-peak-Sunset.jpg
-convert: unable to open image '/Pikes-peak-Sunset.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Cars//Pikes-peak-Sunset.jpg
+Invalid preview file path: /Pikes-peak-Sunset.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Chosen_Desktop.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Chosen_Desktop.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Chosen_Desktop.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Chosen_Desktop.jpg
-convert: unable to open image '/Chosen_Desktop.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Chosen_Desktop.jpg
+Invalid preview file path: /Chosen_Desktop.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B01.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B01.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B01.jpg
-convert: unable to open image '/E_B01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B01.jpg
+Invalid preview file path: /E_B01.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B02.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B02.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B02.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B02.jpg
-convert: unable to open image '/E_B02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B02.jpg
+Invalid preview file path: /E_B02.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Eternal_God.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Eternal_God.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Eternal_God.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Eternal_God.jpg
-convert: unable to open image '/Eternal_God.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Eternal_God.jpg
+Invalid preview file path: /Eternal_God.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Future_Ramen.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Future_Ramen.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Future_Ramen.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Future_Ramen.jpg
-convert: unable to open image '/Future_Ramen.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Future_Ramen.jpg
+Invalid preview file path: /Future_Ramen.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Chosen_Desktop.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Chosen_Desktop.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Chosen_Desktop.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Chosen_Desktop.jpg
-convert: unable to open image '/gruvbox_Chosen_Desktop.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Chosen_Desktop.jpg
+Invalid preview file path: /gruvbox_Chosen_Desktop.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B01.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B01.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B01.jpg
-convert: unable to open image '/gruvbox_E_B01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B01.jpg
+Invalid preview file path: /gruvbox_E_B01.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B02.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B02.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B02.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B02.jpg
-convert: unable to open image '/gruvbox_E_B02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B02.jpg
+Invalid preview file path: /gruvbox_E_B02.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Eternal_God.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Eternal_God.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Eternal_God.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Eternal_God.jpg
-convert: unable to open image '/gruvbox_Eternal_God.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Eternal_God.jpg
+Invalid preview file path: /gruvbox_Eternal_God.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Future_Ramen.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Future_Ramen.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Future_Ramen.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Future_Ramen.jpg
-convert: unable to open image '/gruvbox_Future_Ramen.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Future_Ramen.jpg
+Invalid preview file path: /gruvbox_Future_Ramen.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Heal.EXE.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Heal.EXE.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Heal.EXE.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Heal.EXE.jpg
-convert: unable to open image '/gruvbox_Heal.EXE.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Heal.EXE.jpg
+Invalid preview file path: /gruvbox_Heal.EXE.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Lost_Kids.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Lost_Kids.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Lost_Kids.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Lost_Kids.jpg
-convert: unable to open image '/gruvbox_Lost_Kids.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Lost_Kids.jpg
+Invalid preview file path: /gruvbox_Lost_Kids.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_MX_76.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_MX_76.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_MX_76.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_MX_76.jpg
-convert: unable to open image '/gruvbox_MX_76.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_MX_76.jpg
+Invalid preview file path: /gruvbox_MX_76.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Nira_and_Mona.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Nira_and_Mona.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Nira_and_Mona.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Nira_and_Mona.jpg
-convert: unable to open image '/gruvbox_Nira_and_Mona.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Nira_and_Mona.jpg
+Invalid preview file path: /gruvbox_Nira_and_Mona.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P01.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P01.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P01.jpg
-convert: unable to open image '/gruvbox_P01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P01.jpg
+Invalid preview file path: /gruvbox_P01.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P02.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P02.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P02.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P02.jpg
-convert: unable to open image '/gruvbox_P02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P02.jpg
+Invalid preview file path: /gruvbox_P02.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P03.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P03.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P03.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P03.jpg
-convert: unable to open image '/gruvbox_P03.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P03.jpg
+Invalid preview file path: /gruvbox_P03.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P6_Concept.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P6_Concept.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P6_Concept.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P6_Concept.jpg
-convert: unable to open image '/gruvbox_P6_Concept.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P6_Concept.jpg
+Invalid preview file path: /gruvbox_P6_Concept.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Pioneer_Adventure_vol1.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Pioneer_Adventure_vol1.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Pioneer_Adventure_vol1.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Pioneer_Adventure_vol1.jpg
-convert: unable to open image '/gruvbox_Pioneer_Adventure_vol1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Pioneer_Adventure_vol1.jpg
+Invalid preview file path: /gruvbox_Pioneer_Adventure_vol1.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_01.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_01.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_01.jpg
-convert: unable to open image '/gruvbox_PIONEER_Concepts_01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_01.jpg
+Invalid preview file path: /gruvbox_PIONEER_Concepts_01.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_07.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_07.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_07.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_07.jpg
-convert: unable to open image '/gruvbox_PIONEER_Concepts_07.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_07.jpg
+Invalid preview file path: /gruvbox_PIONEER_Concepts_07.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_01.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_01.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_01.jpg
-convert: unable to open image '/gruvbox_PIONEER_SP_01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_01.jpg
+Invalid preview file path: /gruvbox_PIONEER_SP_01.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_02.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_02.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_02.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_02.jpg
-convert: unable to open image '/gruvbox_PIONEER_SP_02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_02.jpg
+Invalid preview file path: /gruvbox_PIONEER_SP_02.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_03.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_03.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_03.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_03.jpg
-convert: unable to open image '/gruvbox_PIONEER_SP_03.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_03.jpg
+Invalid preview file path: /gruvbox_PIONEER_SP_03.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_04.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_04.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_04.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_04.jpg
-convert: unable to open image '/gruvbox_PIONEER_SP_04.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_04.jpg
+Invalid preview file path: /gruvbox_PIONEER_SP_04.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_05.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_05.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_05.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_05.jpg
-convert: unable to open image '/gruvbox_PIONEER_SP_05.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_05.jpg
+Invalid preview file path: /gruvbox_PIONEER_SP_05.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Robotic_Friend.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Robotic_Friend.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Robotic_Friend.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Robotic_Friend.jpg
-convert: unable to open image '/gruvbox_Robotic_Friend.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Robotic_Friend.jpg
+Invalid preview file path: /gruvbox_Robotic_Friend.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_01.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_01.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_01.jpg
-convert: unable to open image '/gruvbox_RS_DELTA_01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_01.jpg
+Invalid preview file path: /gruvbox_RS_DELTA_01.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_02.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_02.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_02.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_02.jpg
-convert: unable to open image '/gruvbox_RS_DELTA_02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_02.jpg
+Invalid preview file path: /gruvbox_RS_DELTA_02.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_04.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_04.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_04.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_04.jpg
-convert: unable to open image '/gruvbox_RS_DELTA_04.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_04.jpg
+Invalid preview file path: /gruvbox_RS_DELTA_04.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_01.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_01.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_01.jpg
-convert: unable to open image '/gruvbox_SEVEN_CRD_01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_01.jpg
+Invalid preview file path: /gruvbox_SEVEN_CRD_01.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_02.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_02.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_02.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_02.jpg
-convert: unable to open image '/gruvbox_SEVEN_CRD_02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_02.jpg
+Invalid preview file path: /gruvbox_SEVEN_CRD_02.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_04.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_04.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_04.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_04.jpg
-convert: unable to open image '/gruvbox_SEVEN_CRD_04.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_04.jpg
+Invalid preview file path: /gruvbox_SEVEN_CRD_04.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven_Industries.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven_Industries.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven_Industries.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven_Industries.jpg
-convert: unable to open image '/gruvbox_Seven_Industries.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven_Industries.jpg
+Invalid preview file path: /gruvbox_Seven_Industries.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven.jpg
-convert: unable to open image '/gruvbox_Seven.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven.jpg
+Invalid preview file path: /gruvbox_Seven.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SN_05_RE.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SN_05_RE.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SN_05_RE.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SN_05_RE.jpg
-convert: unable to open image '/gruvbox_SN_05_RE.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SN_05_RE.jpg
+Invalid preview file path: /gruvbox_SN_05_RE.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy_Darkmode.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy_Darkmode.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy_Darkmode.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy_Darkmode.jpg
-convert: unable to open image '/gruvbox_Space_Boy_Darkmode.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy_Darkmode.jpg
+Invalid preview file path: /gruvbox_Space_Boy_Darkmode.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy.jpg
-convert: unable to open image '/gruvbox_Space_Boy.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy.jpg
+Invalid preview file path: /gruvbox_Space_Boy.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Heal.EXE.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Heal.EXE.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Heal.EXE.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Heal.EXE.jpg
-convert: unable to open image '/Heal.EXE.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Heal.EXE.jpg
+Invalid preview file path: /Heal.EXE.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Lost_Kids.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Lost_Kids.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Lost_Kids.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Lost_Kids.jpg
-convert: unable to open image '/Lost_Kids.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Lost_Kids.jpg
+Invalid preview file path: /Lost_Kids.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//MX_76.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//MX_76.jpg
-Directory checked/created for .preview
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//MX_76.jpg: Width=3840, Height=2160
-Processing file: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//MX_76.jpg
-convert: unable to open image '/MX_76.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//MX_76.jpg
+Invalid preview file path: /MX_76.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Nira_and_Mona.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Nira_and_Mona.jpg
-Directory checked/created for .preview
+Invalid preview file path: /Nira_and_Mona.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P01.jpg
+Invalid preview file path: /P01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P02.jpg
+Invalid preview file path: /P02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P03.jpg
+Invalid preview file path: /P03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P6_Concept.jpg
+Invalid preview file path: /P6_Concept.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Pioneer_Adventure_vol1.jpg
+Invalid preview file path: /Pioneer_Adventure_vol1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_Concepts_01.jpg
+Invalid preview file path: /PIONEER_Concepts_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_Concepts_07.jpg
+Invalid preview file path: /PIONEER_Concepts_07.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_01.jpg
+Invalid preview file path: /PIONEER_SP_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_02.jpg
+Invalid preview file path: /PIONEER_SP_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_03.jpg
+Invalid preview file path: /PIONEER_SP_03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_04.jpg
+Invalid preview file path: /PIONEER_SP_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_05.jpg
+Invalid preview file path: /PIONEER_SP_05.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Robotic_Friend.jpg
+Invalid preview file path: /Robotic_Friend.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_01.jpg
+Invalid preview file path: /RS_DELTA_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_02.jpg
+Invalid preview file path: /RS_DELTA_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_04.jpg
+Invalid preview file path: /RS_DELTA_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_01.jpg
+Invalid preview file path: /SEVEN_CRD_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_02.jpg
+Invalid preview file path: /SEVEN_CRD_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_04.jpg
+Invalid preview file path: /SEVEN_CRD_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Seven_Industries.jpg
+Invalid preview file path: /Seven_Industries.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Seven.jpg
+Invalid preview file path: /Seven.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SN_05_RE.jpg
+Invalid preview file path: /SN_05_RE.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Space_Boy_Darkmode.jpg
+Invalid preview file path: /Space_Boy_Darkmode.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Space_Boy.jpg
+Invalid preview file path: /Space_Boy.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_1.png
+Invalid preview file path: /Eizin_Suzuki_1.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_2.png
+Invalid preview file path: /Eizin_Suzuki_2.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_3.png
+Invalid preview file path: /Eizin_Suzuki_3.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_4.png
+Invalid preview file path: /Eizin_Suzuki_4.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_5.png
+Invalid preview file path: /Eizin_Suzuki_5.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_6.png
+Invalid preview file path: /Eizin_Suzuki_6.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//forest-2.jpg
+Invalid preview file path: /forest-2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//forest-foggy-misty-cloudy.jpg
+Invalid preview file path: /forest-foggy-misty-cloudy.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_spac.jpg
+Invalid preview file path: /gruvbox_spac.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruv-sushi-streets.jpg
+Invalid preview file path: /gruv-sushi-streets.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//pacman-ghosts.jpg
+Invalid preview file path: /pacman-ghosts.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//platform.jpg
+Invalid preview file path: /platform.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//solar-system.jpg
+Invalid preview file path: /solar-system.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//sprouted_flowers.jpg
+Invalid preview file path: /sprouted_flowers.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//7731806.png
+Invalid preview file path: /7731806.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Arch.png
+Invalid preview file path: /Arch.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//board.png
+Invalid preview file path: /board.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//chinatown.png
+Invalid preview file path: /chinatown.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//finalizer.png
+Invalid preview file path: /finalizer.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_cat-waves.png
+Invalid preview file path: /gruvbox_cat-waves.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_grid.png
+Invalid preview file path: /gruvbox_grid.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_image55.png
+Invalid preview file path: /gruvbox_image55.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_minimal_space.png
+Invalid preview file path: /gruvbox_minimal_space.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox-pacman-ghosts.png
+Invalid preview file path: /gruvbox-pacman-ghosts.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvb_solarsys.png
+Invalid preview file path: /gruvb_solarsys.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//haz-mat.png
+Invalid preview file path: /haz-mat.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//PJbX0MG.png
+Invalid preview file path: /PJbX0MG.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//qcqKfdZ.png
+Invalid preview file path: /qcqKfdZ.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//repair.png
+Invalid preview file path: /repair.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//solar-system-minimal.png
+Invalid preview file path: /solar-system-minimal.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//sve.png
+Invalid preview file path: /sve.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//wallpaper.png
+Invalid preview file path: /wallpaper.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//wp11058333.png
+Invalid preview file path: /wp11058333.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//classroom.jpg
+Invalid preview file path: /classroom.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//The-Wind-Rises.jpg
+Invalid preview file path: /The-Wind-Rises.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//wall.jpg
+Invalid preview file path: /wall.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//5m5kLI9.png
+Invalid preview file path: /5m5kLI9.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//ghibli-japanese-walled-garden.png
+Invalid preview file path: /ghibli-japanese-walled-garden.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//ign-waifu.png
+Invalid preview file path: /ign-waifu.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//my-neighbor-totoro-sunflowers.png
+Invalid preview file path: /my-neighbor-totoro-sunflowers.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//beach.jpg
+Invalid preview file path: /beach.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//berries.jpg
+Invalid preview file path: /berries.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//board.jpg
+Invalid preview file path: /board.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//bulbs.jpg
+Invalid preview file path: /bulbs.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//camera.jpg
+Invalid preview file path: /camera.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//coffee-cup.jpg
+Invalid preview file path: /coffee-cup.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//coffee-green.jpg
+Invalid preview file path: /coffee-green.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//comfy-room.jpg
+Invalid preview file path: /comfy-room.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//Excl_Autumn_Leaf.jpg
+Invalid preview file path: /Excl_Autumn_Leaf.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//ferns-green.jpg
+Invalid preview file path: /ferns-green.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flower-1.jpg
+Invalid preview file path: /flower-1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flowers-2.jpg
+Invalid preview file path: /flowers-2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flowers.jpg
+Invalid preview file path: /flowers.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//fly_agaric_mushroom_fall_foliage_117318_1920x1080.jpg
+Invalid preview file path: /fly_agaric_mushroom_fall_foliage_117318_1920x1080.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//forest-2.jpg
+Invalid preview file path: /forest-2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//forest-3.jpg
+Invalid preview file path: /forest-3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//forest.jpg
+Invalid preview file path: /forest.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//forest-river.jpg
+Invalid preview file path: /forest-river.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//girl.jpg
+Invalid preview file path: /girl.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//gruvbox-forest.jpg
+Invalid preview file path: /gruvbox-forest.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//house.jpg
+Invalid preview file path: /house.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//houseonthesideofalake.jpg
+Invalid preview file path: /houseonthesideofalake.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//lantern.jpg
+Invalid preview file path: /lantern.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//leaves-2.jpg
+Invalid preview file path: /leaves-2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//leaves.jpg
+Invalid preview file path: /leaves.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//marketplace.jpg
+Invalid preview file path: /marketplace.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//mate-2.jpg
+Invalid preview file path: /mate-2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//mate-3.jpg
+Invalid preview file path: /mate-3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//mountains2.jpg
+Invalid preview file path: /mountains2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//not-so-gruv-city.jpg
+Invalid preview file path: /not-so-gruv-city.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//rails.jpg
+Invalid preview file path: /rails.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//rain.jpg
+Invalid preview file path: /rain.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//rose01.jpg
+Invalid preview file path: /rose01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//rose.jpg
+Invalid preview file path: /rose.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//staircase.jpg
+Invalid preview file path: /staircase.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//stairs.jpg
+Invalid preview file path: /stairs.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//street.jpg
+Invalid preview file path: /street.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//sunforest.jpg
+Invalid preview file path: /sunforest.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//woods.jpg
+Invalid preview file path: /woods.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//YRAJQAT4Dg-avesta-rezaeizadeh-unsplash.jpg
+Invalid preview file path: /YRAJQAT4Dg-avesta-rezaeizadeh-unsplash.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//cactus.png
+Invalid preview file path: /cactus.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//Colors.png
+Invalid preview file path: /Colors.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//forest-foggy-misty-cloudy.png
+Invalid preview file path: /forest-foggy-misty-cloudy.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//forest-moss.png
+Invalid preview file path: /forest-moss.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//forest-mountain-cloudy-valley.png
+Invalid preview file path: /forest-mountain-cloudy-valley.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//leaves-wall.png
+Invalid preview file path: /leaves-wall.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//bird.jpg
+Invalid preview file path: /bird.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//chinese-hills.jpg
+Invalid preview file path: /chinese-hills.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//gojira.jpg
+Invalid preview file path: /gojira.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//8207838.png
+Invalid preview file path: /8207838.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//cat-coffee.png
+Invalid preview file path: /cat-coffee.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//code_blocks_light.png
+Invalid preview file path: /code_blocks_light.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//Demon Child.png
+Invalid preview file path: /Demon Child.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//gruvbox_light_linux.png
+Invalid preview file path: /gruvbox_light_linux.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//gruv-buildings.png
+Invalid preview file path: /gruv-buildings.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//Knights.png
+Invalid preview file path: /Knights.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//Kojiro.png
+Invalid preview file path: /Kojiro.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//Pages.png
+Invalid preview file path: /Pages.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//Sif.png
+Invalid preview file path: /Sif.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-light//Tranquility.png
+Invalid preview file path: /Tranquility.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//awesome.jpg
+Invalid preview file path: /awesome.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_astro.jpg
+Invalid preview file path: /gruvbox_astro.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_live-laugh-love.jpg
+Invalid preview file path: /gruvbox_live-laugh-love.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_spac.jpg
+Invalid preview file path: /gruvbox_spac.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruv.jpg
+Invalid preview file path: /gruv.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//pacman-ghosts.jpg
+Invalid preview file path: /pacman-ghosts.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//ALLqk82.png
+Invalid preview file path: /ALLqk82.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//debian_grey_swirl.png
+Invalid preview file path: /debian_grey_swirl.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//finalizer.png
+Invalid preview file path: /finalizer.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//firefox.png
+Invalid preview file path: /firefox.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//great-wave-of-kanagawa-gruvbox.png
+Invalid preview file path: /great-wave-of-kanagawa-gruvbox.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_grid.png
+Invalid preview file path: /gruvbox_grid.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-0.png
+Invalid preview file path: /gruvbox_Minimalistic-0.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-10.png
+Invalid preview file path: /gruvbox_Minimalistic-10.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-11.png
+Invalid preview file path: /gruvbox_Minimalistic-11.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-12.png
+Invalid preview file path: /gruvbox_Minimalistic-12.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-13.png
+Invalid preview file path: /gruvbox_Minimalistic-13.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-14.png
+Invalid preview file path: /gruvbox_Minimalistic-14.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-15.png
+Invalid preview file path: /gruvbox_Minimalistic-15.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-16.png
+Invalid preview file path: /gruvbox_Minimalistic-16.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-17.png
+Invalid preview file path: /gruvbox_Minimalistic-17.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-18.png
+Invalid preview file path: /gruvbox_Minimalistic-18.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-19.png
+Invalid preview file path: /gruvbox_Minimalistic-19.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-1.png
+Invalid preview file path: /gruvbox_Minimalistic-1.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-20.png
+Invalid preview file path: /gruvbox_Minimalistic-20.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-21.png
+Invalid preview file path: /gruvbox_Minimalistic-21.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-22.png
+Invalid preview file path: /gruvbox_Minimalistic-22.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-23.png
+Invalid preview file path: /gruvbox_Minimalistic-23.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-2.png
+Invalid preview file path: /gruvbox_Minimalistic-2.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-3.png
+Invalid preview file path: /gruvbox_Minimalistic-3.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-4.png
+Invalid preview file path: /gruvbox_Minimalistic-4.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-5.png
+Invalid preview file path: /gruvbox_Minimalistic-5.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-6.png
+Invalid preview file path: /gruvbox_Minimalistic-6.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-7.png
+Invalid preview file path: /gruvbox_Minimalistic-7.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-8.png
+Invalid preview file path: /gruvbox_Minimalistic-8.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_Minimalistic-9.png
+Invalid preview file path: /gruvbox_Minimalistic-9.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_minimal_space.png
+Invalid preview file path: /gruvbox_minimal_space.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvbox_void_linux.png
+Invalid preview file path: /gruvbox_void_linux.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//gruvb_solarsys.png
+Invalid preview file path: /gruvb_solarsys.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//haz-mat.png
+Invalid preview file path: /haz-mat.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//PJbX0MG.png
+Invalid preview file path: /PJbX0MG.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//solar-system-minimal.png
+Invalid preview file path: /solar-system-minimal.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//sve.png
+Invalid preview file path: /sve.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//wp11058332.png
+Invalid preview file path: /wp11058332.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-Minimalistic//wp11058333.png
+Invalid preview file path: /wp11058333.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//among-us.jpg
+Invalid preview file path: /among-us.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//astronaut.jpg
+Invalid preview file path: /astronaut.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//chinatown.jpg
+Invalid preview file path: /chinatown.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//dalek.jpg
+Invalid preview file path: /dalek.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//dead-robot.jpg
+Invalid preview file path: /dead-robot.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//flower.jpg
+Invalid preview file path: /flower.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//future-town.jpg
+Invalid preview file path: /future-town.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//futurism.jpg
+Invalid preview file path: /futurism.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//greek.jpg
+Invalid preview file path: /greek.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//gruv-sushi-streets.jpg
+Invalid preview file path: /gruv-sushi-streets.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//gruvy.jpg
+Invalid preview file path: /gruvy.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//hotline-miami.jpg
+Invalid preview file path: /hotline-miami.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//houses.jpg
+Invalid preview file path: /houses.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//platform.jpg
+Invalid preview file path: /platform.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//ruines.jpg
+Invalid preview file path: /ruines.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//satellite.jpg
+Invalid preview file path: /satellite.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//solar-system.jpg
+Invalid preview file path: /solar-system.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//spaceship_maze.jpg
+Invalid preview file path: /spaceship_maze.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//titlwinzbst81.jpg
+Invalid preview file path: /titlwinzbst81.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//wallhaven-vmk698.jpg
+Invalid preview file path: /wallhaven-vmk698.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//wallhaven-z85eoy.jpg
+Invalid preview file path: /wallhaven-z85eoy.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//wall.jpg
+Invalid preview file path: /wall.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//wolf.jpg
+Invalid preview file path: /wolf.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//xavier-cuenca-w4-3.jpg
+Invalid preview file path: /xavier-cuenca-w4-3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//gruvb99810.png
+Invalid preview file path: /gruvb99810.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//gruvbox15.png
+Invalid preview file path: /gruvbox15.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//gruv-material.png
+Invalid preview file path: /gruv-material.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-mix//qcqKfdZ.png
+Invalid preview file path: /qcqKfdZ.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//dock.jpg
+Invalid preview file path: /dock.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//girl-reading-book.jpg
+Invalid preview file path: /girl-reading-book.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//house-garden.jpg
+Invalid preview file path: /house-garden.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//gruvbox_image11.png
+Invalid preview file path: /gruvbox_image11.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//gruvbox_image31.png
+Invalid preview file path: /gruvbox_image31.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//gruvbox_image40.png
+Invalid preview file path: /gruvbox_image40.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//gruvbox_image44.png
+Invalid preview file path: /gruvbox_image44.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//gruvbox_image46.png
+Invalid preview file path: /gruvbox_image46.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//gruvbox_image55.png
+Invalid preview file path: /gruvbox_image55.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//gruvbox-pacman-full.png
+Invalid preview file path: /gruvbox-pacman-full.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//gruvbox-pacman-ghosts.png
+Invalid preview file path: /gruvbox-pacman-ghosts.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//image16.png
+Invalid preview file path: /image16.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//image21.png
+Invalid preview file path: /image21.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//secluded-grove-pixel.png
+Invalid preview file path: /secluded-grove-pixel.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//wallpaper.png
+Invalid preview file path: /wallpaper.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-pixelart//wall_secondary.png
+Invalid preview file path: /wall_secondary.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-0.png
+Invalid preview file path: /Minimalistic-0.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-10.png
+Invalid preview file path: /Minimalistic-10.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-11.png
+Invalid preview file path: /Minimalistic-11.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-12.png
+Invalid preview file path: /Minimalistic-12.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-13.png
+Invalid preview file path: /Minimalistic-13.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-14.png
+Invalid preview file path: /Minimalistic-14.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-15.png
+Invalid preview file path: /Minimalistic-15.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-16.png
+Invalid preview file path: /Minimalistic-16.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-17.png
+Invalid preview file path: /Minimalistic-17.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-18.png
+Invalid preview file path: /Minimalistic-18.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-19.png
+Invalid preview file path: /Minimalistic-19.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-1.png
+Invalid preview file path: /Minimalistic-1.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-20.png
+Invalid preview file path: /Minimalistic-20.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-21.png
+Invalid preview file path: /Minimalistic-21.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-22.png
+Invalid preview file path: /Minimalistic-22.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-23.png
+Invalid preview file path: /Minimalistic-23.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-2.png
+Invalid preview file path: /Minimalistic-2.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-3.png
+Invalid preview file path: /Minimalistic-3.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-4.png
+Invalid preview file path: /Minimalistic-4.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-5.png
+Invalid preview file path: /Minimalistic-5.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-6.png
+Invalid preview file path: /Minimalistic-6.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-7.png
+Invalid preview file path: /Minimalistic-7.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-8.png
+Invalid preview file path: /Minimalistic-8.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//Minimalistic-9.png
+Invalid preview file path: /Minimalistic-9.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_live-laugh-love.jpg
+Invalid preview file path: /gruvbox_live-laugh-love.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-0.png
+Invalid preview file path: /gruvbox_Minimalistic-0.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-10.png
+Invalid preview file path: /gruvbox_Minimalistic-10.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-11.png
+Invalid preview file path: /gruvbox_Minimalistic-11.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-12.png
+Invalid preview file path: /gruvbox_Minimalistic-12.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-13.png
+Invalid preview file path: /gruvbox_Minimalistic-13.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-14.png
+Invalid preview file path: /gruvbox_Minimalistic-14.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-15.png
+Invalid preview file path: /gruvbox_Minimalistic-15.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-16.png
+Invalid preview file path: /gruvbox_Minimalistic-16.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-17.png
+Invalid preview file path: /gruvbox_Minimalistic-17.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-18.png
+Invalid preview file path: /gruvbox_Minimalistic-18.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-19.png
+Invalid preview file path: /gruvbox_Minimalistic-19.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-1.png
+Invalid preview file path: /gruvbox_Minimalistic-1.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-20.png
+Invalid preview file path: /gruvbox_Minimalistic-20.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-21.png
+Invalid preview file path: /gruvbox_Minimalistic-21.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-22.png
+Invalid preview file path: /gruvbox_Minimalistic-22.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-23.png
+Invalid preview file path: /gruvbox_Minimalistic-23.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-2.png
+Invalid preview file path: /gruvbox_Minimalistic-2.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-3.png
+Invalid preview file path: /gruvbox_Minimalistic-3.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-4.png
+Invalid preview file path: /gruvbox_Minimalistic-4.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-5.png
+Invalid preview file path: /gruvbox_Minimalistic-5.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-6.png
+Invalid preview file path: /gruvbox_Minimalistic-6.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-7.png
+Invalid preview file path: /gruvbox_Minimalistic-7.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-8.png
+Invalid preview file path: /gruvbox_Minimalistic-8.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Minimalistic//GruvBox-Factory//gruvbox_Minimalistic-9.png
+Invalid preview file path: /gruvbox_Minimalistic-9.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//AIDA.jpg
+Invalid preview file path: /AIDA.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//Preparatory-Drawing-for-59st-Bridge.jpg
+Invalid preview file path: /Preparatory-Drawing-for-59st-Bridge.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//Preparatory-Drawing-for-Chicago-in-the-Rain.jpg
+Invalid preview file path: /Preparatory-Drawing-for-Chicago-in-the-Rain.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//Preparatory-Drawing-for-Delmonicos.jpg
+Invalid preview file path: /Preparatory-Drawing-for-Delmonicos.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//Preparatory-Drawing-for-Eiffel-V.jpg
+Invalid preview file path: /Preparatory-Drawing-for-Eiffel-V.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//Preparatory-drawing-for-Hudson-Yards.jpg
+Invalid preview file path: /Preparatory-drawing-for-Hudson-Yards.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//Preparatory-Drawing-for-Mandarin-Oriental.jpg
+Invalid preview file path: /Preparatory-Drawing-for-Mandarin-Oriental.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//Preparatory-Drawing-for-NYC-6AM.jpg
+Invalid preview file path: /Preparatory-Drawing-for-NYC-6AM.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//Preparatory-Drawing-for-Oculus.jpg
+Invalid preview file path: /Preparatory-Drawing-for-Oculus.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//Preparatory-Drawing-for-Sliding-Doors.jpg
+Invalid preview file path: /Preparatory-Drawing-for-Sliding-Doors.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//Preparatory-Drawing-for-Transamerica.jpg
+Invalid preview file path: /Preparatory-Drawing-for-Transamerica.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//Depot.jpeg
+Invalid preview file path: /Depot.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//Morning-in-Vienna.jpeg
+Invalid preview file path: /Morning-in-Vienna.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//NHM-II.jpeg
+Invalid preview file path: /NHM-II.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Drawing//NHM.jpeg
+Invalid preview file path: /NHM.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-AIDA.jpg
+Invalid preview file path: /Inverted-AIDA.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-Preparatory-Drawing-for-59st-Bridge.jpg
+Invalid preview file path: /Inverted-Preparatory-Drawing-for-59st-Bridge.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-Preparatory-Drawing-for-Chicago-in-the-Rain.jpg
+Invalid preview file path: /Inverted-Preparatory-Drawing-for-Chicago-in-the-Rain.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-Preparatory-Drawing-for-Delmonicos.jpg
+Invalid preview file path: /Inverted-Preparatory-Drawing-for-Delmonicos.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-Preparatory-Drawing-for-Eiffel-V.jpg
+Invalid preview file path: /Inverted-Preparatory-Drawing-for-Eiffel-V.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-Preparatory-drawing-for-Hudson-Yards.jpg
+Invalid preview file path: /Inverted-Preparatory-drawing-for-Hudson-Yards.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-Preparatory-Drawing-for-Mandarin-Oriental.jpg
+Invalid preview file path: /Inverted-Preparatory-Drawing-for-Mandarin-Oriental.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-Preparatory-Drawing-for-NYC-6AM.jpg
+Invalid preview file path: /Inverted-Preparatory-Drawing-for-NYC-6AM.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-Preparatory-Drawing-for-Oculus.jpg
+Invalid preview file path: /Inverted-Preparatory-Drawing-for-Oculus.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-Preparatory-Drawing-for-Sliding-Doors.jpg
+Invalid preview file path: /Inverted-Preparatory-Drawing-for-Sliding-Doors.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-Preparatory-Drawing-for-Transamerica.jpg
+Invalid preview file path: /Inverted-Preparatory-Drawing-for-Transamerica.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-Depot.jpeg
+Invalid preview file path: /Inverted-Depot.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-Morning-in-Vienna.jpeg
+Invalid preview file path: /Inverted-Morning-in-Vienna.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-NHM.jpeg
+Invalid preview file path: /Inverted-NHM.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Inverted_Drawing//Inverted-NHM-II.png
+Invalid preview file path: /Inverted-NHM-II.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//1image-asset.jpg
+Invalid preview file path: /1image-asset.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//CAROUSELsmallsqaurespace.jpg
+Invalid preview file path: /CAROUSELsmallsqaurespace.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//CATCHINGFIRE2016email.jpg
+Invalid preview file path: /CATCHINGFIRE2016email.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//CENTRALCAMERAsqauresapce.jpg
+Invalid preview file path: /CENTRALCAMERAsqauresapce.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//EveninginParissquarespace.jpg
+Invalid preview file path: /EveninginParissquarespace.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//image1.jpg
+Invalid preview file path: /image1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//image2.jpg
+Invalid preview file path: /image2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//image-asset.jpg
+Invalid preview file path: /image-asset.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//image.jpg
+Invalid preview file path: /image.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//NEW-YORK-REFLECTIONSsqaurespoace.jpg
+Invalid preview file path: /NEW-YORK-REFLECTIONSsqaurespoace.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//NYC6AMsquarespace.jpg
+Invalid preview file path: /NYC6AMsquarespace.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//pier17squarespace.jpg
+Invalid preview file path: /pier17squarespace.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//Rockerfellersquarespace.jpg
+Invalid preview file path: /Rockerfellersquarespace.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//SSBRYANTPARK.jpg
+Invalid preview file path: /SSBRYANTPARK.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//ssCHICAGOINTHERAINhires.jpg
+Invalid preview file path: /ssCHICAGOINTHERAINhires.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//ssHUDSONYARD.jpg
+Invalid preview file path: /ssHUDSONYARD.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//ssLAKESTREET.jpg
+Invalid preview file path: /ssLAKESTREET.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//ssTWILIGHT.jpg
+Invalid preview file path: /ssTWILIGHT.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//ssZHJPEG.jpg
+Invalid preview file path: /ssZHJPEG.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//TRANSAMERICAsquarespace.jpg
+Invalid preview file path: /TRANSAMERICAsquarespace.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//ZBARforsqaurespace.jpg
+Invalid preview file path: /ZBARforsqaurespace.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//image-asset2.jpeg
+Invalid preview file path: /image-asset2.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Nathan_Walsh_Paintings//image-asset.jpeg
+Invalid preview file path: /image-asset.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//adventure_sunset.jpg
+Invalid preview file path: /adventure_sunset.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//adventure_time_tree_fort.jpg
+Invalid preview file path: /adventure_time_tree_fort.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//alone_but_awesome.jpg
+Invalid preview file path: /alone_but_awesome.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//att-03.jpg
+Invalid preview file path: /att-03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//background09.jpg
+Invalid preview file path: /background09.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//background20.jpg
+Invalid preview file path: /background20.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//background21.jpg
+Invalid preview file path: /background21.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//background40.jpg
+Invalid preview file path: /background40.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//background50.jpg
+Invalid preview file path: /background50.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//background55.jpg
+Invalid preview file path: /background55.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//background56.jpg
+Invalid preview file path: /background56.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//beyond_the_aquila_rift_2.jpg
+Invalid preview file path: /beyond_the_aquila_rift_2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//beyond_the_aquila_rift.jpg
+Invalid preview file path: /beyond_the_aquila_rift.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//big_fight.jpg
+Invalid preview file path: /big_fight.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//blue_woods.jpg
+Invalid preview file path: /blue_woods.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//camper_van.jpg
+Invalid preview file path: /camper_van.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//cave_door1.jpg
+Invalid preview file path: /cave_door1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//cave_door2.jpg
+Invalid preview file path: /cave_door2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//cliff_sunset.jpg
+Invalid preview file path: /cliff_sunset.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//comet.jpg
+Invalid preview file path: /comet.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//costal_rocks.jpg
+Invalid preview file path: /costal_rocks.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//cybercity_1.jpg
+Invalid preview file path: /cybercity_1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//cybercity_2.jpg
+Invalid preview file path: /cybercity_2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//dark-well.jpg
+Invalid preview file path: /dark-well.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//demon_giant.jpg
+Invalid preview file path: /demon_giant.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//fantasy_pixels.jpg
+Invalid preview file path: /fantasy_pixels.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//floral_rebellion.jpg
+Invalid preview file path: /floral_rebellion.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//future_city.jpg
+Invalid preview file path: /future_city.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//future_garage.jpg
+Invalid preview file path: /future_garage.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//futurism.jpg
+Invalid preview file path: /futurism.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//gruvbox_dark-well.jpg
+Invalid preview file path: /gruvbox_dark-well.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//high_seas.jpg
+Invalid preview file path: /high_seas.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//house_in_field.jpg
+Invalid preview file path: /house_in_field.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//howl_castle.jpg
+Invalid preview file path: /howl_castle.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//lonely_walk.jpg
+Invalid preview file path: /lonely_walk.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//lunch_break.jpg
+Invalid preview file path: /lunch_break.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//macOS_1.jpg
+Invalid preview file path: /macOS_1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//macOS_2.jpg
+Invalid preview file path: /macOS_2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//macOS_5.jpg
+Invalid preview file path: /macOS_5.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//mac_OS_8.jpg
+Invalid preview file path: /mac_OS_8.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//metro_forest.jpg
+Invalid preview file path: /metro_forest.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//minimalist_sunset.jpg
+Invalid preview file path: /minimalist_sunset.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//mountains_lake.jpg
+Invalid preview file path: /mountains_lake.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//oil_waves.jpg
+Invalid preview file path: /oil_waves.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//our_shell_our_soul.jpg
+Invalid preview file path: /our_shell_our_soul.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//planets_and_stars.jpg
+Invalid preview file path: /planets_and_stars.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//purple_ring.jpg
+Invalid preview file path: /purple_ring.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//redline.jpg
+Invalid preview file path: /redline.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//red-robot.jpg
+Invalid preview file path: /red-robot.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//reflections_in_the_moonlight.jpg
+Invalid preview file path: /reflections_in_the_moonlight.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//retro-2000s.jpg
+Invalid preview file path: /retro-2000s.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//saitama_bike.jpg
+Invalid preview file path: /saitama_bike.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//sea_of_mists.jpg
+Invalid preview file path: /sea_of_mists.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//sea_waterfall.jpg
+Invalid preview file path: /sea_waterfall.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//space_map.jpg
+Invalid preview file path: /space_map.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//spaceship_maze.jpg
+Invalid preview file path: /spaceship_maze.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//spiderman__warrior31992.jpg
+Invalid preview file path: /spiderman__warrior31992.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//under_the_strange_horizon.jpg
+Invalid preview file path: /under_the_strange_horizon.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//wheel_space_station.jpg
+Invalid preview file path: /wheel_space_station.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//Windows_11-1.jpg
+Invalid preview file path: /Windows_11-1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//Windows_11-2.jpg
+Invalid preview file path: /Windows_11-2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//Windows_11-3.jpg
+Invalid preview file path: /Windows_11-3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//Windows_11-4.jpg
+Invalid preview file path: /Windows_11-4.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//Windows_11-5.jpg
+Invalid preview file path: /Windows_11-5.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//Windows_11-6.jpg
+Invalid preview file path: /Windows_11-6.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//Windows_11-7.jpg
+Invalid preview file path: /Windows_11-7.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//Windows_11-8.jpg
+Invalid preview file path: /Windows_11-8.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//Windows_11-9.jpg
+Invalid preview file path: /Windows_11-9.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//Windows_xp.jpg
+Invalid preview file path: /Windows_xp.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//Annapurna.jpeg
+Invalid preview file path: /Annapurna.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//candy_pool.jpeg
+Invalid preview file path: /candy_pool.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//doodle.jpeg
+Invalid preview file path: /doodle.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//lake_house.jpeg
+Invalid preview file path: /lake_house.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//放課後.jpeg
+Invalid preview file path: /放課後.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//水中列車.jpeg
+Invalid preview file path: /水中列車.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//空ノ月、海ノ月.jpeg
+Invalid preview file path: /空ノ月、海ノ月.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//非行.jpeg
+Invalid preview file path: /非行.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//alternative_star_wars.png
+Invalid preview file path: /alternative_star_wars.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//astro.png
+Invalid preview file path: /astro.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//colored_jungle.png
+Invalid preview file path: /colored_jungle.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//decomposed-laptop.png
+Invalid preview file path: /decomposed-laptop.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//DOOM.png
+Invalid preview file path: /DOOM.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//fluffy_dog.png
+Invalid preview file path: /fluffy_dog.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//fluids.png
+Invalid preview file path: /fluids.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//laundry.png
+Invalid preview file path: /laundry.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//neon_wall.png
+Invalid preview file path: /neon_wall.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//path_of_mines.png
+Invalid preview file path: /path_of_mines.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//planes.png
+Invalid preview file path: /planes.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//red_beast.png
+Invalid preview file path: /red_beast.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//river_flow.png
+Invalid preview file path: /river_flow.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//sci_fi_ring.png
+Invalid preview file path: /sci_fi_ring.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//scrap_dealers.png
+Invalid preview file path: /scrap_dealers.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//self-made1.png
+Invalid preview file path: /self-made1.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//self-made2.png
+Invalid preview file path: /self-made2.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//self-made4.png
+Invalid preview file path: /self-made4.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Old//two_stars.png
+Invalid preview file path: /two_stars.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Person-2x3//Baka_Arts_2x3-Person-10.jpg
+Invalid preview file path: /Baka_Arts_2x3-Person-10.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Person-2x3//Baka_Arts_2x3-Person-11.jpg
+Invalid preview file path: /Baka_Arts_2x3-Person-11.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Person-2x3//Baka_Arts_2x3-Person-12.jpg
+Invalid preview file path: /Baka_Arts_2x3-Person-12.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Person-2x3//Baka_Arts_2x3-Person-4.jpg
+Invalid preview file path: /Baka_Arts_2x3-Person-4.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Person-2x3//Baka_Arts_2x3-Person-5.jpg
+Invalid preview file path: /Baka_Arts_2x3-Person-5.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Person-2x3//Baka_Arts_2x3-Person-6.jpg
+Invalid preview file path: /Baka_Arts_2x3-Person-6.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Person-2x3//Baka_Arts_2x3-Person-7.jpg
+Invalid preview file path: /Baka_Arts_2x3-Person-7.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Person-2x3//Baka_Arts_2x3-Person-8.jpg
+Invalid preview file path: /Baka_Arts_2x3-Person-8.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Person-2x3//Baka_Arts_2x3-Person-9.jpg
+Invalid preview file path: /Baka_Arts_2x3-Person-9.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Person-2x3//Baka_Arts_2x3-Person-1.png
+Invalid preview file path: /Baka_Arts_2x3-Person-1.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Person-2x3//Baka_Arts_2x3-Person-2.png
+Invalid preview file path: /Baka_Arts_2x3-Person-2.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Person-2x3//Baka_Arts_2x3-Person-3.png
+Invalid preview file path: /Baka_Arts_2x3-Person-3.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//ai_star.jpg
+Invalid preview file path: /ai_star.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//baby_owl.jpg
+Invalid preview file path: /baby_owl.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//black_and_white.jpg
+Invalid preview file path: /black_and_white.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//butterflies.jpg
+Invalid preview file path: /butterflies.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//character_design.jpg
+Invalid preview file path: /character_design.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//color_stains.jpg
+Invalid preview file path: /color_stains.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//curious_look.jpg
+Invalid preview file path: /curious_look.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//Ddddddd.jpg
+Invalid preview file path: /Ddddddd.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//disco.jpg
+Invalid preview file path: /disco.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//dizzy.jpg
+Invalid preview file path: /dizzy.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//dreamy_by_gloomilygray_dg2g16s-pre.jpg
+Invalid preview file path: /dreamy_by_gloomilygray_dg2g16s-pre.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//ellobelloo.jpg
+Invalid preview file path: /ellobelloo.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//emotional_barriers.jpg
+Invalid preview file path: /emotional_barriers.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//fishbowl.jpg
+Invalid preview file path: /fishbowl.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//full_head_protection.jpg
+Invalid preview file path: /full_head_protection.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//gonger.jpg
+Invalid preview file path: /gonger.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//hairpin.jpg
+Invalid preview file path: /hairpin.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//halo__locus_helmet.jpg
+Invalid preview file path: /halo__locus_helmet.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//halo__reach_eva_helmet.jpg
+Invalid preview file path: /halo__reach_eva_helmet.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//hanako.jpg
+Invalid preview file path: /hanako.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//hanako_portrait.jpg
+Invalid preview file path: /hanako_portrait.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//hint_cover__blood_on_the_floor.jpg
+Invalid preview file path: /hint_cover__blood_on_the_floor.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//hokusai-self-portrait.jpg
+Invalid preview file path: /hokusai-self-portrait.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//HOLA.jpg
+Invalid preview file path: /HOLA.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//laputa.jpg
+Invalid preview file path: /laputa.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//LUNA ADORABLE.jpg
+Invalid preview file path: /LUNA ADORABLE.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//maison_souvenirs.jpg
+Invalid preview file path: /maison_souvenirs.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//midnight_glance.jpg
+Invalid preview file path: /midnight_glance.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//mikeinel.jpg
+Invalid preview file path: /mikeinel.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//moon.jpg
+Invalid preview file path: /moon.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//nocturne.jpg
+Invalid preview file path: /nocturne.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//painting_02.jpg
+Invalid preview file path: /painting_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//pen_sketch__little_kitty.jpg
+Invalid preview file path: /pen_sketch__little_kitty.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//pet_lover.jpg
+Invalid preview file path: /pet_lover.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//Pink_hair.jpg
+Invalid preview file path: /Pink_hair.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//planetoid.jpg
+Invalid preview file path: /planetoid.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//portrait_study.jpg
+Invalid preview file path: /portrait_study.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//practice_portrait.jpg
+Invalid preview file path: /practice_portrait.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//psychic_in_fantasy_world.jpg
+Invalid preview file path: /psychic_in_fantasy_world.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//raid_hunter.jpg
+Invalid preview file path: /raid_hunter.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//Rubi.jpg
+Invalid preview file path: /Rubi.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//sci_fi_helmet.jpg
+Invalid preview file path: /sci_fi_helmet.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//shattered.jpg
+Invalid preview file path: /shattered.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//shuna_fanart.jpg
+Invalid preview file path: /shuna_fanart.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//singing_in_the_rain.jpg
+Invalid preview file path: /singing_in_the_rain.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//sketch_II.jpg
+Invalid preview file path: /sketch_II.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//skull.jpg
+Invalid preview file path: /skull.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//sophie.jpg
+Invalid preview file path: /sophie.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//space_police_concept.jpg
+Invalid preview file path: /space_police_concept.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//state_of_my_head.jpg
+Invalid preview file path: /state_of_my_head.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//sunlight.jpg
+Invalid preview file path: /sunlight.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//tear_drop.jpg
+Invalid preview file path: /tear_drop.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//the_dreamer.jpg
+Invalid preview file path: /the_dreamer.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//the_mystical_person.jpg
+Invalid preview file path: /the_mystical_person.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//the_rose.jpg
+Invalid preview file path: /the_rose.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//the_silhouette_with_umbrella.jpg
+Invalid preview file path: /the_silhouette_with_umbrella.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//tiny_doodle.jpg
+Invalid preview file path: /tiny_doodle.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//virtuality.jpg
+Invalid preview file path: /virtuality.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//welcome_stranger.jpg
+Invalid preview file path: /welcome_stranger.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//whole.jpg
+Invalid preview file path: /whole.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//alex.jpeg
+Invalid preview file path: /alex.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//blood.jpeg
+Invalid preview file path: /blood.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//Cyberpunk_Samurai.jpeg
+Invalid preview file path: /Cyberpunk_Samurai.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//deceive.jpeg
+Invalid preview file path: /deceive.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//doodle.jpeg
+Invalid preview file path: /doodle.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//ekka.jpeg
+Invalid preview file path: /ekka.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//jelly.jpeg
+Invalid preview file path: /jelly.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//kit.jpeg
+Invalid preview file path: /kit.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//mini_robot.jpeg
+Invalid preview file path: /mini_robot.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//msolo17.jpeg
+Invalid preview file path: /msolo17.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//pap.jpeg
+Invalid preview file path: /pap.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//scaphandre.jpeg
+Invalid preview file path: /scaphandre.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//soft.jpeg
+Invalid preview file path: /soft.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//uni.jpeg
+Invalid preview file path: /uni.jpeg
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//abstract_rose.png
+Invalid preview file path: /abstract_rose.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//arttrade.png
+Invalid preview file path: /arttrade.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//aurora.png
+Invalid preview file path: /aurora.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//belldandy.png
+Invalid preview file path: /belldandy.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//binah__the_free_flowing.png
+Invalid preview file path: /binah__the_free_flowing.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//black_flame.png
+Invalid preview file path: /black_flame.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//caera.png
+Invalid preview file path: /caera.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//cindym.png
+Invalid preview file path: /cindym.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//dtiysmadtiys.png
+Invalid preview file path: /dtiysmadtiys.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//evening_sketch.png
+Invalid preview file path: /evening_sketch.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//geisha.png
+Invalid preview file path: /geisha.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//gordy.png
+Invalid preview file path: /gordy.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//innocent_sorrow.png
+Invalid preview file path: /innocent_sorrow.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//kelsey.png
+Invalid preview file path: /kelsey.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//kirishima_touka.png
+Invalid preview file path: /kirishima_touka.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//mecha_georgzilla.png
+Invalid preview file path: /mecha_georgzilla.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//nummy_bat.png
+Invalid preview file path: /nummy_bat.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//painting_study_by_yulj.png
+Invalid preview file path: /painting_study_by_yulj.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//pigtails_glasses.png
+Invalid preview file path: /pigtails_glasses.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//portrait_black_and_white1.png
+Invalid preview file path: /portrait_black_and_white1.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//portrait_black_and_white.png
+Invalid preview file path: /portrait_black_and_white.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//portrait_experiemental.png
+Invalid preview file path: /portrait_experiemental.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//portrait___siren.png
+Invalid preview file path: /portrait___siren.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//portrait_winter.png
+Invalid preview file path: /portrait_winter.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//pretty_eyes.png
+Invalid preview file path: /pretty_eyes.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//protrusion.png
+Invalid preview file path: /protrusion.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//queen.png
+Invalid preview file path: /queen.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//red_lips.png
+Invalid preview file path: /red_lips.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//red_rose.png
+Invalid preview file path: /red_rose.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//relena.png
+Invalid preview file path: /relena.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//sailor_moon_redraw.png
+Invalid preview file path: /sailor_moon_redraw.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//sci_fi_helmet_female_concept.png
+Invalid preview file path: /sci_fi_helmet_female_concept.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//self-made-Glossy.png
+Invalid preview file path: /self-made-Glossy.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//serenity.png
+Invalid preview file path: /serenity.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//silver_hair.png
+Invalid preview file path: /silver_hair.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//sunset_portrait.png
+Invalid preview file path: /sunset_portrait.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//templar_assassin-dota2.png
+Invalid preview file path: /templar_assassin-dota2.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//toph.png
+Invalid preview file path: /toph.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//untitled.png
+Invalid preview file path: /untitled.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Profile_Pictures//uwu.png
+Invalid preview file path: /uwu.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (10).png
+Invalid preview file path: /retro-futurism (10).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (11).png
+Invalid preview file path: /retro-futurism (11).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (12).png
+Invalid preview file path: /retro-futurism (12).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (13).png
+Invalid preview file path: /retro-futurism (13).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (14).png
+Invalid preview file path: /retro-futurism (14).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (15).png
+Invalid preview file path: /retro-futurism (15).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (16).png
+Invalid preview file path: /retro-futurism (16).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (17).png
+Invalid preview file path: /retro-futurism (17).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (18).png
+Invalid preview file path: /retro-futurism (18).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (19).png
+Invalid preview file path: /retro-futurism (19).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (1).png
+Invalid preview file path: /retro-futurism (1).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (2).png
+Invalid preview file path: /retro-futurism (2).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (3).png
+Invalid preview file path: /retro-futurism (3).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (4).png
+Invalid preview file path: /retro-futurism (4).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (5).png
+Invalid preview file path: /retro-futurism (5).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (6).png
+Invalid preview file path: /retro-futurism (6).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (7).png
+Invalid preview file path: /retro-futurism (7).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (8).png
+Invalid preview file path: /retro-futurism (8).png
+Checking preview for: /home/iori/Pictures/Wallpapers/Retro-Futurism//retro-futurism (9).png
+Invalid preview file path: /retro-futurism (9).png

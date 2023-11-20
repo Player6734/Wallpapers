@@ -38,12 +38,19 @@ create_preview() {
     local original_file="$1"
     local preview_file="$2"
     local desired_height=200  # Set your desired height for the preview image
+
     if [ -z "$original_file" ]; then
         echo "No file name provided for preview creation" >> debug.log
         return
     fi
 
     echo "Checking preview for: $original_file" >> debug.log
+
+    # Ensure the preview file path is relative and does not start with '/'
+    if [[ "$preview_file" = /* ]]; then
+        echo "Invalid preview file path: $preview_file" >> debug.log
+        return
+    fi
 
     # Check if the preview already exists
     if [ -f "$preview_file" ]; then
@@ -53,8 +60,7 @@ create_preview() {
 
     echo "Creating preview for $original_file" >> debug.log
 
-    mkdir -p ".preview"  # Ensure the .preview directory exists
-    echo "Directory checked/created for .preview" >> debug.log
+    mkdir -p "$(dirname "$preview_file")"  # Ensure the directory for the preview exists
 
     local original_width=$(identify -format "%w" "$original_file")
     local original_height=$(identify -format "%h" "$original_file")
@@ -62,7 +68,6 @@ create_preview() {
 
     if [ "$original_height" -ne 0 ]; then
         local new_width=$((desired_height * original_width / original_height))
-        echo "Processing file: $img_file" >> debug.log
         convert "$original_file" -strip -quality 75 -resize "${new_width}x${desired_height}" "$preview_file" 2>> debug.log
         if [ $? -eq 0 ]; then
             echo "Preview successfully created: $preview_file" >> debug.log
@@ -73,6 +78,7 @@ create_preview() {
         echo "Error: Unable to read image dimensions for $original_file" >> debug.log
     fi
 }
+
 
 
 
