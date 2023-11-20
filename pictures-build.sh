@@ -36,6 +36,7 @@ EOF
 
 create_preview() {
     local dir_path="$1"
+    local desired_height=200  # Set your desired height for the preview image
 
     # Loop through each image file in the directory and subdirectories
     find "$dir_path" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.avif" -o -name "*.webp" \) | while read original_file; do
@@ -66,6 +67,7 @@ create_preview() {
         fi
     done
 }
+
 
 
 
