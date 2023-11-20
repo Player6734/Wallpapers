@@ -107,7 +107,7 @@ write_header() {
 <head>
     <meta charset="UTF-8">
     <title>${title:-Gallery}</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="../styles.css">
 </head>
 <body>
 EOF
