@@ -208,7 +208,7 @@ for folder in */ ; do
             jpg|jpeg|png|avif|webp)
                 # It's a valid image file, process it
                 file_name=$(basename "$img_file")
-                create_preview "$img_file" ".preview/$file_name"
+                create_preview "$PICTURES_DIR"
                 ;;
             *)
                 # Not a valid image file, skip it
