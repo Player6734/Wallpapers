@@ -118,13 +118,17 @@ EOF
 }
 
 # Function to write an image tag to the HTML file
+# Function to write an image tag to the HTML file
 write_img() {
     local file_path="$1"
     local output_file="$2"
+    local file_name=$(basename "$file_path")
+    local preview_path=".preview/$file_name"  # Adjust the path to your preview directory structure
 
-    # Write the image tag to the HTML file
-    echo "<img src=\"$file_path\" alt=\"$(basename "$file_path")\" style='height:200px;'>" >> "$output_file"
+    # Write the image tag wrapped in an anchor tag to the HTML file
+    echo "<a href=\"$file_path\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
 }
+
 
 # Create the main index file with a header
 
