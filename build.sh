@@ -89,8 +89,6 @@ done
 echo "</body></html>" >> "$INDEX_FILE"
 
 # Function to create index.html
-# Function to create index.html
-# Function to create index.html
 create_index_html() {
     cat << EOF > index.html
 <!DOCTYPE html>
@@ -106,19 +104,17 @@ EOF
     for folder in */ ; do
         folder_name=${folder%/}
         echo "<div class='folder-entry'>" >> index.html
-        echo "<h3><a href='${folder_name}.html'>$folder_name</a></h3>" >> index.html  # Titles as h3
+        echo "<h3><a href='${folder_name}.html'>$folder_name</a></h3>" >> index.html
 
-        # Add up to four images from the central .preview folder, with a height limit of 200 pixels
+        # Add up to four images from the .preview folder, with a height limit of 200 pixels
         img_count=0
         for img_format in jpg jpeg png avif webp; do
-            # Create an array of all matching images
-            img_array=(".preview/${folder_name}"*.$img_format)
-            for img in "${img_array[@]}"; do
+            for img in .preview/"${folder_name}."*.$img_format; do
                 if [ $img_count -ge 4 ]; then
                     break 2  # Exit both loops when 4 images have been added
                 fi
                 if [ -f "$img" ]; then  # Check if the file actually exists
-                    preview_img_src=".preview/$(basename "$img")"
+                    preview_img_src="$img"
                     echo "<img src='$preview_img_src' alt='$folder_name Image' style='height: 200px;'>" >> index.html
                     ((img_count++))
                 else
@@ -135,6 +131,7 @@ EOF
 </html>
 EOF
 }
+
 
 
 
