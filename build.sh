@@ -136,7 +136,7 @@ EOF
                     break 2  # Exit both loops when 4 images have been added
                 fi
                 if [ -f "$preview_img" ]; then  # Check if the preview file actually exists
-                    echo "<img src='$preview_img' alt='$folder_name Image' style='height: 200px;'>" >> index.html
+                    echo "<a href='$preview_img_src' target='_blank'><img src='$preview_img_src' alt='$folder_name Image' style='height: 200px;'></a>" >> index.html
                     ((img_count++))
                 else
                     echo "Preview image not found for: $original_img" >> debug.log  # Add debug information
@@ -189,6 +189,19 @@ h1, h3 {
   color: #282828;
   text-align: center;
 }
+
+img {
+  transition: transform 0.3s ease; /* Smooth transition for hover effect */
+}
+
+img:hover {
+  transform: scale(1.5); /* Enlarge image on hover */
+}
+
+a img {
+  border: 0; /* Remove border around images inside links */
+}
+
 EOF
 
 echo "Script completed."
