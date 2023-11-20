@@ -48,47 +48,6 @@ create_preview() {
     fi
 }
 
-
-
-# Function to create an HTML file for a subdirectory showing all images
-create_subdir_index() {
-    local dir_path="$1"
-    local subdir_name=$(basename "$dir_path")
-    local subdir_html_file="$PICTURES_DIR/${subdir_name}.html"
-
-    # Write the header of the subdir index file
-    write_header "$subdir_html_file" "$subdir_name"
-
-    # Loop through each image file in the subdirectory and add it to the HTML
-    find "$dir_path" -maxdepth 1 -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" -o -name "*.avif" \) | while read file_path; do
-        write_img "$file_path" "$subdir_html_file"
-    done
-
-    # Finalize the HTML file
-    echo "</body></html>" >> "$subdir_html_file"
-}
-
-# Function to write the header of the HTML file
-write_header() {
-    local output_file="$1"
-    local title="$2"
-
-    cat > "$output_file" <<-EOF
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>${title:-Gallery}</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-EOF
-
-    if [ -n "$title" ]; then
-        echo "<h1>$title</h1>" >> "$output_file"
-    fi
-}
-
 # Function to write an image tag to the HTML file
 write_img() {
     local file_path="$1"
@@ -100,7 +59,6 @@ write_img() {
 
 # Create the main index file with a header
 INDEX_FILE="$PICTURES_DIR/index.html"
-write_header "$INDEX_FILE" "Main Gallery"
 
 # Loop through each folder in the Pictures directory to create subdir HTMLs
 for subdir in "$PICTURES_DIR"/*/; do
