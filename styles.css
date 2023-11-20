@@ -16,7 +16,7 @@ img {
 }
 
 img:hover {
-  transform: scale(1.5); /* Enlarge image on hover */
+  transform: scale(1.2); /* Enlarge image on hover */
 }
 
 a img {
