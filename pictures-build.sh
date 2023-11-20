@@ -140,6 +140,7 @@ for subdir in "${PICTURES_DIR}"/*/; do
 done
 
 # Function to create index.html
+# Function to create index.html
 create_index_html() {
     cat << EOF > index.html
 <!DOCTYPE html>
@@ -154,7 +155,12 @@ EOF
 
     for folder in */ ; do
         folder_name=${folder%/}
-        # Assuming index.html is in the same directory as styles.css and .preview
+
+        # Skip the subdir-html folder
+        if [ "$folder_name" = "subdir-html" ]; then
+            continue
+        fi
+
         echo "<div class='folder-entry'>" >> index.html
         echo "<h3><a href='${SUBDIR_HTML_DIR}/${folder_name}.html'>$folder_name</a></h3>" >> index.html
 
@@ -172,7 +178,6 @@ EOF
                 file_name=$(basename "$img_file")
 
                 # Add the image and link to the original image in the index.html
-                # The preview image path is relative to index.html's location
                 echo "<a href='${folder}${file_name}' target='_blank'><img src='.preview/${file_name}' alt='$folder_name Image' style='height: 200px;'></a>" >> index.html
             fi
         done
@@ -185,6 +190,10 @@ EOF
 </html>
 EOF
 }
+
+# Call the function to create index.html
+create_index_html
+
 
 # Call the function to create index.html
 create_index_html
