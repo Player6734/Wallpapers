@@ -32,8 +32,8 @@ a img {
 }
 
 EOF
-# Function to create preview images
 
+# Function to create preview images
 create_preview() {
     local original_file="$1"
     local preview_file="$2"
@@ -78,10 +78,6 @@ create_preview() {
         echo "Error: Unable to read image dimensions for $original_file" >> debug.log
     fi
 }
-
-
-
-
 
 # Function to create an HTML file for a subdirectory and process images
 process_directory_and_create_previews() {
@@ -167,7 +163,7 @@ write_img() {
 
 
 
-# Function to create index.html
+# Function to create index.html with nested directory structure
 create_index_html() {
     cat << EOF > index.html
 <!DOCTYPE html>
@@ -180,43 +176,36 @@ create_index_html() {
     <h1>Index of Folders</h1>
 EOF
 
-    for folder in */ ; do
-        folder_name=${folder%/}
+    list_directories_recursively "$PICTURES_DIR"
 
-        # Skip the subdir-html folder
-        if [ "$folder_name" = "subdir-html" ]; then
-            continue
-        fi
-
-        echo "<div class='folder-entry'>" >> index.html
-        echo "<h3><a href='${SUBDIR_HTML_DIR}/${folder_name}.html'>$folder_name</a></h3>" >> index.html
-
-        # Initialize a counter for the images
-        local img_count=0
-
-        # Loop through image files in the folder, sorted by name
-        for img_file in "${folder}"*.{jpg,jpeg,png,avif,webp}; do
-            # Only proceed if it's a file and we have less than 4 images
-            if [ -f "$img_file" ] && [ $img_count -lt 4 ]; then
-                # Increment the counter
-                ((img_count++))
-
-                # Extract just the file name
-                file_name=$(basename "$img_file")
-
-                # Add the image and link to the original image in the index.html
-                echo "<a href='${folder}${file_name}' target='_blank'><img src='.preview/${file_name}' alt='$folder_name Image' style='height: 200px;'></a>" >> index.html
-            fi
-        done
-
-        echo "</div>" >> index.html
-    done
-
-    cat << EOF >> index.html
-</body>
-</html>
-EOF
+    echo "</body></html>" >> index.html
 }
+
+# Function to list directories recursively
+list_directories_recursively() {
+    local dir_path="$1"
+    local indentation="$2"
+    local folder_name
+
+    for folder in "$dir_path"/*/; do
+        if [ -d "$folder" ]; then
+            folder_name=$(basename "$folder")
+
+            # Skip the subdir-html folder and .preview directory
+            if [[ "$folder_name" != "subdir-html" && "$folder_name" != ".preview" ]]; then
+                # Write the folder name with a link to its HTML file
+                echo "$indentation<div class='folder-entry'>" >> index.html
+                local html_file_name="${folder_name//\//-}.html"
+                echo "$indentation<h3><a href='${SUBDIR_HTML_DIR}/${html_file_name}'>$folder_name</a></h3>" >> index.html
+
+                # Recursively list subdirectories
+                list_directories_recursively "$folder" "$indentation&nbsp;&nbsp;&nbsp;&nbsp;"
+                echo "$indentation</div>" >> index.html
+            fi
+        fi
+    done
+}
+
 
 
 # Main script execution
