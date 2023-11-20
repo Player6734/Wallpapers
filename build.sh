@@ -98,7 +98,7 @@ create_index_html() {
     <title>Index of Folders</title>
 </head>
 <body>
-
+    <h1>Index of Folders</h1>
 EOF
 
     for folder in */ ; do
@@ -109,12 +109,14 @@ EOF
         # Add up to four images from the .preview folder, with a height limit of 200 pixels
         img_count=0
         for img_format in jpg jpeg png avif webp; do
-            for img in ".preview/${folder_name}"*.$img_format; do
+            for img in "${folder_name}/.preview/"*.$img_format; do
                 if [ $img_count -ge 4 ]; then
                     break 2  # Exit both loops when 4 images have been added
                 fi
                 if [ -f "$img" ]; then  # Check if the file actually exists
-                    echo "<img src='$img' alt='$folder_name Image' style='height: 200px;'>" >> index.html
+                    # Correct the path for the img src
+                    preview_img_src="${folder_name}/.preview/$(basename "$img")"
+                    echo "<img src='$preview_img_src' alt='$folder_name Image' style='height: 200px;'>" >> index.html
                     ((img_count++))
                 fi
             done
