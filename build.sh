@@ -164,8 +164,8 @@ EOF
                     break 2  # Exit both loops when 4 images have been added
                 fi
                 if [ -f "$preview_img" ]; then  # Check if the preview file actually exists
-                echo "<a href='.preview/$file_name' target='_blank'><img src='.preview/$file_name' alt='$folder_name Image' style='height: 200px;'></a>" >> index.html
-                    ((img_count++))
+                echo "<a href='${folder_name}/${file_name}' target='_blank'><img src='.preview/${file_name}' alt='$folder_name Image' style='height: 200px;'></a>" >> index.html
+
                 else
                     echo "Preview image not found for: $original_img" >> debug.log  # Add debug information
                 fi
