@@ -208,8 +208,9 @@ for subdir in "${PICTURES_DIR}"/*/; do
 done
 
 
-find "$PICTURES_DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.avif" -o -name "*.webp" \) -exec bash -c 'create_preview "{}" ".preview/$(basename "{}")"' \;
-
+find "$PICTURES_DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.avif" -o -name "*.webp" \) | while read img_file; do
+    create_preview "$img_file" ".preview/$(basename "$img_file")"
+done
 
 create_index_html
 
