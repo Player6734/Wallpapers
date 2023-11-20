@@ -89,6 +89,7 @@ done
 echo "</body></html>" >> "$INDEX_FILE"
 
 # Function to create index.html
+# Function to create index.html
 create_index_html() {
     cat << EOF > index.html
 <!DOCTYPE html>
@@ -109,16 +110,16 @@ EOF
         # Add up to four images from the .preview folder, with a height limit of 200 pixels
         img_count=0
         for img_format in jpg jpeg png avif webp; do
-            for img in .preview/"${folder_name}."*.$img_format; do
+            for original_img in "${folder}"*.$img_format; do
+                preview_img=".preview/$(basename "$original_img")"
                 if [ $img_count -ge 4 ]; then
                     break 2  # Exit both loops when 4 images have been added
                 fi
-                if [ -f "$img" ]; then  # Check if the file actually exists
-                    preview_img_src="$img"
-                    echo "<img src='$preview_img_src' alt='$folder_name Image' style='height: 200px;'>" >> index.html
+                if [ -f "$preview_img" ]; then  # Check if the preview file actually exists
+                    echo "<img src='$preview_img' alt='$folder_name Image' style='height: 200px;'>" >> index.html
                     ((img_count++))
                 else
-                    echo "Image not found: $img" >> debug.log  # Add debug information
+                    echo "Preview image not found for: $original_img" >> debug.log  # Add debug information
                 fi
             done
         done
@@ -131,9 +132,6 @@ EOF
 </html>
 EOF
 }
-
-
-
 
 
 create_index_html
