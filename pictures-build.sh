@@ -80,9 +80,7 @@ create_subdir_index() {
     local dir_path="${1%/}"  # Remove trailing slash
     local relative_path="${dir_path#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
     local html_file_name="${relative_path//\//-}"  # Replace '/' with '-'
-
-    # Trim any trailing '-' characters from the file name
-    html_file_name="${html_file_name%-}.html"
+    html_file_name="${html_file_name%-}.html"  # Remove trailing '-' and add .html
 
     local html_file_path="${SUBDIR_HTML_DIR}/${html_file_name}"
 
@@ -90,7 +88,7 @@ create_subdir_index() {
     write_header "$html_file_path" "$(basename "$dir_path")"
 
     # Process images in the directory
-    for img_file in "$dir_path"*.{jpg,jpeg,png,avif,webp}; do
+    for img_file in "$dir_path"/*.{jpg,jpeg,png,avif,webp}; do
         if [ -f "$img_file" ]; then
             write_img "$img_file" "$html_file_path"
         fi
@@ -106,6 +104,7 @@ create_subdir_index() {
     # Finalize the HTML file
     echo "</body></html>" >> "$html_file_path"
 }
+
 
 
 
