@@ -5,12 +5,15 @@ PICTURES_DIR=$(pwd)
 PREVIEWS_DIR="$PICTURES_DIR/.previews"
 
 # Function to create a scaled-down preview image from an original image
+#!/bin/bash
+
+# Function to create preview images
 create_preview() {
     local original_file="$1"
     local preview_file="$2"
     local desired_height=200  # Set your desired height for the preview image
 
-    mkdir -p "$PREVIEWS_DIR"
+    mkdir -p ".preview"  # Ensure the .preview directory exists
 
     local original_width=$(identify -format "%w" "$original_file")
     local original_height=$(identify -format "%h" "$original_file")
@@ -22,6 +25,17 @@ create_preview() {
         echo "Error: Unable to read image dimensions for $original_file"
     fi
 }
+
+# Main script to loop through folders and create previews
+for folder in */ ; do
+    for img_file in "${folder}"*.{jpg,jpeg,png,avif,webp}; do
+        if [ -f "$img_file" ]; then  # Check if it is a file
+            file_name=$(basename "$img_file")
+            create_preview "$img_file" ".preview/$file_name"
+        fi
+    done
+done
+
 
 # Function to create an HTML file for a subdirectory showing all images
 create_subdir_index() {
@@ -135,7 +149,7 @@ EOF
 }
 
 
-
+create_preview
 create_index_html
 
 
