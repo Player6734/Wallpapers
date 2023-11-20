@@ -96,40 +96,6 @@ Checking preview for: Baka-Arts/Person-W_3.jpg
 Preview already exists: .preview/Person-W_3.jpg
 Checking preview for: Baka-Arts/RESULT.jpg
 Preview already exists: .preview/RESULT.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_10.jpg
-Preview already exists: .preview/Betta_10.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_11.jpg
-Preview already exists: .preview/Betta_11.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_12.jpg
-Preview already exists: .preview/Betta_12.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_13.jpg
-Preview already exists: .preview/Betta_13.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_14.jpg
-Preview already exists: .preview/Betta_14.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_15.jpg
-Preview already exists: .preview/Betta_15.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_16.jpg
-Preview already exists: .preview/Betta_16.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_17.jpg
-Preview already exists: .preview/Betta_17.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_1.jpg
-Preview already exists: .preview/Betta_1.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_2.jpg
-Preview already exists: .preview/Betta_2.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_3.jpg
-Preview already exists: .preview/Betta_3.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_4.jpg
-Preview already exists: .preview/Betta_4.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_5.jpg
-Preview already exists: .preview/Betta_5.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_6.jpg
-Preview already exists: .preview/Betta_6.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_7.jpg
-Preview already exists: .preview/Betta_7.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_8.jpg
-Preview already exists: .preview/Betta_8.jpg
-Checking preview for: Beta-Fish-Black-Background/Betta_9.jpg
-Preview already exists: .preview/Betta_9.jpg
 Checking preview for: Betta Fish/Betta-Fish-01.jpg
 Preview already exists: .preview/Betta-Fish-01.jpg
 Checking preview for: Betta Fish/Betta-Fish-02.jpg
@@ -523,155 +489,55 @@ Preview already exists: .preview/gruvbox_astro.jpg
 Checking preview for: Gruvbox-Minimalistic/gruvbox_grid.png
 Preview already exists: .preview/gruvbox_grid.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_live-laugh-love.jpg
-Creating preview for Gruvbox-Minimalistic/gruvbox_live-laugh-love.jpg
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_live-laugh-love.jpg: Width=711, Height=501
-Processing file: Gruvbox-Minimalistic/gruvbox_live-laugh-love.jpg
-Preview successfully created: .preview/gruvbox_live-laugh-love.jpg
+Preview already exists: .preview/gruvbox_live-laugh-love.jpg
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-0.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-0.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-0.png: Width=1920, Height=1080
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-0.png
-Preview successfully created: .preview/gruvbox_Minimalistic-0.png
+Preview already exists: .preview/gruvbox_Minimalistic-0.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-10.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-10.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-10.png: Width=3840, Height=2160
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-10.png
-Preview successfully created: .preview/gruvbox_Minimalistic-10.png
+Preview already exists: .preview/gruvbox_Minimalistic-10.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-11.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-11.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-11.png: Width=3840, Height=2160
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-11.png
-Preview successfully created: .preview/gruvbox_Minimalistic-11.png
+Preview already exists: .preview/gruvbox_Minimalistic-11.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-12.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-12.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-12.png: Width=1920, Height=1080
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-12.png
-Preview successfully created: .preview/gruvbox_Minimalistic-12.png
+Preview already exists: .preview/gruvbox_Minimalistic-12.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-13.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-13.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-13.png: Width=2560, Height=1440
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-13.png
-Preview successfully created: .preview/gruvbox_Minimalistic-13.png
+Preview already exists: .preview/gruvbox_Minimalistic-13.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-14.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-14.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-14.png: Width=1920, Height=1080
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-14.png
-Preview successfully created: .preview/gruvbox_Minimalistic-14.png
+Preview already exists: .preview/gruvbox_Minimalistic-14.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-15.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-15.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-15.png: Width=1920, Height=1080
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-15.png
-Preview successfully created: .preview/gruvbox_Minimalistic-15.png
+Preview already exists: .preview/gruvbox_Minimalistic-15.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-16.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-16.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-16.png: Width=1920, Height=1080
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-16.png
-Preview successfully created: .preview/gruvbox_Minimalistic-16.png
+Preview already exists: .preview/gruvbox_Minimalistic-16.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-17.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-17.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-17.png: Width=3840, Height=2160
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-17.png
-Preview successfully created: .preview/gruvbox_Minimalistic-17.png
+Preview already exists: .preview/gruvbox_Minimalistic-17.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-18.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-18.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-18.png: Width=3840, Height=2160
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-18.png
-Preview successfully created: .preview/gruvbox_Minimalistic-18.png
+Preview already exists: .preview/gruvbox_Minimalistic-18.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-19.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-19.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-19.png: Width=3840, Height=2160
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-19.png
-Preview successfully created: .preview/gruvbox_Minimalistic-19.png
+Preview already exists: .preview/gruvbox_Minimalistic-19.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-1.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-1.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-1.png: Width=1400, Height=800
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-1.png
-Preview successfully created: .preview/gruvbox_Minimalistic-1.png
+Preview already exists: .preview/gruvbox_Minimalistic-1.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-20.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-20.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-20.png: Width=3840, Height=2160
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-20.png
-Preview successfully created: .preview/gruvbox_Minimalistic-20.png
+Preview already exists: .preview/gruvbox_Minimalistic-20.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-21.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-21.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-21.png: Width=2560, Height=1600
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-21.png
-Preview successfully created: .preview/gruvbox_Minimalistic-21.png
+Preview already exists: .preview/gruvbox_Minimalistic-21.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-22.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-22.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-22.png: Width=2560, Height=1600
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-22.png
-Preview successfully created: .preview/gruvbox_Minimalistic-22.png
+Preview already exists: .preview/gruvbox_Minimalistic-22.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-23.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-23.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-23.png: Width=3840, Height=2160
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-23.png
-Preview successfully created: .preview/gruvbox_Minimalistic-23.png
+Preview already exists: .preview/gruvbox_Minimalistic-23.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-2.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-2.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-2.png: Width=1920, Height=1080
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-2.png
-Preview successfully created: .preview/gruvbox_Minimalistic-2.png
+Preview already exists: .preview/gruvbox_Minimalistic-2.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-3.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-3.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-3.png: Width=2560, Height=1440
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-3.png
-Preview successfully created: .preview/gruvbox_Minimalistic-3.png
+Preview already exists: .preview/gruvbox_Minimalistic-3.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-4.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-4.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-4.png: Width=2880, Height=1800
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-4.png
-Preview successfully created: .preview/gruvbox_Minimalistic-4.png
+Preview already exists: .preview/gruvbox_Minimalistic-4.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-5.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-5.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-5.png: Width=2560, Height=1440
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-5.png
-Preview successfully created: .preview/gruvbox_Minimalistic-5.png
+Preview already exists: .preview/gruvbox_Minimalistic-5.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-6.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-6.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-6.png: Width=1920, Height=1080
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-6.png
-Preview successfully created: .preview/gruvbox_Minimalistic-6.png
+Preview already exists: .preview/gruvbox_Minimalistic-6.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-7.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-7.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-7.png: Width=2880, Height=1800
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-7.png
-Preview successfully created: .preview/gruvbox_Minimalistic-7.png
+Preview already exists: .preview/gruvbox_Minimalistic-7.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-8.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-8.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-8.png: Width=1920, Height=1080
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-8.png
-Preview successfully created: .preview/gruvbox_Minimalistic-8.png
+Preview already exists: .preview/gruvbox_Minimalistic-8.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_Minimalistic-9.png
-Creating preview for Gruvbox-Minimalistic/gruvbox_Minimalistic-9.png
-Directory checked/created for .preview
-Dimensions for Gruvbox-Minimalistic/gruvbox_Minimalistic-9.png: Width=1920, Height=1080
-Processing file: Gruvbox-Minimalistic/gruvbox_Minimalistic-9.png
-Preview successfully created: .preview/gruvbox_Minimalistic-9.png
+Preview already exists: .preview/gruvbox_Minimalistic-9.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_minimal_space.png
 Preview already exists: .preview/gruvbox_minimal_space.png
 Checking preview for: Gruvbox-Minimalistic/gruvbox_spac.jpg
@@ -1433,7 +1299,6 @@ Checking preview for: Retro-Futurism/retro-futurism (9).png
 Preview already exists: .preview/retro-futurism (9).png
 Skipping non-image file: subdir-html/AVIF.html
 Skipping non-image file: subdir-html/Baka-Arts.html
-Skipping non-image file: subdir-html/Beta-Fish-Black-Background.html
 Skipping non-image file: subdir-html/Betta Fish.html
 Skipping non-image file: subdir-html/Cars.html
 Skipping non-image file: subdir-html/Daveys_Wallpaper_Pack.html
