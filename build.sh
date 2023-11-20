@@ -175,4 +175,20 @@ done
 
 create_index_html
 
+
+cat << EOF > styles.css
+body {
+  background-color: #282828;
+  color: #ebdbb2;
+  padding: 0 4%;
+  text-align: center;
+}
+
+h1, h3 {
+  background-color: #ebdbb2;
+  color: #282828;
+  text-align: center;
+}
+EOF
+
 echo "Script completed."
