@@ -88,4 +88,46 @@ create_main_index "$PICTURES_DIR" "$INDEX_FILE"
 # Finalize the main index HTML file
 echo "</body></html>" >> "$INDEX_FILE"
 
+# Function to create index.html
+create_index_html() {
+    cat << EOF > index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Index of Folders</title>
+</head>
+<body>
+    <h1>Index of Folders</h1>
+EOF
+
+    for folder in */ ; do
+        folder_name=${folder%/}
+        echo "<div class='folder-entry'>" >> index.html
+        echo "<h2><a href='${folder_name}.html'>$folder_name</a></h2>" >> index.html
+
+        # Add up to four images from the folder
+        img_count=0
+        for img_format in jpg jpeg png avif webp; do
+            for img in "${folder}"*.$img_format; do
+                if [ $img_count -ge 4 ]; then
+                    break 2  # Exit both loops when 4 images have been added
+                fi
+                if [ -f "$img" ]; then  # Check if the file actually exists
+                    echo "<img src='$img' alt='$folder_name Image'>" >> index.html
+                    ((img_count++))
+                fi
+            done
+        done
+
+        echo "</div>" >> index.html
+    done
+
+    cat << EOF >> index.html
+</body>
+</html>
+EOF
+}
+
+
 echo "Script completed."
