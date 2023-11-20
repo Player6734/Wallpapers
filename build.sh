@@ -4,8 +4,36 @@
 PICTURES_DIR=$(pwd)
 PREVIEWS_DIR="$PICTURES_DIR/.previews"
 
-# Function to create a scaled-down preview image from an original image
-#!/bin/bash
+
+
+cat << EOF > styles.css
+body {
+  background-color: #282828;
+  color: #ebdbb2;
+  padding: 0 4%;
+  text-align: center;
+}
+
+h1, h3 {
+  background-color: #ebdbb2;
+  color: #282828;
+  text-align: center;
+}
+
+img {
+  transition: transform 0.3s ease; /* Smooth transition for hover effect */
+}
+
+img:hover {
+  transform: scale(1.5); /* Enlarge image on hover */
+}
+
+a img {
+  border: 0; /* Remove border around images inside links */
+}
+
+EOF
+
 
 # Function to create preview images
 create_preview() {
@@ -174,34 +202,5 @@ for folder in */ ; do
 done
 
 create_index_html
-
-
-cat << EOF > styles.css
-body {
-  background-color: #282828;
-  color: #ebdbb2;
-  padding: 0 4%;
-  text-align: center;
-}
-
-h1, h3 {
-  background-color: #ebdbb2;
-  color: #282828;
-  text-align: center;
-}
-
-img {
-  transition: transform 0.3s ease; /* Smooth transition for hover effect */
-}
-
-img:hover {
-  transform: scale(1.5); /* Enlarge image on hover */
-}
-
-a img {
-  border: 0; /* Remove border around images inside links */
-}
-
-EOF
 
 echo "Script completed."
