@@ -104,7 +104,7 @@ EOF
     for folder in */ ; do
         folder_name=${folder%/}
         echo "<div class='folder-entry'>" >> index.html
-        echo "<h3><a href='${folder_name}.html'>$folder_name</a></h3>" >> index.html  # Titles as h3
+        echo "<h3><a href='${folder_name}.html'>$folder_name</a></h3>" >> index.html
 
         # Add up to four images from the .preview folder, with a height limit of 200 pixels
         img_count=0
@@ -114,10 +114,11 @@ EOF
                     break 2  # Exit both loops when 4 images have been added
                 fi
                 if [ -f "$img" ]; then  # Check if the file actually exists
-                    # Correct the path for the img src
                     preview_img_src="${folder_name}/.preview/$(basename "$img")"
                     echo "<img src='$preview_img_src' alt='$folder_name Image' style='height: 200px;'>" >> index.html
                     ((img_count++))
+                else
+                    echo "Image not found: $img" >> debug.log  # Add debug information
                 fi
             done
         done
