@@ -90,6 +90,7 @@ echo "</body></html>" >> "$INDEX_FILE"
 
 # Function to create index.html
 # Function to create index.html
+# Function to create index.html
 create_index_html() {
     cat << EOF > index.html
 <!DOCTYPE html>
@@ -111,7 +112,7 @@ EOF
         img_count=0
         for img_format in jpg jpeg png avif webp; do
             for original_img in "${folder}"*.$img_format; do
-                preview_img=".preview/"$original_img")"
+                preview_img=".preview/$(basename "$original_img")"
                 if [ $img_count -ge 4 ]; then
                     break 2  # Exit both loops when 4 images have been added
                 fi
@@ -132,6 +133,7 @@ EOF
 </html>
 EOF
 }
+
 
 
 create_index_html
