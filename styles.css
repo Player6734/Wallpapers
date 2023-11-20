@@ -10,3 +10,16 @@ h1, h3 {
   color: #282828;
   text-align: center;
 }
+
+img {
+  transition: transform 0.3s ease; /* Smooth transition for hover effect */
+}
+
+img:hover {
+  transform: scale(1.5); /* Enlarge image on hover */
+}
+
+a img {
+  border: 0; /* Remove border around images inside links */
+}
+
