@@ -121,11 +121,12 @@ EOF
 write_img() {
     local file_path="$1"
     local output_file="$2"
+    local subdir_name="$3"
     local file_name=$(basename "$file_path")
-    local preview_path=".preview/$file_name"  # Adjust the path to your preview directory structure
+    local preview_path="../.preview/$file_name"  # Adjust the path to your preview directory structure
 
     # Write the image tag wrapped in an anchor tag to the HTML file
-    echo "<a href=\"$file_path\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
+    echo "<a href=\"../${subdir_name}/${file_name}\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
 }
 
 
@@ -153,15 +154,16 @@ EOF
 
     for folder in */ ; do
         folder_name=${folder%/}
+        # Assuming index.html is in the same directory as styles.css and .preview
         echo "<div class='folder-entry'>" >> index.html
-        echo "<h3><a href='${folder_name}.html'>$folder_name</a></h3>" >> index.html
+        echo "<h3><a href='${SUBDIR_HTML_DIR}/${folder_name}.html'>$folder_name</a></h3>" >> index.html
 
         # Initialize a counter for the images
         local img_count=0
 
         # Loop through image files in the folder, sorted by name
         for img_file in "${folder}"*.{jpg,jpeg,png,avif,webp}; do
-            # Only proceed if it's a file
+            # Only proceed if it's a file and we have less than 4 images
             if [ -f "$img_file" ] && [ $img_count -lt 4 ]; then
                 # Increment the counter
                 ((img_count++))
@@ -170,12 +172,8 @@ EOF
                 file_name=$(basename "$img_file")
 
                 # Add the image and link to the original image in the index.html
+                # The preview image path is relative to index.html's location
                 echo "<a href='${folder}${file_name}' target='_blank'><img src='.preview/${file_name}' alt='$folder_name Image' style='height: 200px;'></a>" >> index.html
-            fi
-
-            # Break the loop if we have already added four images
-            if [ $img_count -eq 4 ]; then
-                break
             fi
         done
 
