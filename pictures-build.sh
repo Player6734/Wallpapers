@@ -136,16 +136,18 @@ EOF
 
 # Function to write an image tag to the HTML file
 write_img() {
-    local file_path="$1"
+    local original_file="$1"
     local output_file="$2"
-    local subdir_depth=$(awk -F"/" '{print NF-1}' <<< "$file_path")
-    local relative_path_prefix=$(printf '../%.0s' $(seq 1 $subdir_depth))
-    local file_name=$(basename "$file_path")
-    local preview_path="${relative_path_prefix}${PREVIEW_DIR}/$file_name"
+    local file_name=$(basename "$original_file")
+
+    # Calculate the depth of the output file relative to the top directory
+    local depth=$(awk -F"/" '{print NF-1}' <<< "${output_file#${SUBDIR_HTML_DIR}/}")
+    local preview_path=$(printf '../%.0s' $(seq 1 $depth))".preview/$file_name"
 
     # Write the image tag wrapped in an anchor tag to the HTML file
-    echo "<a href=\"${relative_path_prefix}${file_path}\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
+    echo "<a href=\"${preview_path}\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
 }
+
 
 
 # Function to create index.html
