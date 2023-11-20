@@ -222,3 +222,4 @@ done
 create_index_html
 
 echo "Script completed."
+exit 10
