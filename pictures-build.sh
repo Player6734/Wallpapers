@@ -82,15 +82,14 @@ create_preview() {
 create_subdir_index() {
     local dir_path="$1"
     local subdir_name=$(basename "$dir_path")
-    local subdir_html_file="${SUBDIR_HTML_DIR}/${subdir_name}.html"  # Save HTML in the subdir-html folder
-
+    local subdir_html_file="${SUBDIR_HTML_DIR}/${subdir_name}.html"
 
     # Write the header of the subdir index file
     write_header "$subdir_html_file" "$subdir_name"
 
     # Loop through each image file in the subdirectory and add it to the HTML
     find "$dir_path" -maxdepth 1 -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.webp" -o -name "*.avif" \) | while read file_path; do
-        write_img "$file_path" "$subdir_html_file"
+        write_img "$file_path" "$subdir_html_file" "$subdir_name"
     done
 
     # Finalize the HTML file
