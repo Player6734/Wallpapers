@@ -13,6 +13,14 @@ create_preview() {
     local preview_file="$2"
     local desired_height=200  # Set your desired height for the preview image
 
+    # Check if the preview already exists
+    if [ -f "$preview_file" ]; then
+        echo "Preview already exists: $preview_file" >> debug.log
+        return  # Skip creating the preview
+    fi
+
+    echo "Creating preview for $original_file..." >> debug.log
+
     mkdir -p ".preview"  # Ensure the .preview directory exists
 
     local original_width=$(identify -format "%w" "$original_file")
@@ -21,8 +29,9 @@ create_preview() {
     if [ "$original_height" -ne 0 ]; then
         local new_width=$((desired_height * original_width / original_height))
         convert "$original_file" -strip -quality 75 -resize "${new_width}x${desired_height}" "$preview_file"
+        echo "Preview created: $preview_file" >> debug.log
     else
-        echo "Error: Unable to read image dimensions for $original_file"
+        echo "Error: Unable to read image dimensions for $original_file" >> debug.log
     fi
 }
 
@@ -32,6 +41,8 @@ for folder in */ ; do
         if [ -f "$img_file" ]; then  # Check if it is a file
             file_name=$(basename "$img_file")
             create_preview "$img_file" ".preview/$file_name"
+        else
+            echo "No image file found for pattern: ${folder}*.{jpg,jpeg,png,avif,webp}" >> debug.log
         fi
     done
 done
