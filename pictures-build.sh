@@ -58,13 +58,15 @@ EOF
 write_img() {
     local file_path="$1"
     local output_file="$2"
+    local subdir_depth=$(awk -F"/" '{print NF-1}' <<< "$file_path")
+    local relative_path_prefix=$(printf '../%.0s' $(seq 1 $subdir_depth))
     local file_name=$(basename "$file_path")
-    local preview_path="../${PREVIEW_DIR}/$file_name"  # Path to the preview image
+    local preview_path="${relative_path_prefix}${PREVIEW_DIR}/$file_name"
 
     # Write the image tag wrapped in an anchor tag to the HTML file
-    # Link to the original image and use the preview image as the source
-    echo "<a href=\"../${file_path}\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
+    echo "<a href=\"${relative_path_prefix}${file_path}\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
 }
+
 
 # Function to create index.html
 create_index_html() {
