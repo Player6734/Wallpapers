@@ -1,80 +1,11 @@
 #!/bin/bash
 
-# Set the Pictures directory and the Previews directory.
-PICTURES_DIR=$(pwd)
-PREVIEWS_DIR="$PICTURES_DIR/.previews"
-SUBDIR_HTML_DIR="subdir-html"  # Name of the new directory to store HTML files
-mkdir -p "$SUBDIR_HTML_DIR"
-
-cat << EOF > styles.css
-body {
-  background-color: #282828;
-  color: #ebdbb2;
-  padding: 0 4%;
-  text-align: center;
-}
-
-h1, h3 {
-  background-color: #ebdbb2;
-  color: #282828;
-  text-align: center;
-}
-
-img {
-  transition: transform 0.3s ease; /* Smooth transition for hover effect */
-}
-
-img:hover {
-  transform: scale(1.2); /* Enlarge image on hover */
-}
-
-a img {
-  border: 0; /* Remove border around images inside links */
-}
-
-EOF
-
+# here it sets the directory variables based on $pwd
+# here it creates the styles.css file
 
 # Function to create preview images
-create_preview() {
-    local original_file="$1"
-    local preview_file="$2"
-    local desired_height=200  # Set your desired height for the preview image
-    if [ -z "$original_file" ]; then
-        echo "No file name provided for preview creation" >> debug.log
-        return
-    fi
 
-    echo "Checking preview for: $original_file" >> debug.log
-
-    # Check if the preview already exists
-    if [ -f "$preview_file" ]; then
-        echo "Preview already exists: $preview_file" >> debug.log
-        return  # Skip creating the preview
-    fi
-
-    echo "Creating preview for $original_file" >> debug.log
-
-    mkdir -p ".preview"  # Ensure the .preview directory exists
-    echo "Directory checked/created for .preview" >> debug.log
-
-    local original_width=$(identify -format "%w" "$original_file")
-    local original_height=$(identify -format "%h" "$original_file")
-    echo "Dimensions for $original_file: Width=$original_width, Height=$original_height" >> debug.log
-
-    if [ "$original_height" -ne 0 ]; then
-        local new_width=$((desired_height * original_width / original_height))
-        echo "Processing file: $img_file" >> debug.log
-        convert "$original_file" -strip -quality 75 -resize "${new_width}x${desired_height}" "$preview_file" 2>> debug.log
-        if [ $? -eq 0 ]; then
-            echo "Preview successfully created: $preview_file" >> debug.log
-        else
-            echo "Error during conversion for $original_file" >> debug.log
-        fi
-    else
-        echo "Error: Unable to read image dimensions for $original_file" >> debug.log
-    fi
-}
+# Here there is a create_preview function that converts all images to a smaller format in the PREVIEWS_DIR variable previously set
 
 
 
@@ -135,18 +66,6 @@ write_img() {
     echo "<a href=\"../${file_path}\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
 }
 
-
-
-# Create the main index file with a header
-
-# Loop through each folder in the Pictures directory to create subdir HTMLs
-for subdir in "${PICTURES_DIR}"/*/; do
-    if [ -d "$subdir" ]; then
-        create_subdir_index "$subdir"
-    fi
-done
-
-# Function to create index.html
 # Function to create index.html
 create_index_html() {
     cat << EOF > index.html
@@ -198,14 +117,13 @@ EOF
 EOF
 }
 
-# Call the function to create index.html
-create_index_html
 
-
-# Call the function to create index.html
-create_index_html
-
-
+# Loop through each folder in the Pictures directory to create subdir HTMLs
+for subdir in "${PICTURES_DIR}"/*/; do
+    if [ -d "$subdir" ]; then
+        create_subdir_index "$subdir"
+    fi
+done
 
 
 for folder in */ ; do
@@ -229,4 +147,3 @@ done
 create_index_html
 
 echo "Script completed."
-exit 10
