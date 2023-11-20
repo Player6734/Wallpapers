@@ -148,9 +148,9 @@ EOF
 EOF
 }
 
+create_index_html
 
 create_preview
-create_index_html
 
 
 echo "Script completed."
