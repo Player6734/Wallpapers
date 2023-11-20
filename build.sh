@@ -99,7 +99,6 @@ write_img() {
 }
 
 # Create the main index file with a header
-INDEX_FILE="$PICTURES_DIR/index.html"
 
 # Loop through each folder in the Pictures directory to create subdir HTMLs
 for subdir in "$PICTURES_DIR"/*/; do
@@ -107,12 +106,6 @@ for subdir in "$PICTURES_DIR"/*/; do
         create_subdir_index "$subdir"
     fi
 done
-
-# Generate main index previews after subdir HTMLs to ensure the preview images exist
-# create_main_index "$PICTURES_DIR" "$INDEX_FILE"
-
-# Finalize the main index HTML file
-echo "</body></html>" >> "$INDEX_FILE"
 
 # Function to create index.html
 create_index_html() {
@@ -180,6 +173,6 @@ for folder in */ ; do
     done
 done
 
-#create_index_html
+create_index_html
 
 echo "Script completed."
