@@ -163,7 +163,24 @@ EOF
 
 create_index_html
 
-create_preview
+for folder in */ ; do
+    for img_file in "${folder}"*; do
+        # Extract file extension and check if it's a valid image format
+        file_extension="${img_file##*.}"
+        case "$file_extension" in
+            jpg|jpeg|png|avif|webp)
+                # It's a valid image file, process it
+                file_name=$(basename "$img_file")
+                create_preview "$img_file" ".preview/$file_name"
+                ;;
+            *)
+                # Not a valid image file, skip it
+                echo "Skipping non-image file: $img_file" >> debug.log
+                ;;
+        esac
+    done
+done
+
 
 
 echo "Script completed."
