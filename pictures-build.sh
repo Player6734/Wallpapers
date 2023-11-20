@@ -77,9 +77,13 @@ create_preview() {
 
 # Function to create an HTML file for a subdirectory showing all images
 create_subdir_index() {
-    local dir_path="$1"
+    local dir_path="${1%/}"  # Remove trailing slash
     local relative_path="${dir_path#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
-    local html_file_name="${relative_path//\//-}.html"  # Replace '/' with '-' in file name
+    local html_file_name="${relative_path//\//-}"  # Replace '/' with '-'
+
+    # Trim any trailing '-' characters from the file name
+    html_file_name="${html_file_name%-}.html"
+
     local html_file_path="${SUBDIR_HTML_DIR}/${html_file_name}"
 
     # Write the header for the HTML file
@@ -102,6 +106,7 @@ create_subdir_index() {
     # Finalize the HTML file
     echo "</body></html>" >> "$html_file_path"
 }
+
 
 
 # Function to write the header of the HTML file
