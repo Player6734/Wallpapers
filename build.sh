@@ -161,7 +161,7 @@ EOF
 EOF
 }
 
-create_index_html
+
 
 for folder in */ ; do
     for img_file in "${folder}"*; do
@@ -181,6 +181,6 @@ for folder in */ ; do
     done
 done
 
-
+create_index_html
 
 echo "Script completed."
