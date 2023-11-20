@@ -98,13 +98,13 @@ create_index_html() {
     <title>Index of Folders</title>
 </head>
 <body>
-    <h1>Index of Folders</h1>
+    <h3>Index of Folders</h3>
 EOF
 
     for folder in */ ; do
         folder_name=${folder%/}
         echo "<div class='folder-entry'>" >> index.html
-        echo "<h1><a href='${folder_name}.html'>$folder_name</a></h1>" >> index.html  # Titles as h1
+        echo "<h3><a href='${folder_name}.html'>$folder_name</a></h3>" >> index.html  # Titles as h1
 
         # Add up to four images from the folder, with a height limit of 200 pixels
         img_count=0
@@ -128,7 +128,7 @@ EOF
 </html>
 EOF
 }
-
+x
 create_index_html
 
 
