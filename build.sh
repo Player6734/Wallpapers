@@ -13,18 +13,22 @@ create_preview() {
     local preview_file="$2"
     local desired_height=200  # Set your desired height for the preview image
 
+    echo "Checking preview for: $original_file" >> debug.log
+
     # Check if the preview already exists
     if [ -f "$preview_file" ]; then
         echo "Preview already exists: $preview_file" >> debug.log
         return  # Skip creating the preview
     fi
 
-    echo "Creating preview for $original_file..." >> debug.log
+    echo "Creating preview for $original_file" >> debug.log
 
     mkdir -p ".preview"  # Ensure the .preview directory exists
+    echo "Directory checked/created for .preview" >> debug.log
 
     local original_width=$(identify -format "%w" "$original_file")
     local original_height=$(identify -format "%h" "$original_file")
+    echo "Dimensions for $original_file: Width=$original_width, Height=$original_height" >> debug.log
 
     if [ "$original_height" -ne 0 ]; then
         local new_width=$((desired_height * original_width / original_height))
@@ -35,17 +39,6 @@ create_preview() {
     fi
 }
 
-# Main script to loop through folders and create previews
-for folder in */ ; do
-    for img_file in "${folder}"*.{jpg,jpeg,png,avif,webp}; do
-        if [ -f "$img_file" ]; then  # Check if it is a file
-            file_name=$(basename "$img_file")
-            create_preview "$img_file" ".preview/$file_name"
-        else
-            echo "No image file found for pattern: ${folder}*.{jpg,jpeg,png,avif,webp}" >> debug.log
-        fi
-    done
-done
 
 
 # Function to create an HTML file for a subdirectory showing all images
