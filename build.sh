@@ -118,7 +118,6 @@ EOF
 }
 
 # Function to write an image tag to the HTML file
-# Function to write an image tag to the HTML file
 write_img() {
     local file_path="$1"
     local output_file="$2"
