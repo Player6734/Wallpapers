@@ -4,7 +4,7 @@ PICTURES_DIR=$(pwd)
 PREVIEWS_DIR="$PICTURES_DIR/.previews"
 SUBDIR_HTML_DIR="subdir-html"  # Name of the new directory to store HTML files
 mkdir -p "$SUBDIR_HTML_DIR"
-
+mkdir -p "$PREVIEWS_DIR"
 cat << EOF > styles.css
 body {
   background-color: #282828;
