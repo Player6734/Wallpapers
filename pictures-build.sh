@@ -20,7 +20,11 @@ create_subdir_index() {
     write_header "$html_file_path" "$(basename "$dir_path")"
 
     # Process images in the directory
-    write_img "$dir_path" "$html_file_path"
+    for img_file in "$dir_path"*.{jpg,jpeg,png,avif,webp}; do
+        if [ -f "$img_file" ]; then
+            write_img "$img_file" "$html_file_path"
+        fi
+    done
 
     # Recursively process subdirectories
     for subdir in "$dir_path"/*/; do
@@ -32,6 +36,7 @@ create_subdir_index() {
     # Finalize the HTML file
     echo "</body></html>" >> "$html_file_path"
 }
+
 
 # Function to write the header of the HTML file
 write_header() {
