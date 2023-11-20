@@ -35,44 +35,38 @@ EOF
 # Function to create preview images
 
 create_preview() {
-    local original_file="$1"
-    local preview_file="$2"
-    local desired_height=200  # Set your desired height for the preview image
-    if [ -z "$original_file" ]; then
-        echo "No file name provided for preview creation" >> debug.log
-        return
-    fi
+    local dir_path="$1"
 
-    echo "Checking preview for: $original_file" >> debug.log
+    # Loop through each image file in the directory and subdirectories
+    find "$dir_path" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.avif" -o -name "*.webp" \) | while read original_file; do
+        local file_name=$(basename "$original_file")
+        local preview_file="${PREVIEW_DIR}/$file_name"
 
-    # Check if the preview already exists
-    if [ -f "$preview_file" ]; then
-        echo "Preview already exists: $preview_file" >> debug.log
-        return  # Skip creating the preview
-    fi
-
-    echo "Creating preview for $original_file" >> debug.log
-
-    mkdir -p ".preview"  # Ensure the .preview directory exists
-    echo "Directory checked/created for .preview" >> debug.log
-
-    local original_width=$(identify -format "%w" "$original_file")
-    local original_height=$(identify -format "%h" "$original_file")
-    echo "Dimensions for $original_file: Width=$original_width, Height=$original_height" >> debug.log
-
-    if [ "$original_height" -ne 0 ]; then
-        local new_width=$((desired_height * original_width / original_height))
-        echo "Processing file: $img_file" >> debug.log
-        convert "$original_file" -strip -quality 75 -resize "${new_width}x${desired_height}" "$preview_file" 2>> debug.log
-        if [ $? -eq 0 ]; then
-            echo "Preview successfully created: $preview_file" >> debug.log
-        else
-            echo "Error during conversion for $original_file" >> debug.log
+        # Skip creating the preview if it already exists
+        if [ -f "$preview_file" ]; then
+            echo "Preview already exists: $preview_file" >> debug.log
+            continue
         fi
-    else
-        echo "Error: Unable to read image dimensions for $original_file" >> debug.log
-    fi
+
+        echo "Creating preview for $original_file" >> debug.log
+
+        local original_width=$(identify -format "%w" "$original_file")
+        local original_height=$(identify -format "%h" "$original_file")
+
+        if [ "$original_height" -ne 0 ]; then
+            local new_width=$((desired_height * original_width / original_height))
+            convert "$original_file" -strip -quality 75 -resize "${new_width}x${desired_height}" "$preview_file" 2>> debug.log
+            if [ $? -eq 0 ]; then
+                echo "Preview successfully created: $preview_file" >> debug.log
+            else
+                echo "Error during conversion for $original_file" >> debug.log
+            fi
+        else
+            echo "Error: Unable to read image dimensions for $original_file" >> debug.log
+        fi
+    done
 }
+
 
 
 # Function to create an HTML file for a subdirectory showing all images
