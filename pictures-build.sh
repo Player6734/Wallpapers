@@ -46,12 +46,6 @@ create_preview() {
 
     echo "Checking preview for: $original_file" >> debug.log
 
-    # Ensure the preview file path is relative and does not start with '/'
-    if [[ "$preview_file" = /* ]]; then
-        echo "Invalid preview file path: $preview_file" >> debug.log
-        return
-    fi
-
     # Check if the preview already exists
     if [ -f "$preview_file" ]; then
         echo "Preview already exists: $preview_file" >> debug.log
@@ -78,6 +72,7 @@ create_preview() {
         echo "Error: Unable to read image dimensions for $original_file" >> debug.log
     fi
 }
+
 
 # Function to create an HTML file for a subdirectory and process images
 process_directory_and_create_previews() {
