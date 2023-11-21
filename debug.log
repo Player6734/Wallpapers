@@ -75,3 +75,711 @@ convert: unable to open image '/23.jpg': Permission denied @ error/blob.c/OpenBl
 Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//23.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//2.jpg
 Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//2.jpg: Width=4000, Height=5000
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//3.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//3.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//3.jpg: Width=4000, Height=5000
+convert: unable to open image '/3.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//4.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//4.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//4.jpg: Width=4000, Height=5000
+convert: unable to open image '/4.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//4.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//5.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//5.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//5.jpg: Width=4000, Height=5000
+convert: unable to open image '/5.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//5.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//6.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//6.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//6.jpg: Width=5200, Height=2925
+convert: unable to open image '/6.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//6.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//7.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//7.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//7.jpg: Width=4000, Height=5000
+convert: unable to open image '/7.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//7.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//8.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//8.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//8.jpg: Width=4000, Height=5000
+convert: unable to open image '/8.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//8.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//9.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//9.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//9.jpg: Width=3000, Height=3750
+convert: unable to open image '/9.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//9.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_10.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_10.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_10.jpg: Width=1440, Height=1800
+convert: unable to open image '/Baka_CO_10.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_10.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_11.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_11.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_11.jpg: Width=1440, Height=1800
+convert: unable to open image '/Baka_CO_11.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_11.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_1.jpg: Width=2000, Height=2500
+convert: unable to open image '/Baka_CO_1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_2.jpg: Width=2000, Height=2500
+convert: unable to open image '/Baka_CO_2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_3.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_3.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_3.jpg: Width=2000, Height=2500
+convert: unable to open image '/Baka_CO_3.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_4.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_4.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_4.jpg: Width=2000, Height=2500
+convert: unable to open image '/Baka_CO_4.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_4.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_5.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_5.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_5.jpg: Width=800, Height=1000
+convert: unable to open image '/Baka_CO_5.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_5.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_6.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_6.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_6.jpg: Width=2000, Height=2500
+convert: unable to open image '/Baka_CO_6.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_6.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_7.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_7.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_7.jpg: Width=2000, Height=2500
+convert: unable to open image '/Baka_CO_7.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_7.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_8.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_8.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_8.jpg: Width=1600, Height=2000
+convert: unable to open image '/Baka_CO_8.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_8.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_9.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_9.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_9.jpg: Width=1800, Height=2250
+convert: unable to open image '/Baka_CO_9.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_9.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_1.jpg: Width=3000, Height=3750
+convert: unable to open image '/Person-R_1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_2.jpg: Width=3000, Height=3750
+convert: unable to open image '/Person-R_2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_3.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_3.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_3.jpg: Width=3000, Height=3750
+convert: unable to open image '/Person-R_3.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_1.jpg: Width=3000, Height=3750
+convert: unable to open image '/Person-T_1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_2.jpg: Width=3000, Height=3750
+convert: unable to open image '/Person-T_2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_3.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_3.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_3.jpg: Width=3000, Height=3750
+convert: unable to open image '/Person-T_3.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_1.jpg: Width=3000, Height=3750
+convert: unable to open image '/Person-W_1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_2.jpg: Width=3000, Height=3750
+convert: unable to open image '/Person-W_2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_3.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_3.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_3.jpg: Width=3000, Height=3750
+convert: unable to open image '/Person-W_3.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//RESULT.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//RESULT.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//RESULT.jpg: Width=1080, Height=1080
+convert: unable to open image '/RESULT.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//RESULT.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//11.png
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//11.png
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//11.png: Width=3200, Height=4000
+convert: unable to open image '/11.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/11.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//11.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//24.png
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//24.png
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//24.png: Width=4000, Height=5000
+convert: unable to open image '/24.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/24.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//24.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_1.png
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_1.png
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_1.png: Width=2000, Height=2500
+convert: unable to open image '/Person-M_1.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Person-M_1.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_1.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_2.png
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_2.png
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_2.png: Width=2000, Height=2500
+convert: unable to open image '/Person-M_2.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Person-M_2.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_2.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_3.png
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_3.png
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_3.png: Width=2000, Height=2500
+convert: unable to open image '/Person-M_3.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Person-M_3.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_3.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-01.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-02.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-03.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-03.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-03.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-03.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-04.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-04.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-05.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-05.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-05.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-05.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-05.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-06.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-06.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-06.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-06.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-06.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-07.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-07.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-07.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-07.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-07.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-08.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-08.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-08.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-08.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-08.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-09.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-09.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-09.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-09.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-09.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-10.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-10.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-10.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-10.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-10.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-11.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-11.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-11.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-11.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-11.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-12.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-12.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-12.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-12.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-12.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-13.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-13.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-13.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-13.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-13.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-14.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-14.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-14.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-14.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-14.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-15.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-15.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-15.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-15.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-15.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-16.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-16.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-16.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-16.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-16.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-17.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-17.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-17.jpg: Width=4096, Height=2160
+convert: unable to open image '/Betta-Fish-17.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-17.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Cars//911-DownRoad.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Cars//911-DownRoad.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Cars//911-DownRoad.jpg: Width=2256, Height=1504
+convert: unable to open image '/911-DownRoad.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Cars//911-DownRoad.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Cars//911-Station.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Cars//911-Station.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Cars//911-Station.jpg: Width=2256, Height=1504
+convert: unable to open image '/911-Station.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Cars//911-Station.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Cars//Ford-GT40.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Cars//Ford-GT40.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Cars//Ford-GT40.jpg: Width=2256, Height=1504
+convert: unable to open image '/Ford-GT40.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Cars//Ford-GT40.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Cars//Pikes-peak.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Cars//Pikes-peak.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Cars//Pikes-peak.jpg: Width=2256, Height=1504
+convert: unable to open image '/Pikes-peak.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Cars//Pikes-peak.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Cars//Pikes-peak-Sunset.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Cars//Pikes-peak-Sunset.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Cars//Pikes-peak-Sunset.jpg: Width=2256, Height=1504
+convert: unable to open image '/Pikes-peak-Sunset.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Cars//Pikes-peak-Sunset.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Chosen_Desktop.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Chosen_Desktop.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Chosen_Desktop.jpg: Width=3840, Height=2160
+convert: unable to open image '/Chosen_Desktop.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Chosen_Desktop.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B01.jpg: Width=3840, Height=2160
+convert: unable to open image '/E_B01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B02.jpg: Width=3840, Height=2160
+convert: unable to open image '/E_B02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Eternal_God.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Eternal_God.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Eternal_God.jpg: Width=3840, Height=2160
+convert: unable to open image '/Eternal_God.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Eternal_God.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Future_Ramen.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Future_Ramen.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Future_Ramen.jpg: Width=3840, Height=2160
+convert: unable to open image '/Future_Ramen.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Future_Ramen.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Chosen_Desktop.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Chosen_Desktop.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Chosen_Desktop.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_Chosen_Desktop.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Chosen_Desktop.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B01.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_E_B01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B02.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_E_B02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Eternal_God.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Eternal_God.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Eternal_God.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_Eternal_God.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Eternal_God.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Future_Ramen.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Future_Ramen.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Future_Ramen.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_Future_Ramen.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Future_Ramen.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Heal.EXE.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Heal.EXE.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Heal.EXE.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_Heal.EXE.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Heal.EXE.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Lost_Kids.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Lost_Kids.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Lost_Kids.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_Lost_Kids.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Lost_Kids.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_MX_76.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_MX_76.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_MX_76.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_MX_76.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_MX_76.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Nira_and_Mona.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Nira_and_Mona.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Nira_and_Mona.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_Nira_and_Mona.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Nira_and_Mona.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P01.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_P01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P02.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_P02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P03.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P03.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P03.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_P03.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P6_Concept.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P6_Concept.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P6_Concept.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_P6_Concept.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P6_Concept.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Pioneer_Adventure_vol1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Pioneer_Adventure_vol1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Pioneer_Adventure_vol1.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_Pioneer_Adventure_vol1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Pioneer_Adventure_vol1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_01.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_PIONEER_Concepts_01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_07.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_07.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_07.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_PIONEER_Concepts_07.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_07.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_01.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_PIONEER_SP_01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_02.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_PIONEER_SP_02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_03.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_03.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_03.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_PIONEER_SP_03.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_04.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_PIONEER_SP_04.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_05.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_05.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_05.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_PIONEER_SP_05.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_05.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Robotic_Friend.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Robotic_Friend.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Robotic_Friend.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_Robotic_Friend.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Robotic_Friend.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_01.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_RS_DELTA_01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_02.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_RS_DELTA_02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_04.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_RS_DELTA_04.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_01.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_SEVEN_CRD_01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_02.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_SEVEN_CRD_02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_04.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_SEVEN_CRD_04.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven_Industries.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven_Industries.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven_Industries.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_Seven_Industries.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven_Industries.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_Seven.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SN_05_RE.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SN_05_RE.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SN_05_RE.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_SN_05_RE.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SN_05_RE.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy_Darkmode.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy_Darkmode.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy_Darkmode.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_Space_Boy_Darkmode.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy_Darkmode.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy.jpg: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_Space_Boy.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Heal.EXE.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Heal.EXE.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Heal.EXE.jpg: Width=3840, Height=2160
+convert: unable to open image '/Heal.EXE.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Heal.EXE.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Lost_Kids.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Lost_Kids.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Lost_Kids.jpg: Width=3840, Height=2160
+convert: unable to open image '/Lost_Kids.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Lost_Kids.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//MX_76.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//MX_76.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//MX_76.jpg: Width=3840, Height=2160
+convert: unable to open image '/MX_76.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//MX_76.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Nira_and_Mona.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Nira_and_Mona.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Nira_and_Mona.jpg: Width=3840, Height=2160
+convert: unable to open image '/Nira_and_Mona.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Nira_and_Mona.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P01.jpg: Width=3840, Height=2160
+convert: unable to open image '/P01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P02.jpg: Width=3840, Height=2160
+convert: unable to open image '/P02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P03.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P03.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P03.jpg: Width=3840, Height=2160
+convert: unable to open image '/P03.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P6_Concept.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P6_Concept.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P6_Concept.jpg: Width=3840, Height=2160
+convert: unable to open image '/P6_Concept.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P6_Concept.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Pioneer_Adventure_vol1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Pioneer_Adventure_vol1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Pioneer_Adventure_vol1.jpg: Width=3840, Height=2160
+convert: unable to open image '/Pioneer_Adventure_vol1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Pioneer_Adventure_vol1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_Concepts_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_Concepts_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_Concepts_01.jpg: Width=3840, Height=2160
+convert: unable to open image '/PIONEER_Concepts_01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_Concepts_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_Concepts_07.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_Concepts_07.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_Concepts_07.jpg: Width=3840, Height=2160
+convert: unable to open image '/PIONEER_Concepts_07.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_Concepts_07.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_01.jpg: Width=3840, Height=2160
+convert: unable to open image '/PIONEER_SP_01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_02.jpg: Width=3840, Height=2160
+convert: unable to open image '/PIONEER_SP_02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_03.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_03.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_03.jpg: Width=3840, Height=2160
+convert: unable to open image '/PIONEER_SP_03.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_04.jpg: Width=3840, Height=2160
+convert: unable to open image '/PIONEER_SP_04.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_05.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_05.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_05.jpg: Width=3840, Height=2160
+convert: unable to open image '/PIONEER_SP_05.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_05.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Robotic_Friend.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Robotic_Friend.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Robotic_Friend.jpg: Width=3840, Height=2160
+convert: unable to open image '/Robotic_Friend.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Robotic_Friend.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_01.jpg: Width=3840, Height=2160
+convert: unable to open image '/RS_DELTA_01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_02.jpg: Width=3840, Height=2160
+convert: unable to open image '/RS_DELTA_02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_04.jpg: Width=3840, Height=2160
+convert: unable to open image '/RS_DELTA_04.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_01.jpg: Width=3840, Height=2160
+convert: unable to open image '/SEVEN_CRD_01.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_02.jpg: Width=3840, Height=2160
+convert: unable to open image '/SEVEN_CRD_02.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_04.jpg: Width=3840, Height=2160
+convert: unable to open image '/SEVEN_CRD_04.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Seven_Industries.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Seven_Industries.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Seven_Industries.jpg: Width=3840, Height=2160
+convert: unable to open image '/Seven_Industries.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Seven_Industries.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Seven.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Seven.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Seven.jpg: Width=3840, Height=2160
+convert: unable to open image '/Seven.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Seven.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SN_05_RE.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SN_05_RE.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SN_05_RE.jpg: Width=3840, Height=2160
+convert: unable to open image '/SN_05_RE.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SN_05_RE.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Space_Boy_Darkmode.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Space_Boy_Darkmode.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Space_Boy_Darkmode.jpg: Width=3840, Height=2160
+convert: unable to open image '/Space_Boy_Darkmode.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Space_Boy_Darkmode.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Space_Boy.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Space_Boy.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Space_Boy.jpg: Width=3840, Height=2160
+convert: unable to open image '/Space_Boy.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Space_Boy.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_1.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_1.png
+Dimensions for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_1.png: Width=3840, Height=2160
+convert: unable to open image '/Eizin_Suzuki_1.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Eizin_Suzuki_1.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_1.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_2.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_2.png
+Dimensions for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_2.png: Width=2560, Height=1440
+convert: unable to open image '/Eizin_Suzuki_2.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Eizin_Suzuki_2.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_2.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_3.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_3.png
+Dimensions for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_3.png: Width=2560, Height=1440
+convert: unable to open image '/Eizin_Suzuki_3.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Eizin_Suzuki_3.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_3.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_4.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_4.png
+Dimensions for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_4.png: Width=3840, Height=2160
+convert: unable to open image '/Eizin_Suzuki_4.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Eizin_Suzuki_4.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_4.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_5.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_5.png
+Dimensions for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_5.png: Width=3840, Height=2160
+convert: unable to open image '/Eizin_Suzuki_5.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Eizin_Suzuki_5.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_5.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_6.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_6.png
+Dimensions for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_6.png: Width=1080, Height=766
+convert: unable to open image '/Eizin_Suzuki_6.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Eizin_Suzuki_6.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_6.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//forest-2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//forest-2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//forest-2.jpg: Width=3840, Height=2160
+convert: unable to open image '/forest-2.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//forest-2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//forest-foggy-misty-cloudy.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//forest-foggy-misty-cloudy.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//forest-foggy-misty-cloudy.jpg: Width=6012, Height=3382
+convert: unable to open image '/forest-foggy-misty-cloudy.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//forest-foggy-misty-cloudy.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_spac.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_spac.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_spac.jpg: Width=1920, Height=1080
+convert: unable to open image '/gruvbox_spac.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_spac.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruv-sushi-streets.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//gruv-sushi-streets.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//gruv-sushi-streets.jpg: Width=1920, Height=1080
+convert: unable to open image '/gruv-sushi-streets.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//gruv-sushi-streets.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//pacman-ghosts.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//pacman-ghosts.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//pacman-ghosts.jpg: Width=1920, Height=1080
+convert: unable to open image '/pacman-ghosts.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//pacman-ghosts.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//platform.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//platform.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//platform.jpg: Width=2750, Height=1546
+convert: unable to open image '/platform.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//platform.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//solar-system.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//solar-system.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//solar-system.jpg: Width=3840, Height=2160
+convert: unable to open image '/solar-system.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//solar-system.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//sprouted_flowers.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//sprouted_flowers.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//sprouted_flowers.jpg: Width=1192, Height=670
+convert: unable to open image '/sprouted_flowers.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//sprouted_flowers.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//7731806.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//7731806.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//7731806.png: Width=2560, Height=1600
+convert: unable to open image '/7731806.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/7731806.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//7731806.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Arch.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Arch.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Arch.png: Width=3840, Height=2160
+convert: unable to open image '/Arch.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/Arch.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Arch.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//board.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//board.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//board.png: Width=3840, Height=2160
+convert: unable to open image '/board.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/board.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//board.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//chinatown.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//chinatown.png
