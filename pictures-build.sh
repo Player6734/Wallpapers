@@ -236,5 +236,5 @@ find "$PICTURES_DIR" -path "$PICTURES_DIR/.previews" -prune -o -type f \( -name 
 done
 
 create_index_html
-rm $SUBDIR_HTML_DIR/$SUBDIR_HTML_DIR
+rm $SUBDIR_HTML_DIR/$SUBDIR_HTML_DIR.html
 echo "Script completed."
