@@ -167,12 +167,10 @@ EOF
 write_img() {
     local original_file="$1"
     local output_file="$2"
-    local file_name=$(basename "$original_file")
+    local relative_path="$3"  # Added this line
 
-    # Calculate the depth of the output file relative to the top directory
     local preview_depth=$(grep -o "/" <<< "$relative_path" | wc -l)
     local preview_path_prefix=$(printf '../%.0s' $(seq 1 $preview_depth))
-    local preview_path="${preview_path_prefix}.previews/$file_name"
 
     # Calculate relative path to the original file
     local relative_dir_path="${original_file#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
