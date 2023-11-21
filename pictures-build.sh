@@ -222,7 +222,7 @@ for subdir in "$PICTURES_DIR"/*/; do
 done
 
 # Create previews for each image file
-find "$PICTURES_DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.avif" -o -name "*.webp" \) | while read img_file; do
+find "$PICTURES_DIR" -path "$PICTURES_DIR/.previews" -prune -o -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.avif" -o -name "*.webp" \) -print | while read img_file; do
     file_name=$(basename "$img_file")
     create_preview "$img_file" "$PREVIEWS_DIR/$file_name"
 done
