@@ -158,7 +158,7 @@ write_img() {
 
     # Calculate the depth of the output file relative to the top directory
     local depth=$(awk -F"/" '{print NF-1}' <<< "${output_file#${SUBDIR_HTML_DIR}/}")
-    local preview_path=$(printf '../%.0s' $(seq 1 $depth))".preview/$file_name"
+    local preview_path=$(printf '../%.0s' $(seq 1 $depth))".previews/$file_name"
 
     # Calculate relative path to the original file
     local relative_dir_path="${original_file#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
