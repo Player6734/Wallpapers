@@ -102,12 +102,12 @@ process_directory() {
     mkdir -p "$(dirname "$html_file_path")"
 
     # Write the header for the HTML file
-    write_header "$html_file_path" "$(basename "$dir_path")"
+    write_header "$html_file_path" "$(basename "$dir_path")" "$relative_path"
 
-    # Process images in the directory for HTML
+    # Process images and pass relative_path to write_img
     for img_file in "$dir_path"/*.{jpg,jpeg,png,avif,webp}; do
         if [ -f "$img_file" ]; then
-            write_img "$img_file" "$html_file_path"
+            write_img "$img_file" "$html_file_path" "$relative_path"
         fi
     done
 
@@ -136,9 +136,11 @@ process_directory() {
 write_header() {
     local output_file="$1"
     local title="$2"
+    local relative_path="$3"  # Added this line
+
     local depth=$(grep -o "/" <<< "$relative_path" | wc -l)
     local relative_path_prefix=$(printf '../%.0s' $(seq 1 $depth))
-    echo "<link rel='stylesheet' type='text/css' href='${relative_path_prefix}styles.css'>" >> "$output_file"
+
 
     echo "Calculated preview path: $preview_path" >> debug.log
     echo "Calculated CSS path: ${relative_path_prefix}styles.css" >> debug.log
