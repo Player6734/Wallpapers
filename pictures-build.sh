@@ -204,24 +204,21 @@ list_directories_recursively() {
         if [ -d "$folder" ]; then
             folder_name=$(basename "$folder")
 
-            # Skip the .previews directory
-            if [[ "$folder_name" != ".previews" ]]; then
-                local relative_path="${folder#$PICTURES_DIR/}"
-                local html_file_path="${SUBDIR_HTML_DIR}/${relative_path}/index.html"
-
+            # Skip the subdir-html folder and .previews directory
+            if [[ "$folder_name" != "subdir-html" && "$folder_name" != ".previews" ]]; then
                 # Write the folder name with a link to its HTML file
                 echo "$indentation<div class='folder-entry'>" >> index.html
-                echo "$indentation<h3><a href='$html_file_path'>$folder_name</a></h3>" >> index.html
+                local html_file_name="${folder_name//\//-}.html"
+                echo "$indentation<h3><a href='${SUBDIR_HTML_DIR}/${html_file_name}'>$folder_name</a></h3>" >> index.html
 
-                # Optionally add a preview image here
-
-                # Recursively list subdirectories
+                # Recursively list subdirectories, skipping subdir-html
                 list_directories_recursively "$folder" "$indentation&nbsp;&nbsp;&nbsp;&nbsp;"
                 echo "$indentation</div>" >> index.html
             fi
         fi
     done
 }
+
 
 
 
