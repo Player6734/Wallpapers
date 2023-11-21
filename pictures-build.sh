@@ -156,6 +156,7 @@ EOF
 }
 
 
+
 # Function to write an image tag to the HTML file
 write_img() {
     local original_file="$1"
