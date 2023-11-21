@@ -212,19 +212,18 @@ list_directories_recursively() {
 
 
 
+# Process each subdirectory
 for subdir in "$PICTURES_DIR"/*/; do
     if [ -d "$subdir" ]; then
-        process_directory"$subdir"
+        process_directory "$subdir"
     fi
 done
 
+# Create previews for each image file
 find "$PICTURES_DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.avif" -o -name "*.webp" \) | while read img_file; do
     file_name=$(basename "$img_file")
-    echo "Constructed preview path: $PREVIEWS_DIR$file_name" >> debug.log
-    create_preview "$img_file" "$PREVIEWS_DIR$file_name"
+    create_preview "$img_file" "$PREVIEWS_DIR/$file_name"
 done
-
-
 
 create_index_html
 
