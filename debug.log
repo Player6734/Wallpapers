@@ -1941,9 +1941,7 @@ Preview already exists: .preview/gruvbox_Minimalistic-0.png
 Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-Minimalistic/gruvbox_live-laugh-love.jpg
 Preview already exists: .preview/gruvbox_live-laugh-love.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-Minimalistic/more/icon.png
-Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-Minimalistic/more/icon.png
-Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-Minimalistic/more/icon.png: Width=342, Height=342
-Preview successfully created: .preview/icon.png
+Preview already exists: .preview/icon.png
 Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-mix/among-us.jpg
 Preview already exists: .preview/among-us.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-mix/astronaut.jpg
@@ -4204,3 +4202,5 @@ Checking preview for: /home/iori/Pictures/Wallpapers/.preview/secluded-grove-pix
 Preview already exists: .preview/secluded-grove-pixel.png
 Checking preview for: /home/iori/Pictures/Wallpapers/.preview/wall_secondary.png
 Preview already exists: .preview/wall_secondary.png
+Checking preview for: /home/iori/Pictures/Wallpapers/.preview/icon.png
+Preview already exists: .preview/icon.png
