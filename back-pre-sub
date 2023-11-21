@@ -2,7 +2,7 @@
 
 # Set the Pictures directory and the Previews directory.
 PICTURES_DIR=$(pwd)
-PREVIEWS_DIR="$PICTURES_DIR/.previews"
+PREVIEWS_DIR="$PICTURES_DIR/.previewss"
 SUBDIR_HTML_DIR="subdir-html"  # Name of the new directory to store HTML files
 mkdir -p "$SUBDIR_HTML_DIR"
 
@@ -55,8 +55,8 @@ create_preview() {
 
     echo "Creating preview for $original_file" >> debug.log
 
-    mkdir -p ".preview"  # Ensure the .preview directory exists
-    echo "Directory checked/created for .preview" >> debug.log
+    mkdir -p ".previews"  # Ensure the .previews directory exists
+    echo "Directory checked/created for .previews" >> debug.log
 
     local original_width=$(identify -format "%w" "$original_file")
     local original_height=$(identify -format "%h" "$original_file")
@@ -185,7 +185,7 @@ EOF
                 file_name=$(basename "$img_file")
 
                 # Add the image and link to the original image in the index.html
-                echo "<a href='${folder}${file_name}' target='_blank'><img src='.preview/${file_name}' alt='$folder_name Image' style='height: 200px;'></a>" >> index.html
+                echo "<a href='${folder}${file_name}' target='_blank'><img src='.previews/${file_name}' alt='$folder_name Image' style='height: 200px;'></a>" >> index.html
             fi
         done
 
@@ -216,7 +216,7 @@ for folder in */ ; do
             jpg|jpeg|png|avif|webp)
                 # It's a valid image file, process it
                 file_name=$(basename "$img_file")
-                create_preview "$img_file" ".preview/$file_name"
+                create_preview "$img_file" ".previews/$file_name"
                 ;;
             *)
                 # Not a valid image file, skip it
