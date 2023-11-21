@@ -136,8 +136,10 @@ process_directory() {
 write_header() {
     local output_file="$1"
     local title="$2"
-    local subdir_depth=$(awk -F"/" '{print NF-1}' <<< "${output_file#${SUBDIR_HTML_DIR}/}")
-    local relative_path_prefix=$(printf '../%.0s' $(seq 1 $subdir_depth))
+    local depth=$(grep -o "/" <<< "$relative_path" | wc -l)
+    local relative_path_prefix=$(printf '../%.0s' $(seq 1 $depth))
+    echo "<link rel='stylesheet' type='text/css' href='${relative_path_prefix}styles.css'>" >> "$output_file"
+
     echo "Calculated preview path: $preview_path" >> debug.log
     echo "Calculated CSS path: ${relative_path_prefix}styles.css" >> debug.log
 
@@ -166,8 +168,9 @@ write_img() {
     local file_name=$(basename "$original_file")
 
     # Calculate the depth of the output file relative to the top directory
-    local depth=$(awk -F"/" '{print NF-1}' <<< "${output_file#${SUBDIR_HTML_DIR}/}")
-    local preview_path=$(printf '../%.0s' $(seq 1 $depth))".previews/$file_name"
+    local preview_depth=$(grep -o "/" <<< "$relative_path" | wc -l)
+    local preview_path_prefix=$(printf '../%.0s' $(seq 1 $preview_depth))
+    local preview_path="${preview_path_prefix}.previews/$file_name"
 
     # Calculate relative path to the original file
     local relative_dir_path="${original_file#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
