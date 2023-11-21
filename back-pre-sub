@@ -194,7 +194,7 @@ list_subdirs() {
             fi
 
             local relative_html_path="${SUBDIR_HTML_DIR}/${prefix}${folder_name}.html"
-            relative_html_path="${relative_html_path//\//_}"  # Flatten the directory structure in the link
+            relative_html_path="${relative_html_path//\//_}"  # Replace '/' with '_' only once
 
             echo "<div class='folder-entry'><h3><a href='$relative_html_path'>$prefix$folder_name</a></h3></div>" >> index.html
 
