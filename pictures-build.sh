@@ -87,6 +87,12 @@ create_preview() {
 process_directory() {
     local dir_path="$1"
     local relative_path="${dir_path#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
+
+    # Skip processing the .previews directory
+    if [[ "$relative_path" == ".previews" ]]; then
+        return
+    fi
+
     local html_file_name="${relative_path//\//-}.html"  # Replace '/' with '-' in file name
     local html_file_path="${SUBDIR_HTML_DIR}/${html_file_name}"
 
@@ -110,6 +116,7 @@ process_directory() {
     # Finalize the HTML file
     echo "</body></html>" >> "$html_file_path"
 }
+
 
 
 
