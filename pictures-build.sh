@@ -166,9 +166,15 @@ write_img() {
     local depth=$(awk -F"/" '{print NF-1}' <<< "${output_file#${SUBDIR_HTML_DIR}/}")
     local preview_path=$(printf '../%.0s' $(seq 1 $depth))".previews/$file_name"
 
+    # Calculate relative path to the original file
+    local relative_dir_path="${original_file#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
+    relative_dir_path=$(dirname "$relative_dir_path")  # Get directory path relative to PICTURES_DIR
+    local original_img_path=$(printf '../%.0s' $(seq 1 $depth))"$relative_dir_path/$file_name"
+
     # Write the image tag wrapped in an anchor tag to the HTML file
-    echo "<a href=\"$original_file\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
+    echo "<a href=\"$original_img_path\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
 }
+
 
 
 
