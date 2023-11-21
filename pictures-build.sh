@@ -236,5 +236,6 @@ find "$PICTURES_DIR" -path "$PICTURES_DIR/.previews" -prune -o -type f \( -name 
 done
 
 create_index_html
+# A html file is generated for the folder containing all of the other html files, let's remove it.
 rm $SUBDIR_HTML_DIR/$SUBDIR_HTML_DIR.html
 echo "Script completed."
