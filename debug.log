@@ -4,6 +4,7 @@ Checking preview for: /home/iori/Pictures/Wallpapers/AVIF/earth.avif
 Creating preview for /home/iori/Pictures/Wallpapers/AVIF/earth.avif
 Dimensions for /home/iori/Pictures/Wallpapers/AVIF/earth.avif: Width=5120, Height=2880
 /home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews
 Running convert command: convert /home/iori/Pictures/Wallpapers/AVIF/earth.avif -strip -quality 75 -resize 355x200 /earth.avif
 convert: unable to open image '/earth.avif': Permission denied @ error/blob.c/OpenBlob/3569.
 Error during conversion for /home/iori/Pictures/Wallpapers/AVIF/earth.avif
@@ -13,6 +14,7 @@ Checking preview for: /home/iori/Pictures/Wallpapers/AVIF/Firewatch.avif
 Creating preview for /home/iori/Pictures/Wallpapers/AVIF/Firewatch.avif
 Dimensions for /home/iori/Pictures/Wallpapers/AVIF/Firewatch.avif: Width=1920, Height=1080
 /home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews
 Running convert command: convert /home/iori/Pictures/Wallpapers/AVIF/Firewatch.avif -strip -quality 75 -resize 355x200 /Firewatch.avif
 convert: unable to open image '/Firewatch.avif': Permission denied @ error/blob.c/OpenBlob/3569.
 Error during conversion for /home/iori/Pictures/Wallpapers/AVIF/Firewatch.avif
@@ -22,44 +24,5 @@ Checking preview for: /home/iori/Pictures/Wallpapers/AVIF/frog-party.avif
 Creating preview for /home/iori/Pictures/Wallpapers/AVIF/frog-party.avif
 Dimensions for /home/iori/Pictures/Wallpapers/AVIF/frog-party.avif: Width=2560, Height=1600
 /home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews
 Running convert command: convert /home/iori/Pictures/Wallpapers/AVIF/frog-party.avif -strip -quality 75 -resize 320x200 /frog-party.avif
-convert: unable to open image '/frog-party.avif': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/AVIF/frog-party.avif
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/AVIF//Landscape.avif, preview_file=/Landscape.avif
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/AVIF/Landscape.avif, preview_file=/Landscape.avif
-Checking preview for: /home/iori/Pictures/Wallpapers/AVIF/Landscape.avif
-Creating preview for /home/iori/Pictures/Wallpapers/AVIF/Landscape.avif
-Dimensions for /home/iori/Pictures/Wallpapers/AVIF/Landscape.avif: Width=5120, Height=3200
-/home/iori/Pictures/Wallpapers
-Running convert command: convert /home/iori/Pictures/Wallpapers/AVIF/Landscape.avif -strip -quality 75 -resize 320x200 /Landscape.avif
-convert: unable to open image '/Landscape.avif': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/AVIF/Landscape.avif
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/AVIF//low-polly-mountan.avif, preview_file=/low-polly-mountan.avif
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/AVIF/low-polly-mountan.avif, preview_file=/low-polly-mountan.avif
-Checking preview for: /home/iori/Pictures/Wallpapers/AVIF/low-polly-mountan.avif
-Creating preview for /home/iori/Pictures/Wallpapers/AVIF/low-polly-mountan.avif
-Dimensions for /home/iori/Pictures/Wallpapers/AVIF/low-polly-mountan.avif: Width=1920, Height=1080
-/home/iori/Pictures/Wallpapers
-Running convert command: convert /home/iori/Pictures/Wallpapers/AVIF/low-polly-mountan.avif -strip -quality 75 -resize 355x200 /low-polly-mountan.avif
-Error during conversion for /home/iori/Pictures/Wallpapers/AVIF/low-polly-mountan.avif
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/AVIF//Zelda_Ghib.avif, preview_file=/Zelda_Ghib.avif
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/AVIF/Zelda_Ghib.avif, preview_file=/Zelda_Ghib.avif
-Checking preview for: /home/iori/Pictures/Wallpapers/AVIF/Zelda_Ghib.avif
-Creating preview for /home/iori/Pictures/Wallpapers/AVIF/Zelda_Ghib.avif
-Dimensions for /home/iori/Pictures/Wallpapers/AVIF/Zelda_Ghib.avif: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-Running convert command: convert /home/iori/Pictures/Wallpapers/AVIF/Zelda_Ghib.avif -strip -quality 75 -resize 355x200 /Zelda_Ghib.avif
-Error during conversion for /home/iori/Pictures/Wallpapers/AVIF/Zelda_Ghib.avif
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//10.jpg, preview_file=/10.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/10.jpg, preview_file=/10.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/10.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/10.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/10.jpg: Width=2000, Height=2500
-/home/iori/Pictures/Wallpapers
-Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/10.jpg -strip -quality 75 -resize 160x200 /10.jpg
-convert: unable to open image '/10.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Baka-Arts/10.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//14.jpg, preview_file=/14.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/14.jpg, preview_file=/14.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/14.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/14.jpg
