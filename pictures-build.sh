@@ -136,6 +136,8 @@ process_directory() {
 write_header() {
     local output_file="$1"
     local title="$2"
+    local prev_dir="$3"
+    local next_dir="$4"
     local subdir_depth=$(awk -F"/" '{print NF-1}' <<< "${output_file#${SUBDIR_HTML_DIR}/}")
     local relative_path_prefix=$(printf '../%.0s' $(seq 1 $subdir_depth))
 
@@ -152,6 +154,14 @@ EOF
 
     if [ -n "$title" ]; then
         echo "<h1>$title</h1>" >> "$output_file"
+    fi
+
+    # Navigation links
+    if [ -n "$prev_dir" ]; then
+        echo "<a href='${relative_path_prefix}${SUBDIR_HTML_DIR}/${prev_dir//\//-}.html'>Back</a>" >> "$output_file"
+    fi
+    if [ -n "$next_dir" ]; then
+        echo "<a href='${relative_path_prefix}${SUBDIR_HTML_DIR}/${next_dir//\//-}.html'>Next</a>" >> "$output_file"
     fi
 }
 
