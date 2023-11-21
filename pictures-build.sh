@@ -89,7 +89,7 @@ create_preview() {
 
 
 # Function to create an HTML file for a subdirectory and process images
-process_directory_and_create_previews() {
+process_directory() {
     local dir_path="$1"
     local relative_path="${dir_path#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
     local html_file_name="${relative_path//\//-}.html"  # Replace '/' with '-' in file name
@@ -98,22 +98,17 @@ process_directory_and_create_previews() {
     # Write the header for the HTML file
     write_header "$html_file_path" "$(basename "$dir_path")"
 
-    # Process images in the directory
+    # Process images in the directory for HTML
     for img_file in "$dir_path"/*.{jpg,jpeg,png,avif,webp}; do
         if [ -f "$img_file" ]; then
-            # Process the image for HTML
             write_img "$img_file" "$html_file_path"
-
-            # Create a preview image
-            local file_name=$(basename "$img_file")
-            create_preview "$img_file" "${PREVIEW_DIR}/$file_name"
         fi
     done
 
     # Recursively process subdirectories
     for subdir in "$dir_path"/*/; do
         if [ -d "$subdir" ]; then
-            process_directory_and_create_previews "$subdir"
+            process_directory "$subdir"
         fi
     done
 
@@ -219,7 +214,7 @@ list_directories_recursively() {
 
 for subdir in "$PICTURES_DIR"/*/; do
     if [ -d "$subdir" ]; then
-        process_directory_and_create_previews "$subdir"
+        process_directory"$subdir"
     fi
 done
 
