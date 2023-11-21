@@ -138,6 +138,8 @@ write_header() {
     local title="$2"
     local subdir_depth=$(awk -F"/" '{print NF-1}' <<< "${output_file#${SUBDIR_HTML_DIR}/}")
     local relative_path_prefix=$(printf '../%.0s' $(seq 1 $subdir_depth))
+    echo "Calculated preview path: $preview_path" >> debug.log
+    echo "Calculated CSS path: ${relative_path_prefix}styles.css" >> debug.log
 
     cat > "$output_file" <<-EOF
 <!DOCTYPE html>
@@ -174,6 +176,9 @@ write_img() {
 
     # Write the image tag wrapped in an anchor tag to the HTML file
     echo "<a href=\"$original_img_path\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
+    echo "Calculated preview path: $preview_path" >> debug.log
+    echo "Calculated CSS path: ${relative_path_prefix}styles.css" >> debug.log
+
 }
 
 
