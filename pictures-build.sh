@@ -39,6 +39,10 @@ create_preview() {
     local preview_file="$2"
     local desired_height=200  # Set your desired height for the preview image
 
+    # Remove any double slashes in file paths
+    original_file="${original_file//\/\///}"
+    preview_file="${preview_file//\/\///}"
+
     if [ -z "$original_file" ]; then
         echo "No file name provided for preview creation" >> debug.log
         return
@@ -72,6 +76,7 @@ create_preview() {
         echo "Error: Unable to read image dimensions for $original_file" >> debug.log
     fi
 }
+
 
 
 # Function to create an HTML file for a subdirectory and process images
