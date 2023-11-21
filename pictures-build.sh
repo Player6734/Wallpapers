@@ -88,8 +88,8 @@ process_directory() {
     local dir_path="$1"
     local relative_path="${dir_path#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
 
-    # Skip processing the .previews directory
-    if [[ "$relative_path" == ".previews" ]]; then
+    # Skip processing the .previews and subdir-html directories
+    if [[ "$relative_path" == ".previews" || "$relative_path" == "$SUBDIR_HTML_DIR" ]]; then
         return
     fi
 
@@ -112,7 +112,7 @@ process_directory() {
 
     # Recursively process subdirectories
     for subdir in "$dir_path"/*/; do
-        if [ -d "$subdir" ]; then
+        if [ -d "$subdir" ] && [[ "$subdir" != "$SUBDIR_HTML_DIR/"* && "$subdir" != "$PREVIEWS_DIR/"* ]]; then
             process_directory "$subdir"
         fi
     done
@@ -120,6 +120,7 @@ process_directory() {
     # Finalize the HTML file
     echo "</body></html>" >> "$html_file_path"
 }
+
 
 
 
