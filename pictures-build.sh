@@ -202,7 +202,7 @@ list_directories_recursively() {
             folder_name=$(basename "$folder")
 
             # Skip the subdir-html folder and .preview directory
-            if [[ "$folder_name" != "subdir-html" && "$folder_name" != ".preview" ]]; then
+            if [[ "$folder_name" != "subdir-html" && "$folder_name" != ".previews" ]]; then
                 # Write the folder name with a link to its HTML file
                 echo "$indentation<div class='folder-entry'>" >> index.html
                 local html_file_name="${folder_name//\//-}.html"
