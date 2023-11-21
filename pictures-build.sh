@@ -89,16 +89,15 @@ process_directory() {
     local relative_path="${dir_path#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
 
     # Skip processing the .previews and subdir-html directories
-    if [[ "$relative_path" == ".previews" || "$relative_path" == "$SUBDIR_HTML_DIR" ]]; then
+    if [[ "$relative_path" == ".previews" || "$relative_path" == "subdir-html" ]]; then
         return
     fi
 
     # Remove trailing slash from relative_path if present
     relative_path="${relative_path%/}"
 
-    local html_folder_path="${SUBDIR_HTML_DIR}/${relative_path}"  # Create a nested folder structure
-    mkdir -p "$html_folder_path"  # Ensure the directory exists
-    local html_file_path="${html_folder_path}/index.html"  # Name the file index.html
+    local html_file_name="${relative_path//\//-}.html"  # Replace '/' with '-' in file name
+    local html_file_path="${SUBDIR_HTML_DIR}/${html_file_name}"
 
     # Write the header for the HTML file
     write_header "$html_file_path" "$(basename "$dir_path")"
@@ -112,7 +111,7 @@ process_directory() {
 
     # Recursively process subdirectories
     for subdir in "$dir_path"/*/; do
-        if [ -d "$subdir" ] && [[ "$subdir" != "$SUBDIR_HTML_DIR/"* && "$subdir" != "$PREVIEWS_DIR/"* ]]; then
+        if [ -d "$subdir" ]; then
             process_directory "$subdir"
         fi
     done
@@ -120,6 +119,7 @@ process_directory() {
     # Finalize the HTML file
     echo "</body></html>" >> "$html_file_path"
 }
+
 
 
 
