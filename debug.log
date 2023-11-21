@@ -783,3 +783,198 @@ convert: WriteBlob Failed `/board.png' @ error/png.c/MagickPNGErrorHandler/1492.
 Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//board.png
 Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//chinatown.png
 Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//chinatown.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//chinatown.png: Width=2880, Height=1620
+convert: unable to open image '/chinatown.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/chinatown.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//chinatown.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//finalizer.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//finalizer.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//finalizer.png: Width=2732, Height=1536
+convert: unable to open image '/finalizer.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/finalizer.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//finalizer.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_cat-waves.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_cat-waves.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_cat-waves.png: Width=3840, Height=2160
+convert: unable to open image '/gruvbox_cat-waves.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/gruvbox_cat-waves.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_cat-waves.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_grid.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_grid.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_grid.png: Width=1920, Height=1080
+convert: unable to open image '/gruvbox_grid.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/gruvbox_grid.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_grid.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_image55.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_image55.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_image55.png: Width=1920, Height=1080
+convert: unable to open image '/gruvbox_image55.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/gruvbox_image55.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_image55.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_minimal_space.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_minimal_space.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_minimal_space.png: Width=2560, Height=1600
+convert: unable to open image '/gruvbox_minimal_space.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/gruvbox_minimal_space.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_minimal_space.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox-pacman-ghosts.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox-pacman-ghosts.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox-pacman-ghosts.png: Width=4264, Height=2400
+convert: unable to open image '/gruvbox-pacman-ghosts.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/gruvbox-pacman-ghosts.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//gruvbox-pacman-ghosts.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//gruvb_solarsys.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//gruvb_solarsys.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//gruvb_solarsys.png: Width=1920, Height=1080
+convert: unable to open image '/gruvb_solarsys.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/gruvb_solarsys.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//gruvb_solarsys.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//haz-mat.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//haz-mat.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//haz-mat.png: Width=3840, Height=2160
+convert: unable to open image '/haz-mat.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/haz-mat.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//haz-mat.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//PJbX0MG.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//PJbX0MG.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//PJbX0MG.png: Width=3440, Height=1440
+convert: unable to open image '/PJbX0MG.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/PJbX0MG.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//PJbX0MG.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//qcqKfdZ.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//qcqKfdZ.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//qcqKfdZ.png: Width=1920, Height=1080
+convert: unable to open image '/qcqKfdZ.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/qcqKfdZ.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//qcqKfdZ.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//repair.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//repair.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//repair.png: Width=3977, Height=2651
+convert: unable to open image '/repair.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/repair.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//repair.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//solar-system-minimal.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//solar-system-minimal.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//solar-system-minimal.png: Width=2880, Height=1800
+convert: unable to open image '/solar-system-minimal.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/solar-system-minimal.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//solar-system-minimal.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//sve.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//sve.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//sve.png: Width=1920, Height=1080
+convert: unable to open image '/sve.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/sve.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//sve.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//wallpaper.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//wallpaper.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//wallpaper.png: Width=3840, Height=2160
+convert: unable to open image '/wallpaper.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/wallpaper.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//wallpaper.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//wp11058333.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//wp11058333.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//wp11058333.png: Width=1920, Height=1080
+convert: unable to open image '/wp11058333.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/wp11058333.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//wp11058333.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//classroom.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//classroom.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//classroom.jpg: Width=1200, Height=585
+convert: unable to open image '/classroom.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//classroom.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//The-Wind-Rises.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//The-Wind-Rises.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//The-Wind-Rises.jpg: Width=1920, Height=1080
+convert: unable to open image '/The-Wind-Rises.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//The-Wind-Rises.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//wall.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//wall.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//wall.jpg: Width=1920, Height=1080
+convert: unable to open image '/wall.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//wall.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//5m5kLI9.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//5m5kLI9.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//5m5kLI9.png: Width=1920, Height=1040
+convert: unable to open image '/5m5kLI9.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/5m5kLI9.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//5m5kLI9.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//ghibli-japanese-walled-garden.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//ghibli-japanese-walled-garden.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//ghibli-japanese-walled-garden.png: Width=1920, Height=1080
+convert: unable to open image '/ghibli-japanese-walled-garden.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/ghibli-japanese-walled-garden.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//ghibli-japanese-walled-garden.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//ign-waifu.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//ign-waifu.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//ign-waifu.png: Width=1920, Height=1080
+convert: unable to open image '/ign-waifu.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/ign-waifu.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//ign-waifu.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//my-neighbor-totoro-sunflowers.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//my-neighbor-totoro-sunflowers.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//my-neighbor-totoro-sunflowers.png: Width=1920, Height=1080
+convert: unable to open image '/my-neighbor-totoro-sunflowers.png': Permission denied @ error/blob.c/OpenBlob/3569.
+convert: WriteBlob Failed `/my-neighbor-totoro-sunflowers.png' @ error/png.c/MagickPNGErrorHandler/1492.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//my-neighbor-totoro-sunflowers.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//beach.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//beach.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//beach.jpg: Width=1140, Height=721
+convert: unable to open image '/beach.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//beach.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//berries.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//berries.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//berries.jpg: Width=6000, Height=4000
+convert: unable to open image '/berries.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//berries.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//board.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//board.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//board.jpg: Width=3840, Height=2160
+convert: unable to open image '/board.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//board.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//bulbs.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//bulbs.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//bulbs.jpg: Width=1920, Height=1080
+convert: unable to open image '/bulbs.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//bulbs.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//camera.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//camera.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//camera.jpg: Width=1366, Height=768
+convert: unable to open image '/camera.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//camera.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//coffee-cup.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//coffee-cup.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//coffee-cup.jpg: Width=3984, Height=2656
+convert: unable to open image '/coffee-cup.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//coffee-cup.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//coffee-green.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//coffee-green.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//coffee-green.jpg: Width=5373, Height=3582
+convert: unable to open image '/coffee-green.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//coffee-green.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//comfy-room.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//comfy-room.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//comfy-room.jpg: Width=3840, Height=1646
+convert: unable to open image '/comfy-room.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//comfy-room.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//Excl_Autumn_Leaf.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//Excl_Autumn_Leaf.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//Excl_Autumn_Leaf.jpg: Width=1920, Height=1280
+convert: unable to open image '/Excl_Autumn_Leaf.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//Excl_Autumn_Leaf.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//ferns-green.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//ferns-green.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//ferns-green.jpg: Width=3840, Height=2160
+convert: unable to open image '/ferns-green.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//ferns-green.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flower-1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flower-1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flower-1.jpg: Width=5184, Height=3456
+convert: unable to open image '/flower-1.jpg': Permission denied @ error/blob.c/OpenBlob/3569.
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flower-1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flowers-2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flowers-2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flowers-2.jpg: Width=3840, Height=2160
+Error during conversion for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flowers-2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flowers.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flowers.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-irl//flowers.jpg: Width=3707, Height=2734
