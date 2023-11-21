@@ -82,7 +82,7 @@ create_preview() {
 create_subdir_index() {
     local dir_path="$1"
     local relative_path="${dir_path#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
-    local html_file_name="${relative_path//\//}.html"  # Replace '/' with '-' in file name
+    local html_file_name="${relative_path//\//_}.html"  # Replace '/' with '_' in file name
     local html_file_path="${SUBDIR_HTML_DIR}/${html_file_name}"
 
     # Write the header for the HTML file
@@ -90,7 +90,18 @@ create_subdir_index() {
 
     # Process images in the directory
     write_img "$dir_path" "$html_file_path"
+
+    # Recursively process subdirectories
+    for subdir in "$dir_path"/*/; do
+        if [ -d "$subdir" ]; then
+            create_subdir_index "$subdir"
+        fi
+    done
+
+    # Finalize the HTML file
+    echo "</body></html>" >> "$html_file_path"
 }
+
 
 
 # Function to write the header of the HTML file
@@ -160,43 +171,37 @@ create_index_html() {
     <h1>Index of Folders</h1>
 EOF
 
-    for folder in */ ; do
-        folder_name=${folder%/}
-
-        # Skip the subdir-html folder
-        if [ "$folder_name" = "subdir-html" ]; then
-            continue
-        fi
-
-        echo "<div class='folder-entry'>" >> index.html
-        echo "<h3><a href='${SUBDIR_HTML_DIR}/${folder_name}.html'>$folder_name</a></h3>" >> index.html
-
-        # Initialize a counter for the images
-        local img_count=0
-
-        # Loop through image files in the folder, sorted by name
-        for img_file in "${folder}"*.{jpg,jpeg,png,avif,webp}; do
-            # Only proceed if it's a file and we have less than 4 images
-            if [ -f "$img_file" ] && [ $img_count -lt 4 ]; then
-                # Increment the counter
-                ((img_count++))
-
-                # Extract just the file name
-                file_name=$(basename "$img_file")
-
-                # Add the image and link to the original image in the index.html
-                echo "<a href='${folder}${file_name}' target='_blank'><img src='.previews/${file_name}' alt='$folder_name Image' style='height: 200px;'></a>" >> index.html
-            fi
-        done
-
-        echo "</div>" >> index.html
-    done
+    list_subdirs "$PICTURES_DIR" ""
 
     cat << EOF >> index.html
 </body>
 </html>
 EOF
 }
+
+list_subdirs() {
+    local current_dir="$1"
+    local prefix="$2"
+
+    for folder in "$current_dir"*/ ; do
+        if [ -d "$folder" ]; then
+            local folder_name=${folder%/}
+            folder_name=${folder_name##*/}
+
+            # Skip the subdir-html folder
+            if [ "$folder_name" = "subdir-html" ]; then
+                continue
+            fi
+
+            local relative_html_path="${SUBDIR_HTML_DIR}/${prefix}${folder_name}.html"
+            echo "<div class='folder-entry'><h3><a href='$relative_html_path'>$prefix$folder_name</a></h3></div>" >> index.html
+
+            # Recursively list subdirectories
+            list_subdirs "$folder" "$prefix$folder_name/"
+        fi
+    done
+}
+
 
 for folder in "${PICTURES_DIR}"/*/; do
     if [ -d "$folder" ]; then
