@@ -208,17 +208,15 @@ list_directories_recursively() {
 
 
 
-# Main script execution
 for subdir in "$PICTURES_DIR"/*/; do
     if [ -d "$subdir" ]; then
         process_directory_and_create_previews "$subdir"
     fi
 done
 
-
-
 find "$PICTURES_DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.avif" -o -name "*.webp" \) | while read img_file; do
-    create_preview "$img_file" ".preview/$(basename "$img_file")"
+    local file_name=$(basename "$img_file")
+    create_preview "$img_file" "${PREVIEWS_DIR}/$file_name"
 done
 
 create_index_html
