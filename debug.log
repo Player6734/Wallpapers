@@ -1,6 +1,6 @@
+Debug: Writing header for subdir-html/AVIF/index.html
+Debug: Title - AVIF, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
-Calculated CSS path: ../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -12,9 +12,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Baka-Arts/index.html
+Debug: Title - Baka-Arts, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
-Calculated CSS path: ../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -100,8 +100,8 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
-Calculated preview path: 
-Calculated CSS path: ../styles.css
+Debug: Writing header for subdir-html/Betta Fish/index.html
+Debug: Title - Betta Fish, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
@@ -136,9 +136,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Cars/index.html
+Debug: Title - Cars, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
-Calculated CSS path: ../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -148,9 +148,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Daveys_Wallpaper_Pack/index.html
+Debug: Title - Daveys_Wallpaper_Pack, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
-Calculated CSS path: ../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -282,8 +282,8 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
-Calculated preview path: 
-Calculated CSS path: ../styles.css
+Debug: Writing header for subdir-html/Eizin_Suzuki/index.html
+Debug: Title - Eizin_Suzuki, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
@@ -296,9 +296,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Gruvbox/index.html
+Debug: Title - Gruvbox, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
-Calculated CSS path: ../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -352,9 +352,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Gruvbox//Gruvbox-anime/index.html
+Debug: Title - Gruvbox-anime, Depth - 2, CSS Path - ../../styles.css
 Calculated preview path: 
-Calculated CSS path: ../../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -368,8 +368,8 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
-Calculated preview path: 
-Calculated CSS path: ../../styles.css
+Debug: Writing header for subdir-html/Gruvbox//Gruvbox-irl/index.html
+Debug: Title - Gruvbox-irl, Depth - 2, CSS Path - ../../styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
@@ -462,9 +462,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Gruvbox//Gruvbox-light/index.html
+Debug: Title - Gruvbox-light, Depth - 2, CSS Path - ../../styles.css
 Calculated preview path: 
-Calculated CSS path: ../../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -492,9 +492,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Gruvbox//Gruvbox-Minimalistic/index.html
+Debug: Title - Gruvbox-Minimalistic, Depth - 2, CSS Path - ../../styles.css
 Calculated preview path: 
-Calculated CSS path: ../../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -584,13 +584,13 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
-Calculated preview path: 
-Calculated CSS path: ../../../../styles.css
+Debug: Writing header for subdir-html/Gruvbox//Gruvbox-Minimalistic//more/index.html
+Debug: Title - more, Depth - 4, CSS Path - ../../../../styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Gruvbox//Gruvbox-mix/index.html
+Debug: Title - Gruvbox-mix, Depth - 2, CSS Path - ../../styles.css
 Calculated preview path: 
-Calculated CSS path: ../../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -646,9 +646,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Gruvbox//Gruvbox-pixelart/index.html
+Debug: Title - Gruvbox-pixelart, Depth - 2, CSS Path - ../../styles.css
 Calculated preview path: 
-Calculated CSS path: ../../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -680,8 +680,8 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
-Calculated preview path: 
-Calculated CSS path: ../styles.css
+Debug: Writing header for subdir-html/Minimalistic/index.html
+Debug: Title - Minimalistic, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
@@ -730,9 +730,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Minimalistic//GruvBox-Factory/index.html
+Debug: Title - GruvBox-Factory, Depth - 2, CSS Path - ../../styles.css
 Calculated preview path: 
-Calculated CSS path: ../../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -782,9 +782,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Nathan_Walsh_Drawing/index.html
+Debug: Title - Nathan_Walsh_Drawing, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
-Calculated CSS path: ../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -814,8 +814,8 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
-Calculated preview path: 
-Calculated CSS path: ../styles.css
+Debug: Writing header for subdir-html/Nathan_Walsh_Inverted_Drawing/index.html
+Debug: Title - Nathan_Walsh_Inverted_Drawing, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
@@ -846,9 +846,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Nathan_Walsh_Paintings/index.html
+Debug: Title - Nathan_Walsh_Paintings, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
-Calculated CSS path: ../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -894,9 +894,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Old/index.html
+Debug: Title - Old, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
-Calculated CSS path: ../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -1088,8 +1088,8 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
-Calculated preview path: 
-Calculated CSS path: ../styles.css
+Debug: Writing header for subdir-html/Person-2x3/index.html
+Debug: Title - Person-2x3, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
@@ -1114,9 +1114,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/Profile_Pictures/index.html
+Debug: Title - Profile_Pictures, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
-Calculated CSS path: ../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -1344,8 +1344,8 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
-Calculated preview path: 
-Calculated CSS path: ../styles.css
+Debug: Writing header for subdir-html/Retro-Futurism/index.html
+Debug: Title - Retro-Futurism, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
@@ -1384,9 +1384,9 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
+Debug: Writing header for subdir-html/SULCE/index.html
+Debug: Title - SULCE, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
-Calculated CSS path: ../styles.css
-Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
@@ -1462,8 +1462,8 @@ Calculated preview path:
 Calculated CSS path: styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
-Calculated preview path: 
-Calculated CSS path: ../styles.css
+Debug: Writing header for subdir-html/The Legend of Speed/index.html
+Debug: Title - The Legend of Speed, Depth - 0, CSS Path - ../styles.css
 Calculated preview path: 
 Calculated CSS path: styles.css
 Calculated preview path: 

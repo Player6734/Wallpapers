@@ -136,15 +136,16 @@ process_directory() {
 write_header() {
     local output_file="$1"
     local title="$2"
-    local relative_path="$3"  # Added this line
+    local relative_path="$3"
 
     local depth=$(grep -o "/" <<< "$relative_path" | wc -l)
     local relative_path_prefix=$(printf '../%.0s' $(seq 1 $depth))
 
+    # Debugging output
+    echo "Debug: Writing header for $output_file" >> debug.log
+    echo "Debug: Title - $title, Depth - $depth, CSS Path - ${relative_path_prefix}styles.css" >> debug.log
 
-    echo "Calculated preview path: $preview_path" >> debug.log
-    echo "Calculated CSS path: ${relative_path_prefix}styles.css" >> debug.log
-
+    # Write the initial part of the HTML file
     cat > "$output_file" <<-EOF
 <!DOCTYPE html>
 <html lang="en">
@@ -156,10 +157,12 @@ write_header() {
 <body>
 EOF
 
+    # Add title if present
     if [ -n "$title" ]; then
         echo "<h1>$title</h1>" >> "$output_file"
     fi
 }
+
 
 
 
