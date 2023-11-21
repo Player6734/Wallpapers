@@ -39,14 +39,9 @@ create_preview() {
     local preview_file="$2"
     local desired_height=200  # Set your desired height for the preview image
 
-    echo "Before cleaning: original_file=$original_file, preview_file=$preview_file" >> debug.log
-
     # Remove any double slashes in file paths
     original_file="${original_file//\/\///}"
     preview_file="${preview_file//\/\///}"
-
-    echo "After cleaning: original_file=$original_file, preview_file=$preview_file" >> debug.log
-
 
     if [ -z "$original_file" ]; then
         echo "No file name provided for preview creation" >> debug.log
