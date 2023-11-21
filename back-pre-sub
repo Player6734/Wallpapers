@@ -128,10 +128,14 @@ write_img() {
     local file_path="$1"
     local output_file="$2"
     local file_name=$(basename "$file_path")
-    local preview_path="../.previews/$file_name"  # Corrected path to the preview image
+    local relative_img_path="../$(basename "$file_path")"  # Relative path to the image
+    local preview_path="../.previews/$file_name"  # Path to the preview image
 
-    echo "<a href=\"../${file_path}\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
+    # Write the image tag wrapped in an anchor tag to the HTML file
+    # Link to the original image and use the preview image as the source
+    echo "<a href=\"$relative_img_path\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
 }
+
 
 
 
