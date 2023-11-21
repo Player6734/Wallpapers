@@ -186,7 +186,7 @@ create_index_html() {
     <h1>Index of Folders</h1>
 EOF
 
-    list_directories_recursively "$PICTURES_DIR"
+    list_directories_recursively "$PICTURES_DIR" ""
 
     echo "</body></html>" >> index.html
 }
@@ -201,12 +201,16 @@ list_directories_recursively() {
         if [ -d "$folder" ]; then
             folder_name=$(basename "$folder")
 
-            # Skip the subdir-html folder and .preview directory
+            # Skip the subdir-html folder and .previews directory
             if [[ "$folder_name" != "subdir-html" && "$folder_name" != ".previews" ]]; then
+                local relative_path="${folder#$PICTURES_DIR/}"
+                local html_file_name="${relative_path//\//-}.html"
+
                 # Write the folder name with a link to its HTML file
                 echo "$indentation<div class='folder-entry'>" >> index.html
-                local html_file_name="${folder_name//\//-}.html"
                 echo "$indentation<h3><a href='${SUBDIR_HTML_DIR}/${html_file_name}'>$folder_name</a></h3>" >> index.html
+
+                # Optionally add a preview image here
 
                 # Recursively list subdirectories
                 list_directories_recursively "$folder" "$indentation&nbsp;&nbsp;&nbsp;&nbsp;"
@@ -232,5 +236,5 @@ find "$PICTURES_DIR" -path "$PICTURES_DIR/.previews" -prune -o -type f \( -name 
 done
 
 create_index_html
-
+rm $SUBDIR_HTML_DIR/$SUBDIR_HTML_DIR
 echo "Script completed."
