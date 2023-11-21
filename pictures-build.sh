@@ -96,8 +96,9 @@ process_directory() {
     # Remove trailing slash from relative_path if present
     relative_path="${relative_path%/}"
 
-    local html_file_name="${relative_path//\//-}.html"  # Replace '/' with '-' in file name
-    local html_file_path="${SUBDIR_HTML_DIR}/${html_file_name}"
+    local html_folder_path="${SUBDIR_HTML_DIR}/${relative_path}"  # Create a nested folder structure
+    mkdir -p "$html_folder_path"  # Ensure the directory exists
+    local html_file_path="${html_folder_path}/index.html"  # Name the file index.html
 
     # Write the header for the HTML file
     write_header "$html_file_path" "$(basename "$dir_path")"
@@ -119,6 +120,7 @@ process_directory() {
     # Finalize the HTML file
     echo "</body></html>" >> "$html_file_path"
 }
+
 
 
 
