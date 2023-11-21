@@ -90,17 +90,8 @@ create_subdir_index() {
 
     # Process images in the directory
     write_img "$dir_path" "$html_file_path"
-
-    # Recursively process subdirectories
-    for subdir in "$dir_path"/*/; do
-        if [ -d "$subdir" ]; then
-            create_subdir_index "$subdir"
-        fi
-    done
-
-    # Finalize the HTML file
-    echo "</body></html>" >> "$html_file_path"
 }
+
 
 # Function to write the header of the HTML file
 write_header() {
@@ -125,16 +116,22 @@ EOF
 
 # Function to write an image tag to the HTML file
 write_img() {
-    local file_path="$1"
+    local dir_path="$1"
     local output_file="$2"
-    local file_name=$(basename "$file_path")
-    local relative_img_path="../$(basename "$file_path")"  # Relative path to the image
-    local preview_path="../.previews/$file_name"  # Path to the preview image
 
-    # Write the image tag wrapped in an anchor tag to the HTML file
-    # Link to the original image and use the preview image as the source
-    echo "<a href=\"$relative_img_path\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
+    # Loop through image files in the directory
+    for img_file in "$dir_path"/*.{jpg,jpeg,png,avif,webp}; do
+        if [ -f "$img_file" ]; then
+            local file_name=$(basename "$img_file")
+            local preview_path="../.previews/$file_name"  # Path to the preview image
+            local relative_img_path="../$(basename "$dir_path")/$file_name"  # Relative path to the original image
+
+            # Write the image tag wrapped in an anchor tag to the HTML file
+            echo "<a href=\"$relative_img_path\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
+        fi
+    done
 }
+
 
 
 
