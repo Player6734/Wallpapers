@@ -93,6 +93,9 @@ process_directory() {
         return
     fi
 
+    # Remove trailing slash from relative_path if present
+    relative_path="${relative_path%/}"
+
     local html_file_name="${relative_path//\//-}.html"  # Replace '/' with '-' in file name
     local html_file_path="${SUBDIR_HTML_DIR}/${html_file_name}"
 
@@ -116,6 +119,7 @@ process_directory() {
     # Finalize the HTML file
     echo "</body></html>" >> "$html_file_path"
 }
+
 
 
 
