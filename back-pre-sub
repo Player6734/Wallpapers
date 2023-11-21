@@ -128,12 +128,11 @@ write_img() {
     local file_path="$1"
     local output_file="$2"
     local file_name=$(basename "$file_path")
-    local preview_path="../${PREVIEW_DIR}/$file_name"  # Path to the preview image
+    local preview_path="../.previews/$file_name"  # Corrected path to the preview image
 
-    # Write the image tag wrapped in an anchor tag to the HTML file
-    # Link to the original image and use the preview image as the source
     echo "<a href=\"../${file_path}\" target=\"_blank\"><img src=\"$preview_path\" alt=\"$file_name\" style='height:200px;'></a>" >> "$output_file"
 }
+
 
 
 
@@ -198,23 +197,17 @@ EOF
 EOF
 }
 
-for folder in */ ; do
-    for img_file in "${folder}"*; do
-        # Extract file extension and check if it's a valid image format
-        file_extension="${img_file##*.}"
-        case "$file_extension" in
-            jpg|jpeg|png|avif|webp)
-                # It's a valid image file, process it
+for folder in "${PICTURES_DIR}"/*/; do
+    if [ -d "$folder" ]; then
+        for img_file in "${folder}"*.{jpg,jpeg,png,avif,webp}; do
+            if [ -f "$img_file" ]; then
                 file_name=$(basename "$img_file")
                 create_preview "$img_file" ".previews/$file_name"
-                ;;
-            *)
-                # Not a valid image file, skip it
-                echo "Skipping non-image file: $img_file" >> debug.log
-                ;;
-        esac
-    done
+            fi
+        done
+    fi
 done
+
 
 create_index_html
 
