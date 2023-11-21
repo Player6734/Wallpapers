@@ -74,7 +74,7 @@ create_preview() {
         echo $(pwd) >> debug.log
         echo $PREVIEWS_DIR/$file_name >> debug.log
         echo "Running convert command: convert $original_file -strip -quality 75 -resize ${new_width}x${desired_height} $preview_file" >> debug.log
-        convert "$original_file" -strip -quality 75 -resize "${new_width}x${desired_height}" "$PREVIEWS_DIR/$preview_file" 2>> debug.log
+        convert "$original_file" -strip -quality 75 -resize "${new_width}x${desired_height}" "$PREVIEWS_DIR$preview_file" 2>> debug.log
 
         if [ $? -eq 0 ]; then
             echo "Preview successfully created: $preview_file" >> debug.log
@@ -225,7 +225,7 @@ done
 
 find "$PICTURES_DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.avif" -o -name "*.webp" \) | while read img_file; do
     file_name=$(basename "$img_file")
-    echo "Constructed preview path: $PREVIEWS_DIR/$file_name" >> debug.log
+    echo "Constructed preview path: $PREVIEWS_DIR$file_name" >> debug.log
     create_preview "$img_file" "$PREVIEWS_DIR/$file_name"
 done
 
