@@ -7,7 +7,7 @@ Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B01.jpg: W
 /home/iori/Pictures/Wallpapers
 /home/iori/Pictures/Wallpapers/.previewsE_B01.jpg
 Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B01.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsE_B01.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsE_B01.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
+convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews//home/iori/Pictures/Wallpapers/.previewsE_B01.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
 Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B01.jpg
 Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsE_B02.jpg
 Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B02.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsE_B02.jpg
@@ -18,7 +18,7 @@ Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B02.jpg: W
 /home/iori/Pictures/Wallpapers
 /home/iori/Pictures/Wallpapers/.previewsE_B02.jpg
 Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B02.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsE_B02.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsE_B02.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
+convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews//home/iori/Pictures/Wallpapers/.previewsE_B02.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
 Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B02.jpg
 Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsHeal.EXE.jpg
 Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Heal.EXE.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsHeal.EXE.jpg
@@ -29,7 +29,7 @@ Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Heal.EXE.jpg
 /home/iori/Pictures/Wallpapers
 /home/iori/Pictures/Wallpapers/.previewsHeal.EXE.jpg
 Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Heal.EXE.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsHeal.EXE.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsHeal.EXE.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
+convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews//home/iori/Pictures/Wallpapers/.previewsHeal.EXE.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
 Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Heal.EXE.jpg
 Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsMX_76.jpg
 Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/MX_76.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsMX_76.jpg
@@ -40,7 +40,7 @@ Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/MX_76.jpg: W
 /home/iori/Pictures/Wallpapers
 /home/iori/Pictures/Wallpapers/.previewsMX_76.jpg
 Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/MX_76.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsMX_76.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsMX_76.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
+convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews//home/iori/Pictures/Wallpapers/.previewsMX_76.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
 Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/MX_76.jpg
 Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsP01.jpg
 Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P01.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsP01.jpg
@@ -51,7 +51,7 @@ Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P01.jpg: Wid
 /home/iori/Pictures/Wallpapers
 /home/iori/Pictures/Wallpapers/.previewsP01.jpg
 Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P01.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsP01.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsP01.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
+convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews//home/iori/Pictures/Wallpapers/.previewsP01.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
 Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P01.jpg
 Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsP02.jpg
 Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P02.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsP02.jpg
@@ -62,7 +62,7 @@ Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P02.jpg: Wid
 /home/iori/Pictures/Wallpapers
 /home/iori/Pictures/Wallpapers/.previewsP02.jpg
 Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P02.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsP02.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsP02.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
+convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews//home/iori/Pictures/Wallpapers/.previewsP02.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
 Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P02.jpg
 Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsP03.jpg
 Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P03.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsP03.jpg
@@ -73,7 +73,7 @@ Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P03.jpg: Wid
 /home/iori/Pictures/Wallpapers
 /home/iori/Pictures/Wallpapers/.previewsP03.jpg
 Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P03.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsP03.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsP03.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
+convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews//home/iori/Pictures/Wallpapers/.previewsP03.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
 Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P03.jpg
 Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsPIONEER_Concepts_01.jpg
 Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_01.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_Concepts_01.jpg
@@ -84,384 +84,10 @@ Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Conc
 /home/iori/Pictures/Wallpapers
 /home/iori/Pictures/Wallpapers/.previewsPIONEER_Concepts_01.jpg
 Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_01.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsPIONEER_Concepts_01.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsPIONEER_Concepts_01.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
+convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews//home/iori/Pictures/Wallpapers/.previewsPIONEER_Concepts_01.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
 Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_01.jpg
 Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsPIONEER_Concepts_07.jpg
 Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_07.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_Concepts_07.jpg
 After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_07.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_Concepts_07.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_07.jpg
 Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_07.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_07.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsPIONEER_Concepts_07.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_07.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsPIONEER_Concepts_07.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsPIONEER_Concepts_07.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_07.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_01.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_01.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_01.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_01.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_01.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_01.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_01.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_01.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_01.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_01.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_01.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_01.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_02.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_02.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_02.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_02.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_02.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_02.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_02.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_02.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_02.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_02.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_02.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_02.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_02.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_03.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_03.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_03.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_03.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_03.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_03.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_03.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_03.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_03.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_03.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_03.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_03.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_03.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_04.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_04.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_04.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_04.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_04.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_04.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_04.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_04.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_04.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_04.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_04.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_04.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_04.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_05.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_05.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_05.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_05.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_05.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_05.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_05.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_05.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_05.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_05.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_05.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsPIONEER_SP_05.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_05.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsRS_DELTA_01.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_01.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsRS_DELTA_01.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_01.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsRS_DELTA_01.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_01.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_01.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsRS_DELTA_01.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_01.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsRS_DELTA_01.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsRS_DELTA_01.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_01.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsRS_DELTA_02.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_02.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsRS_DELTA_02.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_02.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsRS_DELTA_02.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_02.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_02.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_02.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsRS_DELTA_02.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_02.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsRS_DELTA_02.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsRS_DELTA_02.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_02.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsRS_DELTA_04.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_04.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsRS_DELTA_04.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_04.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsRS_DELTA_04.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_04.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_04.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_04.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsRS_DELTA_04.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_04.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsRS_DELTA_04.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsRS_DELTA_04.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_04.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_01.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_01.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_01.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_01.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_01.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_01.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_01.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_01.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_01.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_01.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_01.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_01.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_02.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_02.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_02.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_02.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_02.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_02.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_02.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_02.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_02.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_02.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_02.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_02.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_02.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_04.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_04.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_04.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_04.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_04.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_04.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_04.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_04.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_04.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_04.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_04.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsSEVEN_CRD_04.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_04.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsSN_05_RE.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SN_05_RE.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSN_05_RE.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SN_05_RE.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSN_05_RE.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SN_05_RE.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SN_05_RE.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SN_05_RE.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsSN_05_RE.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SN_05_RE.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsSN_05_RE.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsSN_05_RE.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SN_05_RE.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsSeven.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSeven.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSeven.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsSeven.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsSeven.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsSeven.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsChosen_Desktop.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Chosen_Desktop.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsChosen_Desktop.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Chosen_Desktop.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsChosen_Desktop.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Chosen_Desktop.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Chosen_Desktop.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Chosen_Desktop.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsChosen_Desktop.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Chosen_Desktop.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsChosen_Desktop.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsChosen_Desktop.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Chosen_Desktop.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsEternal_God.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Eternal_God.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsEternal_God.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Eternal_God.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsEternal_God.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Eternal_God.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Eternal_God.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Eternal_God.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsEternal_God.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Eternal_God.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsEternal_God.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsEternal_God.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Eternal_God.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsFuture_Ramen.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Future_Ramen.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsFuture_Ramen.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Future_Ramen.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsFuture_Ramen.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Future_Ramen.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Future_Ramen.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Future_Ramen.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsFuture_Ramen.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Future_Ramen.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsFuture_Ramen.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsFuture_Ramen.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Future_Ramen.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsLost_Kids.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Lost_Kids.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsLost_Kids.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Lost_Kids.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsLost_Kids.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Lost_Kids.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Lost_Kids.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Lost_Kids.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsLost_Kids.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Lost_Kids.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsLost_Kids.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsLost_Kids.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Lost_Kids.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsNira_and_Mona.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Nira_and_Mona.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsNira_and_Mona.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Nira_and_Mona.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsNira_and_Mona.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Nira_and_Mona.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Nira_and_Mona.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Nira_and_Mona.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsNira_and_Mona.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Nira_and_Mona.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsNira_and_Mona.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsNira_and_Mona.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Nira_and_Mona.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsP6_Concept.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P6_Concept.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsP6_Concept.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P6_Concept.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsP6_Concept.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P6_Concept.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P6_Concept.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P6_Concept.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsP6_Concept.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P6_Concept.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsP6_Concept.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsP6_Concept.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P6_Concept.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsSpace_Boy_Darkmode.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy_Darkmode.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSpace_Boy_Darkmode.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy_Darkmode.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSpace_Boy_Darkmode.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy_Darkmode.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy_Darkmode.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy_Darkmode.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsSpace_Boy_Darkmode.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy_Darkmode.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsSpace_Boy_Darkmode.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsSpace_Boy_Darkmode.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy_Darkmode.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsSpace_Boy.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSpace_Boy.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSpace_Boy.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsSpace_Boy.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsSpace_Boy.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsSpace_Boy.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsSeven_Industries.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven_Industries.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSeven_Industries.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven_Industries.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsSeven_Industries.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven_Industries.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven_Industries.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven_Industries.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsSeven_Industries.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven_Industries.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsSeven_Industries.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsSeven_Industries.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven_Industries.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsPioneer_Adventure_vol1.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Pioneer_Adventure_vol1.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPioneer_Adventure_vol1.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Pioneer_Adventure_vol1.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsPioneer_Adventure_vol1.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Pioneer_Adventure_vol1.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Pioneer_Adventure_vol1.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Pioneer_Adventure_vol1.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsPioneer_Adventure_vol1.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Pioneer_Adventure_vol1.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsPioneer_Adventure_vol1.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsPioneer_Adventure_vol1.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Pioneer_Adventure_vol1.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsgruvbox_Space_Boy_Darkmode.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy_Darkmode.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_Space_Boy_Darkmode.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy_Darkmode.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_Space_Boy_Darkmode.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy_Darkmode.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy_Darkmode.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy_Darkmode.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsgruvbox_Space_Boy_Darkmode.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy_Darkmode.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsgruvbox_Space_Boy_Darkmode.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsgruvbox_Space_Boy_Darkmode.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy_Darkmode.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsgruvbox_Space_Boy.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_Space_Boy.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_Space_Boy.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsgruvbox_Space_Boy.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsgruvbox_Space_Boy.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsgruvbox_Space_Boy.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsgruvbox_SN_05_RE.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SN_05_RE.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_SN_05_RE.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SN_05_RE.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_SN_05_RE.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SN_05_RE.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SN_05_RE.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SN_05_RE.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsgruvbox_SN_05_RE.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SN_05_RE.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsgruvbox_SN_05_RE.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsgruvbox_SN_05_RE.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SN_05_RE.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsgruvbox_Seven_Industries.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven_Industries.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_Seven_Industries.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven_Industries.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_Seven_Industries.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven_Industries.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven_Industries.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven_Industries.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsgruvbox_Seven_Industries.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven_Industries.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsgruvbox_Seven_Industries.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsgruvbox_Seven_Industries.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven_Industries.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_04.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_04.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_04.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_04.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_04.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_04.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_04.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_04.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_04.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_04.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_04.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_04.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_04.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_02.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_02.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_02.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_02.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_02.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_02.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_02.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_02.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_02.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_02.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_02.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_02.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_02.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_01.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_01.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_01.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_01.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_01.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_01.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_01.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_01.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_01.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_01.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsgruvbox_SEVEN_CRD_01.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_01.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsgruvbox_Seven.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_Seven.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_Seven.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsgruvbox_Seven.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsgruvbox_Seven.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsgruvbox_Seven.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_04.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_04.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_04.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_04.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_04.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_04.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_04.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_04.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_04.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_04.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_04.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_04.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_04.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_02.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_02.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_02.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_02.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_02.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_02.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_02.jpg
-Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_02.jpg: Width=3840, Height=2160
-/home/iori/Pictures/Wallpapers
-/home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_02.jpg
-Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_02.jpg -strip -quality 75 -resize 355x200 /home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_02.jpg
-convert: unable to open image '/home/iori/Pictures/Wallpapers/.previews/home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_02.jpg': No such file or directory @ error/blob.c/OpenBlob/3569.
-Error during conversion for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_02.jpg
-Constructed preview path: /home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_01.jpg
-Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_01.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_01.jpg
-After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_01.jpg, preview_file=/home/iori/Pictures/Wallpapers/.previewsgruvbox_RS_DELTA_01.jpg
-Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_01.jpg
-Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_01.jpg

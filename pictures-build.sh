@@ -74,7 +74,7 @@ create_preview() {
         echo $(pwd) >> debug.log
         echo $PREVIEWS_DIR$file_name >> debug.log
         echo "Running convert command: convert $original_file -strip -quality 75 -resize ${new_width}x${desired_height} $preview_file" >> debug.log
-        convert "$original_file" -strip -quality 75 -resize "${new_width}x${desired_height}" "$PREVIEWS_DIR$preview_file" 2>> debug.log
+        convert "$original_file" -strip -quality 75 -resize "${new_width}x${desired_height}" "$PREVIEWS_DIR/$preview_file" 2>> debug.log
 
         if [ $? -eq 0 ]; then
             echo "Preview successfully created: $preview_file" >> debug.log
