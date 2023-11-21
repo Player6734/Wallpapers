@@ -82,7 +82,7 @@ create_preview() {
 create_subdir_index() {
     local dir_path="$1"
     local relative_path="${dir_path#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
-    local html_file_name="${relative_path//\//-}.html"  # Replace '/' with '-' in file name
+    local html_file_name="${relative_path//\//}.html"  # Replace '/' with '-' in file name
     local html_file_path="${SUBDIR_HTML_DIR}/${html_file_name}"
 
     # Write the header for the HTML file
