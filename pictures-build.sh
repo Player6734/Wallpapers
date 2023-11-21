@@ -89,7 +89,7 @@ process_directory() {
     local relative_path="${dir_path#$PICTURES_DIR/}"  # Remove PICTURES_DIR part from the path
 
     # Skip processing the .previews and subdir-html directories
-    if [[ "$relative_path" == ".previews" || "$relative_path" == "subdir-html" ]]; then
+    if [[ "$dir_path" == *"/.previews"* || "$dir_path" == *"/subdir-html"* ]]; then
         return
     fi
 
@@ -121,6 +121,7 @@ process_directory() {
     # Finalize the HTML file
     echo "</body></html>" >> "$html_file_path"
 }
+
 
 
 
