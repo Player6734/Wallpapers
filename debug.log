@@ -128,3 +128,1443 @@ Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//23.jpg,
 After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/23.jpg, preview_file=/23.jpg
 Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/23.jpg
 Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/23.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/23.jpg: Width=4256, Height=4932
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/23.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/23.jpg -strip -quality 75 -resize 172x200 /23.jpg
+Preview successfully created: /23.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//2.jpg, preview_file=/2.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/2.jpg, preview_file=/2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/2.jpg: Width=4000, Height=5000
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/2.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/2.jpg -strip -quality 75 -resize 160x200 /2.jpg
+Preview successfully created: /2.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//3.jpg, preview_file=/3.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/3.jpg, preview_file=/3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/3.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/3.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/3.jpg: Width=4000, Height=5000
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/3.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/3.jpg -strip -quality 75 -resize 160x200 /3.jpg
+Preview successfully created: /3.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//4.jpg, preview_file=/4.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/4.jpg, preview_file=/4.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/4.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/4.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/4.jpg: Width=4000, Height=5000
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/4.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/4.jpg -strip -quality 75 -resize 160x200 /4.jpg
+Preview successfully created: /4.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//5.jpg, preview_file=/5.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/5.jpg, preview_file=/5.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/5.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/5.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/5.jpg: Width=4000, Height=5000
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/5.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/5.jpg -strip -quality 75 -resize 160x200 /5.jpg
+Preview successfully created: /5.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//6.jpg, preview_file=/6.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/6.jpg, preview_file=/6.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/6.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/6.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/6.jpg: Width=5200, Height=2925
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/6.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/6.jpg -strip -quality 75 -resize 355x200 /6.jpg
+Preview successfully created: /6.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//7.jpg, preview_file=/7.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/7.jpg, preview_file=/7.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/7.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/7.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/7.jpg: Width=4000, Height=5000
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/7.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/7.jpg -strip -quality 75 -resize 160x200 /7.jpg
+Preview successfully created: /7.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//8.jpg, preview_file=/8.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/8.jpg, preview_file=/8.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/8.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/8.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/8.jpg: Width=4000, Height=5000
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/8.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/8.jpg -strip -quality 75 -resize 160x200 /8.jpg
+Preview successfully created: /8.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//9.jpg, preview_file=/9.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/9.jpg, preview_file=/9.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/9.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/9.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/9.jpg: Width=3000, Height=3750
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/9.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/9.jpg -strip -quality 75 -resize 160x200 /9.jpg
+Preview successfully created: /9.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_10.jpg, preview_file=/Baka_CO_10.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_10.jpg, preview_file=/Baka_CO_10.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_10.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_10.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_10.jpg: Width=1440, Height=1800
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Baka_CO_10.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_10.jpg -strip -quality 75 -resize 160x200 /Baka_CO_10.jpg
+Preview successfully created: /Baka_CO_10.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_11.jpg, preview_file=/Baka_CO_11.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_11.jpg, preview_file=/Baka_CO_11.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_11.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_11.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_11.jpg: Width=1440, Height=1800
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Baka_CO_11.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_11.jpg -strip -quality 75 -resize 160x200 /Baka_CO_11.jpg
+Preview successfully created: /Baka_CO_11.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_1.jpg, preview_file=/Baka_CO_1.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_1.jpg, preview_file=/Baka_CO_1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_1.jpg: Width=2000, Height=2500
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Baka_CO_1.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_1.jpg -strip -quality 75 -resize 160x200 /Baka_CO_1.jpg
+Preview successfully created: /Baka_CO_1.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_2.jpg, preview_file=/Baka_CO_2.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_2.jpg, preview_file=/Baka_CO_2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_2.jpg: Width=2000, Height=2500
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Baka_CO_2.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_2.jpg -strip -quality 75 -resize 160x200 /Baka_CO_2.jpg
+Preview successfully created: /Baka_CO_2.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_3.jpg, preview_file=/Baka_CO_3.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_3.jpg, preview_file=/Baka_CO_3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_3.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_3.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_3.jpg: Width=2000, Height=2500
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Baka_CO_3.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_3.jpg -strip -quality 75 -resize 160x200 /Baka_CO_3.jpg
+Preview successfully created: /Baka_CO_3.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_4.jpg, preview_file=/Baka_CO_4.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_4.jpg, preview_file=/Baka_CO_4.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_4.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_4.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_4.jpg: Width=2000, Height=2500
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Baka_CO_4.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_4.jpg -strip -quality 75 -resize 160x200 /Baka_CO_4.jpg
+Preview successfully created: /Baka_CO_4.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_5.jpg, preview_file=/Baka_CO_5.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_5.jpg, preview_file=/Baka_CO_5.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_5.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_5.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_5.jpg: Width=800, Height=1000
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Baka_CO_5.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_5.jpg -strip -quality 75 -resize 160x200 /Baka_CO_5.jpg
+Preview successfully created: /Baka_CO_5.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_6.jpg, preview_file=/Baka_CO_6.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_6.jpg, preview_file=/Baka_CO_6.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_6.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_6.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_6.jpg: Width=2000, Height=2500
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Baka_CO_6.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_6.jpg -strip -quality 75 -resize 160x200 /Baka_CO_6.jpg
+Preview successfully created: /Baka_CO_6.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_7.jpg, preview_file=/Baka_CO_7.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_7.jpg, preview_file=/Baka_CO_7.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_7.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_7.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_7.jpg: Width=2000, Height=2500
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Baka_CO_7.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_7.jpg -strip -quality 75 -resize 160x200 /Baka_CO_7.jpg
+Preview successfully created: /Baka_CO_7.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_8.jpg, preview_file=/Baka_CO_8.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_8.jpg, preview_file=/Baka_CO_8.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_8.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_8.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_8.jpg: Width=1600, Height=2000
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Baka_CO_8.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_8.jpg -strip -quality 75 -resize 160x200 /Baka_CO_8.jpg
+Preview successfully created: /Baka_CO_8.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Baka_CO_9.jpg, preview_file=/Baka_CO_9.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_9.jpg, preview_file=/Baka_CO_9.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_9.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_9.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_9.jpg: Width=1800, Height=2250
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Baka_CO_9.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Baka_CO_9.jpg -strip -quality 75 -resize 160x200 /Baka_CO_9.jpg
+Preview successfully created: /Baka_CO_9.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_1.jpg, preview_file=/Person-R_1.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_1.jpg, preview_file=/Person-R_1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_1.jpg: Width=3000, Height=3750
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Person-R_1.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_1.jpg -strip -quality 75 -resize 160x200 /Person-R_1.jpg
+Preview successfully created: /Person-R_1.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_2.jpg, preview_file=/Person-R_2.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_2.jpg, preview_file=/Person-R_2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_2.jpg: Width=3000, Height=3750
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Person-R_2.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_2.jpg -strip -quality 75 -resize 160x200 /Person-R_2.jpg
+Preview successfully created: /Person-R_2.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Person-R_3.jpg, preview_file=/Person-R_3.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_3.jpg, preview_file=/Person-R_3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_3.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_3.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_3.jpg: Width=3000, Height=3750
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Person-R_3.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Person-R_3.jpg -strip -quality 75 -resize 160x200 /Person-R_3.jpg
+Preview successfully created: /Person-R_3.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_1.jpg, preview_file=/Person-T_1.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_1.jpg, preview_file=/Person-T_1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_1.jpg: Width=3000, Height=3750
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Person-T_1.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_1.jpg -strip -quality 75 -resize 160x200 /Person-T_1.jpg
+Preview successfully created: /Person-T_1.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_2.jpg, preview_file=/Person-T_2.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_2.jpg, preview_file=/Person-T_2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_2.jpg: Width=3000, Height=3750
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Person-T_2.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_2.jpg -strip -quality 75 -resize 160x200 /Person-T_2.jpg
+Preview successfully created: /Person-T_2.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Person-T_3.jpg, preview_file=/Person-T_3.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_3.jpg, preview_file=/Person-T_3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_3.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_3.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_3.jpg: Width=3000, Height=3750
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Person-T_3.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Person-T_3.jpg -strip -quality 75 -resize 160x200 /Person-T_3.jpg
+Preview successfully created: /Person-T_3.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_1.jpg, preview_file=/Person-W_1.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_1.jpg, preview_file=/Person-W_1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_1.jpg: Width=3000, Height=3750
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Person-W_1.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_1.jpg -strip -quality 75 -resize 160x200 /Person-W_1.jpg
+Preview successfully created: /Person-W_1.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_2.jpg, preview_file=/Person-W_2.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_2.jpg, preview_file=/Person-W_2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_2.jpg: Width=3000, Height=3750
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Person-W_2.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_2.jpg -strip -quality 75 -resize 160x200 /Person-W_2.jpg
+Preview successfully created: /Person-W_2.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Person-W_3.jpg, preview_file=/Person-W_3.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_3.jpg, preview_file=/Person-W_3.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_3.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_3.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_3.jpg: Width=3000, Height=3750
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Person-W_3.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Person-W_3.jpg -strip -quality 75 -resize 160x200 /Person-W_3.jpg
+Preview successfully created: /Person-W_3.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//RESULT.jpg, preview_file=/RESULT.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/RESULT.jpg, preview_file=/RESULT.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/RESULT.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/RESULT.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/RESULT.jpg: Width=1080, Height=1080
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/RESULT.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/RESULT.jpg -strip -quality 75 -resize 200x200 /RESULT.jpg
+Preview successfully created: /RESULT.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//11.png, preview_file=/11.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/11.png, preview_file=/11.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/11.png
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/11.png
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/11.png: Width=3200, Height=4000
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/11.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/11.png -strip -quality 75 -resize 160x200 /11.png
+Preview successfully created: /11.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//24.png, preview_file=/24.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/24.png, preview_file=/24.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/24.png
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/24.png
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/24.png: Width=4000, Height=5000
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/24.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/24.png -strip -quality 75 -resize 160x200 /24.png
+Preview successfully created: /24.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_1.png, preview_file=/Person-M_1.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_1.png, preview_file=/Person-M_1.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_1.png
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_1.png
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_1.png: Width=2000, Height=2500
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Person-M_1.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_1.png -strip -quality 75 -resize 160x200 /Person-M_1.png
+Preview successfully created: /Person-M_1.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_2.png, preview_file=/Person-M_2.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_2.png, preview_file=/Person-M_2.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_2.png
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_2.png
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_2.png: Width=2000, Height=2500
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Person-M_2.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_2.png -strip -quality 75 -resize 160x200 /Person-M_2.png
+Preview successfully created: /Person-M_2.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts//Person-M_3.png, preview_file=/Person-M_3.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_3.png, preview_file=/Person-M_3.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_3.png
+Creating preview for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_3.png
+Dimensions for /home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_3.png: Width=2000, Height=2500
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Person-M_3.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Baka-Arts/Person-M_3.png -strip -quality 75 -resize 160x200 /Person-M_3.png
+Preview successfully created: /Person-M_3.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-01.jpg, preview_file=/Betta-Fish-01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-01.jpg, preview_file=/Betta-Fish-01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-01.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-01.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-01.jpg
+Preview successfully created: /Betta-Fish-01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-02.jpg, preview_file=/Betta-Fish-02.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-02.jpg, preview_file=/Betta-Fish-02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-02.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-02.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-02.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-02.jpg
+Preview successfully created: /Betta-Fish-02.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-03.jpg, preview_file=/Betta-Fish-03.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-03.jpg, preview_file=/Betta-Fish-03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-03.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-03.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-03.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-03.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-03.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-03.jpg
+Preview successfully created: /Betta-Fish-03.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-04.jpg, preview_file=/Betta-Fish-04.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-04.jpg, preview_file=/Betta-Fish-04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-04.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-04.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-04.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-04.jpg
+Preview successfully created: /Betta-Fish-04.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-05.jpg, preview_file=/Betta-Fish-05.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-05.jpg, preview_file=/Betta-Fish-05.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-05.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-05.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-05.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-05.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-05.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-05.jpg
+Preview successfully created: /Betta-Fish-05.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-06.jpg, preview_file=/Betta-Fish-06.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-06.jpg, preview_file=/Betta-Fish-06.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-06.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-06.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-06.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-06.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-06.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-06.jpg
+Preview successfully created: /Betta-Fish-06.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-07.jpg, preview_file=/Betta-Fish-07.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-07.jpg, preview_file=/Betta-Fish-07.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-07.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-07.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-07.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-07.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-07.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-07.jpg
+Preview successfully created: /Betta-Fish-07.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-08.jpg, preview_file=/Betta-Fish-08.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-08.jpg, preview_file=/Betta-Fish-08.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-08.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-08.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-08.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-08.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-08.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-08.jpg
+Preview successfully created: /Betta-Fish-08.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-09.jpg, preview_file=/Betta-Fish-09.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-09.jpg, preview_file=/Betta-Fish-09.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-09.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-09.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-09.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-09.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-09.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-09.jpg
+Preview successfully created: /Betta-Fish-09.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-10.jpg, preview_file=/Betta-Fish-10.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-10.jpg, preview_file=/Betta-Fish-10.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-10.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-10.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-10.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-10.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-10.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-10.jpg
+Preview successfully created: /Betta-Fish-10.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-11.jpg, preview_file=/Betta-Fish-11.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-11.jpg, preview_file=/Betta-Fish-11.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-11.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-11.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-11.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-11.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-11.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-11.jpg
+Preview successfully created: /Betta-Fish-11.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-12.jpg, preview_file=/Betta-Fish-12.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-12.jpg, preview_file=/Betta-Fish-12.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-12.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-12.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-12.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-12.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-12.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-12.jpg
+Preview successfully created: /Betta-Fish-12.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-13.jpg, preview_file=/Betta-Fish-13.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-13.jpg, preview_file=/Betta-Fish-13.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-13.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-13.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-13.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-13.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-13.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-13.jpg
+Preview successfully created: /Betta-Fish-13.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-14.jpg, preview_file=/Betta-Fish-14.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-14.jpg, preview_file=/Betta-Fish-14.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-14.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-14.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-14.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-14.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-14.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-14.jpg
+Preview successfully created: /Betta-Fish-14.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-15.jpg, preview_file=/Betta-Fish-15.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-15.jpg, preview_file=/Betta-Fish-15.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-15.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-15.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-15.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-15.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-15.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-15.jpg
+Preview successfully created: /Betta-Fish-15.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-16.jpg, preview_file=/Betta-Fish-16.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-16.jpg, preview_file=/Betta-Fish-16.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-16.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-16.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-16.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-16.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-16.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-16.jpg
+Preview successfully created: /Betta-Fish-16.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish//Betta-Fish-17.jpg, preview_file=/Betta-Fish-17.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-17.jpg, preview_file=/Betta-Fish-17.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-17.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-17.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-17.jpg: Width=4096, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Betta-Fish-17.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Betta Fish/Betta-Fish-17.jpg -strip -quality 75 -resize 379x200 /Betta-Fish-17.jpg
+Preview successfully created: /Betta-Fish-17.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Cars//911-DownRoad.jpg, preview_file=/911-DownRoad.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Cars/911-DownRoad.jpg, preview_file=/911-DownRoad.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Cars/911-DownRoad.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Cars/911-DownRoad.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Cars/911-DownRoad.jpg: Width=2256, Height=1504
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/911-DownRoad.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Cars/911-DownRoad.jpg -strip -quality 75 -resize 300x200 /911-DownRoad.jpg
+Preview successfully created: /911-DownRoad.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Cars//911-Station.jpg, preview_file=/911-Station.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Cars/911-Station.jpg, preview_file=/911-Station.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Cars/911-Station.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Cars/911-Station.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Cars/911-Station.jpg: Width=2256, Height=1504
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/911-Station.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Cars/911-Station.jpg -strip -quality 75 -resize 300x200 /911-Station.jpg
+Preview successfully created: /911-Station.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Cars//Ford-GT40.jpg, preview_file=/Ford-GT40.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Cars/Ford-GT40.jpg, preview_file=/Ford-GT40.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Cars/Ford-GT40.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Cars/Ford-GT40.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Cars/Ford-GT40.jpg: Width=2256, Height=1504
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Ford-GT40.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Cars/Ford-GT40.jpg -strip -quality 75 -resize 300x200 /Ford-GT40.jpg
+Preview successfully created: /Ford-GT40.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Cars//Pikes-peak.jpg, preview_file=/Pikes-peak.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Cars/Pikes-peak.jpg, preview_file=/Pikes-peak.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Cars/Pikes-peak.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Cars/Pikes-peak.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Cars/Pikes-peak.jpg: Width=2256, Height=1504
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Pikes-peak.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Cars/Pikes-peak.jpg -strip -quality 75 -resize 300x200 /Pikes-peak.jpg
+Preview successfully created: /Pikes-peak.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Cars//Pikes-peak-Sunset.jpg, preview_file=/Pikes-peak-Sunset.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Cars/Pikes-peak-Sunset.jpg, preview_file=/Pikes-peak-Sunset.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Cars/Pikes-peak-Sunset.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Cars/Pikes-peak-Sunset.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Cars/Pikes-peak-Sunset.jpg: Width=2256, Height=1504
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Pikes-peak-Sunset.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Cars/Pikes-peak-Sunset.jpg -strip -quality 75 -resize 300x200 /Pikes-peak-Sunset.jpg
+Preview successfully created: /Pikes-peak-Sunset.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Chosen_Desktop.jpg, preview_file=/Chosen_Desktop.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Chosen_Desktop.jpg, preview_file=/Chosen_Desktop.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Chosen_Desktop.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Chosen_Desktop.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Chosen_Desktop.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Chosen_Desktop.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Chosen_Desktop.jpg -strip -quality 75 -resize 355x200 /Chosen_Desktop.jpg
+Preview successfully created: /Chosen_Desktop.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B01.jpg, preview_file=/E_B01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B01.jpg, preview_file=/E_B01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B01.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/E_B01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B01.jpg -strip -quality 75 -resize 355x200 /E_B01.jpg
+Preview successfully created: /E_B01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//E_B02.jpg, preview_file=/E_B02.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B02.jpg, preview_file=/E_B02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B02.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/E_B02.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/E_B02.jpg -strip -quality 75 -resize 355x200 /E_B02.jpg
+Preview successfully created: /E_B02.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Eternal_God.jpg, preview_file=/Eternal_God.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Eternal_God.jpg, preview_file=/Eternal_God.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Eternal_God.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Eternal_God.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Eternal_God.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Eternal_God.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Eternal_God.jpg -strip -quality 75 -resize 355x200 /Eternal_God.jpg
+Preview successfully created: /Eternal_God.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Future_Ramen.jpg, preview_file=/Future_Ramen.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Future_Ramen.jpg, preview_file=/Future_Ramen.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Future_Ramen.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Future_Ramen.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Future_Ramen.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Future_Ramen.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Future_Ramen.jpg -strip -quality 75 -resize 355x200 /Future_Ramen.jpg
+Preview successfully created: /Future_Ramen.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Chosen_Desktop.jpg, preview_file=/gruvbox_Chosen_Desktop.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Chosen_Desktop.jpg, preview_file=/gruvbox_Chosen_Desktop.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Chosen_Desktop.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Chosen_Desktop.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Chosen_Desktop.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_Chosen_Desktop.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Chosen_Desktop.jpg -strip -quality 75 -resize 355x200 /gruvbox_Chosen_Desktop.jpg
+Preview successfully created: /gruvbox_Chosen_Desktop.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B01.jpg, preview_file=/gruvbox_E_B01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_E_B01.jpg, preview_file=/gruvbox_E_B01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_E_B01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_E_B01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_E_B01.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_E_B01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_E_B01.jpg -strip -quality 75 -resize 355x200 /gruvbox_E_B01.jpg
+Preview successfully created: /gruvbox_E_B01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_E_B02.jpg, preview_file=/gruvbox_E_B02.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_E_B02.jpg, preview_file=/gruvbox_E_B02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_E_B02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_E_B02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_E_B02.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_E_B02.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_E_B02.jpg -strip -quality 75 -resize 355x200 /gruvbox_E_B02.jpg
+Preview successfully created: /gruvbox_E_B02.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Eternal_God.jpg, preview_file=/gruvbox_Eternal_God.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Eternal_God.jpg, preview_file=/gruvbox_Eternal_God.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Eternal_God.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Eternal_God.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Eternal_God.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_Eternal_God.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Eternal_God.jpg -strip -quality 75 -resize 355x200 /gruvbox_Eternal_God.jpg
+Preview successfully created: /gruvbox_Eternal_God.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Future_Ramen.jpg, preview_file=/gruvbox_Future_Ramen.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Future_Ramen.jpg, preview_file=/gruvbox_Future_Ramen.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Future_Ramen.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Future_Ramen.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Future_Ramen.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_Future_Ramen.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Future_Ramen.jpg -strip -quality 75 -resize 355x200 /gruvbox_Future_Ramen.jpg
+Preview successfully created: /gruvbox_Future_Ramen.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Heal.EXE.jpg, preview_file=/gruvbox_Heal.EXE.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Heal.EXE.jpg, preview_file=/gruvbox_Heal.EXE.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Heal.EXE.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Heal.EXE.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Heal.EXE.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_Heal.EXE.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Heal.EXE.jpg -strip -quality 75 -resize 355x200 /gruvbox_Heal.EXE.jpg
+Preview successfully created: /gruvbox_Heal.EXE.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Lost_Kids.jpg, preview_file=/gruvbox_Lost_Kids.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Lost_Kids.jpg, preview_file=/gruvbox_Lost_Kids.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Lost_Kids.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Lost_Kids.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Lost_Kids.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_Lost_Kids.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Lost_Kids.jpg -strip -quality 75 -resize 355x200 /gruvbox_Lost_Kids.jpg
+Preview successfully created: /gruvbox_Lost_Kids.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_MX_76.jpg, preview_file=/gruvbox_MX_76.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_MX_76.jpg, preview_file=/gruvbox_MX_76.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_MX_76.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_MX_76.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_MX_76.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_MX_76.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_MX_76.jpg -strip -quality 75 -resize 355x200 /gruvbox_MX_76.jpg
+Preview successfully created: /gruvbox_MX_76.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Nira_and_Mona.jpg, preview_file=/gruvbox_Nira_and_Mona.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Nira_and_Mona.jpg, preview_file=/gruvbox_Nira_and_Mona.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Nira_and_Mona.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Nira_and_Mona.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Nira_and_Mona.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_Nira_and_Mona.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Nira_and_Mona.jpg -strip -quality 75 -resize 355x200 /gruvbox_Nira_and_Mona.jpg
+Preview successfully created: /gruvbox_Nira_and_Mona.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P01.jpg, preview_file=/gruvbox_P01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P01.jpg, preview_file=/gruvbox_P01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P01.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_P01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P01.jpg -strip -quality 75 -resize 355x200 /gruvbox_P01.jpg
+Preview successfully created: /gruvbox_P01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P02.jpg, preview_file=/gruvbox_P02.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P02.jpg, preview_file=/gruvbox_P02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P02.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_P02.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P02.jpg -strip -quality 75 -resize 355x200 /gruvbox_P02.jpg
+Preview successfully created: /gruvbox_P02.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P03.jpg, preview_file=/gruvbox_P03.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P03.jpg, preview_file=/gruvbox_P03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P03.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P03.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P03.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_P03.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P03.jpg -strip -quality 75 -resize 355x200 /gruvbox_P03.jpg
+Preview successfully created: /gruvbox_P03.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_P6_Concept.jpg, preview_file=/gruvbox_P6_Concept.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P6_Concept.jpg, preview_file=/gruvbox_P6_Concept.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P6_Concept.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P6_Concept.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P6_Concept.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_P6_Concept.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_P6_Concept.jpg -strip -quality 75 -resize 355x200 /gruvbox_P6_Concept.jpg
+Preview successfully created: /gruvbox_P6_Concept.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Pioneer_Adventure_vol1.jpg, preview_file=/gruvbox_Pioneer_Adventure_vol1.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Pioneer_Adventure_vol1.jpg, preview_file=/gruvbox_Pioneer_Adventure_vol1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Pioneer_Adventure_vol1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Pioneer_Adventure_vol1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Pioneer_Adventure_vol1.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_Pioneer_Adventure_vol1.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Pioneer_Adventure_vol1.jpg -strip -quality 75 -resize 355x200 /gruvbox_Pioneer_Adventure_vol1.jpg
+Preview successfully created: /gruvbox_Pioneer_Adventure_vol1.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_01.jpg, preview_file=/gruvbox_PIONEER_Concepts_01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_Concepts_01.jpg, preview_file=/gruvbox_PIONEER_Concepts_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_Concepts_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_Concepts_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_Concepts_01.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_PIONEER_Concepts_01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_Concepts_01.jpg -strip -quality 75 -resize 355x200 /gruvbox_PIONEER_Concepts_01.jpg
+Preview successfully created: /gruvbox_PIONEER_Concepts_01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_Concepts_07.jpg, preview_file=/gruvbox_PIONEER_Concepts_07.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_Concepts_07.jpg, preview_file=/gruvbox_PIONEER_Concepts_07.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_Concepts_07.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_Concepts_07.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_Concepts_07.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_PIONEER_Concepts_07.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_Concepts_07.jpg -strip -quality 75 -resize 355x200 /gruvbox_PIONEER_Concepts_07.jpg
+Preview successfully created: /gruvbox_PIONEER_Concepts_07.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_01.jpg, preview_file=/gruvbox_PIONEER_SP_01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_01.jpg, preview_file=/gruvbox_PIONEER_SP_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_01.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_PIONEER_SP_01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_01.jpg -strip -quality 75 -resize 355x200 /gruvbox_PIONEER_SP_01.jpg
+Preview successfully created: /gruvbox_PIONEER_SP_01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_02.jpg, preview_file=/gruvbox_PIONEER_SP_02.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_02.jpg, preview_file=/gruvbox_PIONEER_SP_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_02.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_PIONEER_SP_02.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_02.jpg -strip -quality 75 -resize 355x200 /gruvbox_PIONEER_SP_02.jpg
+Preview successfully created: /gruvbox_PIONEER_SP_02.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_03.jpg, preview_file=/gruvbox_PIONEER_SP_03.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_03.jpg, preview_file=/gruvbox_PIONEER_SP_03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_03.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_03.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_03.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_PIONEER_SP_03.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_03.jpg -strip -quality 75 -resize 355x200 /gruvbox_PIONEER_SP_03.jpg
+Preview successfully created: /gruvbox_PIONEER_SP_03.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_04.jpg, preview_file=/gruvbox_PIONEER_SP_04.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_04.jpg, preview_file=/gruvbox_PIONEER_SP_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_04.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_PIONEER_SP_04.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_04.jpg -strip -quality 75 -resize 355x200 /gruvbox_PIONEER_SP_04.jpg
+Preview successfully created: /gruvbox_PIONEER_SP_04.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_PIONEER_SP_05.jpg, preview_file=/gruvbox_PIONEER_SP_05.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_05.jpg, preview_file=/gruvbox_PIONEER_SP_05.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_05.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_05.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_05.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_PIONEER_SP_05.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_PIONEER_SP_05.jpg -strip -quality 75 -resize 355x200 /gruvbox_PIONEER_SP_05.jpg
+Preview successfully created: /gruvbox_PIONEER_SP_05.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Robotic_Friend.jpg, preview_file=/gruvbox_Robotic_Friend.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Robotic_Friend.jpg, preview_file=/gruvbox_Robotic_Friend.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Robotic_Friend.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Robotic_Friend.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Robotic_Friend.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_Robotic_Friend.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Robotic_Friend.jpg -strip -quality 75 -resize 355x200 /gruvbox_Robotic_Friend.jpg
+Preview successfully created: /gruvbox_Robotic_Friend.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_01.jpg, preview_file=/gruvbox_RS_DELTA_01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_01.jpg, preview_file=/gruvbox_RS_DELTA_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_01.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_RS_DELTA_01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_01.jpg -strip -quality 75 -resize 355x200 /gruvbox_RS_DELTA_01.jpg
+Preview successfully created: /gruvbox_RS_DELTA_01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_02.jpg, preview_file=/gruvbox_RS_DELTA_02.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_02.jpg, preview_file=/gruvbox_RS_DELTA_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_02.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_RS_DELTA_02.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_02.jpg -strip -quality 75 -resize 355x200 /gruvbox_RS_DELTA_02.jpg
+Preview successfully created: /gruvbox_RS_DELTA_02.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_RS_DELTA_04.jpg, preview_file=/gruvbox_RS_DELTA_04.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_04.jpg, preview_file=/gruvbox_RS_DELTA_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_04.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_RS_DELTA_04.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_RS_DELTA_04.jpg -strip -quality 75 -resize 355x200 /gruvbox_RS_DELTA_04.jpg
+Preview successfully created: /gruvbox_RS_DELTA_04.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_01.jpg, preview_file=/gruvbox_SEVEN_CRD_01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_01.jpg, preview_file=/gruvbox_SEVEN_CRD_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_01.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_SEVEN_CRD_01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_01.jpg -strip -quality 75 -resize 355x200 /gruvbox_SEVEN_CRD_01.jpg
+Preview successfully created: /gruvbox_SEVEN_CRD_01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_02.jpg, preview_file=/gruvbox_SEVEN_CRD_02.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_02.jpg, preview_file=/gruvbox_SEVEN_CRD_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_02.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_SEVEN_CRD_02.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_02.jpg -strip -quality 75 -resize 355x200 /gruvbox_SEVEN_CRD_02.jpg
+Preview successfully created: /gruvbox_SEVEN_CRD_02.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SEVEN_CRD_04.jpg, preview_file=/gruvbox_SEVEN_CRD_04.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_04.jpg, preview_file=/gruvbox_SEVEN_CRD_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_04.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_SEVEN_CRD_04.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SEVEN_CRD_04.jpg -strip -quality 75 -resize 355x200 /gruvbox_SEVEN_CRD_04.jpg
+Preview successfully created: /gruvbox_SEVEN_CRD_04.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven_Industries.jpg, preview_file=/gruvbox_Seven_Industries.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven_Industries.jpg, preview_file=/gruvbox_Seven_Industries.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven_Industries.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven_Industries.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven_Industries.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_Seven_Industries.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven_Industries.jpg -strip -quality 75 -resize 355x200 /gruvbox_Seven_Industries.jpg
+Preview successfully created: /gruvbox_Seven_Industries.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Seven.jpg, preview_file=/gruvbox_Seven.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven.jpg, preview_file=/gruvbox_Seven.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_Seven.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Seven.jpg -strip -quality 75 -resize 355x200 /gruvbox_Seven.jpg
+Preview successfully created: /gruvbox_Seven.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_SN_05_RE.jpg, preview_file=/gruvbox_SN_05_RE.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SN_05_RE.jpg, preview_file=/gruvbox_SN_05_RE.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SN_05_RE.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SN_05_RE.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SN_05_RE.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_SN_05_RE.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_SN_05_RE.jpg -strip -quality 75 -resize 355x200 /gruvbox_SN_05_RE.jpg
+Preview successfully created: /gruvbox_SN_05_RE.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy_Darkmode.jpg, preview_file=/gruvbox_Space_Boy_Darkmode.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy_Darkmode.jpg, preview_file=/gruvbox_Space_Boy_Darkmode.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy_Darkmode.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy_Darkmode.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy_Darkmode.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_Space_Boy_Darkmode.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy_Darkmode.jpg -strip -quality 75 -resize 355x200 /gruvbox_Space_Boy_Darkmode.jpg
+Preview successfully created: /gruvbox_Space_Boy_Darkmode.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//gruvbox_Space_Boy.jpg, preview_file=/gruvbox_Space_Boy.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy.jpg, preview_file=/gruvbox_Space_Boy.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_Space_Boy.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/gruvbox_Space_Boy.jpg -strip -quality 75 -resize 355x200 /gruvbox_Space_Boy.jpg
+Preview successfully created: /gruvbox_Space_Boy.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Heal.EXE.jpg, preview_file=/Heal.EXE.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Heal.EXE.jpg, preview_file=/Heal.EXE.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Heal.EXE.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Heal.EXE.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Heal.EXE.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Heal.EXE.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Heal.EXE.jpg -strip -quality 75 -resize 355x200 /Heal.EXE.jpg
+Preview successfully created: /Heal.EXE.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Lost_Kids.jpg, preview_file=/Lost_Kids.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Lost_Kids.jpg, preview_file=/Lost_Kids.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Lost_Kids.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Lost_Kids.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Lost_Kids.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Lost_Kids.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Lost_Kids.jpg -strip -quality 75 -resize 355x200 /Lost_Kids.jpg
+Preview successfully created: /Lost_Kids.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//MX_76.jpg, preview_file=/MX_76.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/MX_76.jpg, preview_file=/MX_76.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/MX_76.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/MX_76.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/MX_76.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/MX_76.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/MX_76.jpg -strip -quality 75 -resize 355x200 /MX_76.jpg
+Preview successfully created: /MX_76.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Nira_and_Mona.jpg, preview_file=/Nira_and_Mona.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Nira_and_Mona.jpg, preview_file=/Nira_and_Mona.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Nira_and_Mona.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Nira_and_Mona.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Nira_and_Mona.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Nira_and_Mona.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Nira_and_Mona.jpg -strip -quality 75 -resize 355x200 /Nira_and_Mona.jpg
+Preview successfully created: /Nira_and_Mona.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P01.jpg, preview_file=/P01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P01.jpg, preview_file=/P01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P01.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/P01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P01.jpg -strip -quality 75 -resize 355x200 /P01.jpg
+Preview successfully created: /P01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P02.jpg, preview_file=/P02.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P02.jpg, preview_file=/P02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P02.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/P02.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P02.jpg -strip -quality 75 -resize 355x200 /P02.jpg
+Preview successfully created: /P02.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P03.jpg, preview_file=/P03.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P03.jpg, preview_file=/P03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P03.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P03.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P03.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/P03.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P03.jpg -strip -quality 75 -resize 355x200 /P03.jpg
+Preview successfully created: /P03.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//P6_Concept.jpg, preview_file=/P6_Concept.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P6_Concept.jpg, preview_file=/P6_Concept.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P6_Concept.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P6_Concept.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P6_Concept.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/P6_Concept.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/P6_Concept.jpg -strip -quality 75 -resize 355x200 /P6_Concept.jpg
+Preview successfully created: /P6_Concept.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Pioneer_Adventure_vol1.jpg, preview_file=/Pioneer_Adventure_vol1.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Pioneer_Adventure_vol1.jpg, preview_file=/Pioneer_Adventure_vol1.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Pioneer_Adventure_vol1.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Pioneer_Adventure_vol1.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Pioneer_Adventure_vol1.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Pioneer_Adventure_vol1.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Pioneer_Adventure_vol1.jpg -strip -quality 75 -resize 355x200 /Pioneer_Adventure_vol1.jpg
+Preview successfully created: /Pioneer_Adventure_vol1.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_Concepts_01.jpg, preview_file=/PIONEER_Concepts_01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_01.jpg, preview_file=/PIONEER_Concepts_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_01.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/PIONEER_Concepts_01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_01.jpg -strip -quality 75 -resize 355x200 /PIONEER_Concepts_01.jpg
+Preview successfully created: /PIONEER_Concepts_01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_Concepts_07.jpg, preview_file=/PIONEER_Concepts_07.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_07.jpg, preview_file=/PIONEER_Concepts_07.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_07.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_07.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_07.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/PIONEER_Concepts_07.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_Concepts_07.jpg -strip -quality 75 -resize 355x200 /PIONEER_Concepts_07.jpg
+Preview successfully created: /PIONEER_Concepts_07.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_01.jpg, preview_file=/PIONEER_SP_01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_01.jpg, preview_file=/PIONEER_SP_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_01.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/PIONEER_SP_01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_01.jpg -strip -quality 75 -resize 355x200 /PIONEER_SP_01.jpg
+Preview successfully created: /PIONEER_SP_01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_02.jpg, preview_file=/PIONEER_SP_02.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_02.jpg, preview_file=/PIONEER_SP_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_02.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/PIONEER_SP_02.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_02.jpg -strip -quality 75 -resize 355x200 /PIONEER_SP_02.jpg
+Preview successfully created: /PIONEER_SP_02.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_03.jpg, preview_file=/PIONEER_SP_03.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_03.jpg, preview_file=/PIONEER_SP_03.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_03.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_03.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_03.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/PIONEER_SP_03.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_03.jpg -strip -quality 75 -resize 355x200 /PIONEER_SP_03.jpg
+Preview successfully created: /PIONEER_SP_03.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_04.jpg, preview_file=/PIONEER_SP_04.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_04.jpg, preview_file=/PIONEER_SP_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_04.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/PIONEER_SP_04.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_04.jpg -strip -quality 75 -resize 355x200 /PIONEER_SP_04.jpg
+Preview successfully created: /PIONEER_SP_04.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//PIONEER_SP_05.jpg, preview_file=/PIONEER_SP_05.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_05.jpg, preview_file=/PIONEER_SP_05.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_05.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_05.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_05.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/PIONEER_SP_05.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/PIONEER_SP_05.jpg -strip -quality 75 -resize 355x200 /PIONEER_SP_05.jpg
+Preview successfully created: /PIONEER_SP_05.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Robotic_Friend.jpg, preview_file=/Robotic_Friend.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Robotic_Friend.jpg, preview_file=/Robotic_Friend.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Robotic_Friend.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Robotic_Friend.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Robotic_Friend.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Robotic_Friend.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Robotic_Friend.jpg -strip -quality 75 -resize 355x200 /Robotic_Friend.jpg
+Preview successfully created: /Robotic_Friend.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_01.jpg, preview_file=/RS_DELTA_01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_01.jpg, preview_file=/RS_DELTA_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_01.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/RS_DELTA_01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_01.jpg -strip -quality 75 -resize 355x200 /RS_DELTA_01.jpg
+Preview successfully created: /RS_DELTA_01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_02.jpg, preview_file=/RS_DELTA_02.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_02.jpg, preview_file=/RS_DELTA_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_02.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/RS_DELTA_02.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_02.jpg -strip -quality 75 -resize 355x200 /RS_DELTA_02.jpg
+Preview successfully created: /RS_DELTA_02.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//RS_DELTA_04.jpg, preview_file=/RS_DELTA_04.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_04.jpg, preview_file=/RS_DELTA_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_04.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/RS_DELTA_04.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/RS_DELTA_04.jpg -strip -quality 75 -resize 355x200 /RS_DELTA_04.jpg
+Preview successfully created: /RS_DELTA_04.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_01.jpg, preview_file=/SEVEN_CRD_01.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_01.jpg, preview_file=/SEVEN_CRD_01.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_01.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_01.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_01.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/SEVEN_CRD_01.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_01.jpg -strip -quality 75 -resize 355x200 /SEVEN_CRD_01.jpg
+Preview successfully created: /SEVEN_CRD_01.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_02.jpg, preview_file=/SEVEN_CRD_02.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_02.jpg, preview_file=/SEVEN_CRD_02.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_02.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_02.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_02.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/SEVEN_CRD_02.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_02.jpg -strip -quality 75 -resize 355x200 /SEVEN_CRD_02.jpg
+Preview successfully created: /SEVEN_CRD_02.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SEVEN_CRD_04.jpg, preview_file=/SEVEN_CRD_04.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_04.jpg, preview_file=/SEVEN_CRD_04.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_04.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_04.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_04.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/SEVEN_CRD_04.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SEVEN_CRD_04.jpg -strip -quality 75 -resize 355x200 /SEVEN_CRD_04.jpg
+Preview successfully created: /SEVEN_CRD_04.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Seven_Industries.jpg, preview_file=/Seven_Industries.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven_Industries.jpg, preview_file=/Seven_Industries.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven_Industries.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven_Industries.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven_Industries.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Seven_Industries.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven_Industries.jpg -strip -quality 75 -resize 355x200 /Seven_Industries.jpg
+Preview successfully created: /Seven_Industries.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Seven.jpg, preview_file=/Seven.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven.jpg, preview_file=/Seven.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Seven.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Seven.jpg -strip -quality 75 -resize 355x200 /Seven.jpg
+Preview successfully created: /Seven.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//SN_05_RE.jpg, preview_file=/SN_05_RE.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SN_05_RE.jpg, preview_file=/SN_05_RE.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SN_05_RE.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SN_05_RE.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SN_05_RE.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/SN_05_RE.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/SN_05_RE.jpg -strip -quality 75 -resize 355x200 /SN_05_RE.jpg
+Preview successfully created: /SN_05_RE.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Space_Boy_Darkmode.jpg, preview_file=/Space_Boy_Darkmode.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy_Darkmode.jpg, preview_file=/Space_Boy_Darkmode.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy_Darkmode.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy_Darkmode.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy_Darkmode.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Space_Boy_Darkmode.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy_Darkmode.jpg -strip -quality 75 -resize 355x200 /Space_Boy_Darkmode.jpg
+Preview successfully created: /Space_Boy_Darkmode.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack//Space_Boy.jpg, preview_file=/Space_Boy.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy.jpg, preview_file=/Space_Boy.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Space_Boy.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Daveys_Wallpaper_Pack/Space_Boy.jpg -strip -quality 75 -resize 355x200 /Space_Boy.jpg
+Preview successfully created: /Space_Boy.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_1.png, preview_file=/Eizin_Suzuki_1.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_1.png, preview_file=/Eizin_Suzuki_1.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_1.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_1.png
+Dimensions for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_1.png: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Eizin_Suzuki_1.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_1.png -strip -quality 75 -resize 355x200 /Eizin_Suzuki_1.png
+Preview successfully created: /Eizin_Suzuki_1.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_2.png, preview_file=/Eizin_Suzuki_2.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_2.png, preview_file=/Eizin_Suzuki_2.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_2.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_2.png
+Dimensions for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_2.png: Width=2560, Height=1440
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Eizin_Suzuki_2.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_2.png -strip -quality 75 -resize 355x200 /Eizin_Suzuki_2.png
+Preview successfully created: /Eizin_Suzuki_2.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_3.png, preview_file=/Eizin_Suzuki_3.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_3.png, preview_file=/Eizin_Suzuki_3.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_3.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_3.png
+Dimensions for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_3.png: Width=2560, Height=1440
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Eizin_Suzuki_3.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_3.png -strip -quality 75 -resize 355x200 /Eizin_Suzuki_3.png
+Preview successfully created: /Eizin_Suzuki_3.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_4.png, preview_file=/Eizin_Suzuki_4.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_4.png, preview_file=/Eizin_Suzuki_4.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_4.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_4.png
+Dimensions for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_4.png: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Eizin_Suzuki_4.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_4.png -strip -quality 75 -resize 355x200 /Eizin_Suzuki_4.png
+Preview successfully created: /Eizin_Suzuki_4.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_5.png, preview_file=/Eizin_Suzuki_5.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_5.png, preview_file=/Eizin_Suzuki_5.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_5.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_5.png
+Dimensions for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_5.png: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Eizin_Suzuki_5.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_5.png -strip -quality 75 -resize 355x200 /Eizin_Suzuki_5.png
+Preview successfully created: /Eizin_Suzuki_5.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Eizin_Suzuki//Eizin_Suzuki_6.png, preview_file=/Eizin_Suzuki_6.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_6.png, preview_file=/Eizin_Suzuki_6.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_6.png
+Creating preview for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_6.png
+Dimensions for /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_6.png: Width=1080, Height=766
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Eizin_Suzuki_6.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Eizin_Suzuki/Eizin_Suzuki_6.png -strip -quality 75 -resize 281x200 /Eizin_Suzuki_6.png
+Preview successfully created: /Eizin_Suzuki_6.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//forest-2.jpg, preview_file=/forest-2.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/forest-2.jpg, preview_file=/forest-2.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/forest-2.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/forest-2.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/forest-2.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/forest-2.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/forest-2.jpg -strip -quality 75 -resize 355x200 /forest-2.jpg
+Preview successfully created: /forest-2.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//forest-foggy-misty-cloudy.jpg, preview_file=/forest-foggy-misty-cloudy.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/forest-foggy-misty-cloudy.jpg, preview_file=/forest-foggy-misty-cloudy.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/forest-foggy-misty-cloudy.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/forest-foggy-misty-cloudy.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/forest-foggy-misty-cloudy.jpg: Width=6012, Height=3382
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/forest-foggy-misty-cloudy.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/forest-foggy-misty-cloudy.jpg -strip -quality 75 -resize 355x200 /forest-foggy-misty-cloudy.jpg
+Preview successfully created: /forest-foggy-misty-cloudy.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_spac.jpg, preview_file=/gruvbox_spac.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_spac.jpg, preview_file=/gruvbox_spac.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_spac.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_spac.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_spac.jpg: Width=1920, Height=1080
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_spac.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_spac.jpg -strip -quality 75 -resize 355x200 /gruvbox_spac.jpg
+Preview successfully created: /gruvbox_spac.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//gruv-sushi-streets.jpg, preview_file=/gruv-sushi-streets.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/gruv-sushi-streets.jpg, preview_file=/gruv-sushi-streets.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/gruv-sushi-streets.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/gruv-sushi-streets.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/gruv-sushi-streets.jpg: Width=1920, Height=1080
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruv-sushi-streets.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/gruv-sushi-streets.jpg -strip -quality 75 -resize 355x200 /gruv-sushi-streets.jpg
+Preview successfully created: /gruv-sushi-streets.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//pacman-ghosts.jpg, preview_file=/pacman-ghosts.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/pacman-ghosts.jpg, preview_file=/pacman-ghosts.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/pacman-ghosts.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/pacman-ghosts.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/pacman-ghosts.jpg: Width=1920, Height=1080
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/pacman-ghosts.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/pacman-ghosts.jpg -strip -quality 75 -resize 355x200 /pacman-ghosts.jpg
+Preview successfully created: /pacman-ghosts.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//platform.jpg, preview_file=/platform.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/platform.jpg, preview_file=/platform.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/platform.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/platform.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/platform.jpg: Width=2750, Height=1546
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/platform.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/platform.jpg -strip -quality 75 -resize 355x200 /platform.jpg
+Preview successfully created: /platform.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//solar-system.jpg, preview_file=/solar-system.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/solar-system.jpg, preview_file=/solar-system.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/solar-system.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/solar-system.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/solar-system.jpg: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/solar-system.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/solar-system.jpg -strip -quality 75 -resize 355x200 /solar-system.jpg
+Preview successfully created: /solar-system.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//sprouted_flowers.jpg, preview_file=/sprouted_flowers.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/sprouted_flowers.jpg, preview_file=/sprouted_flowers.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/sprouted_flowers.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/sprouted_flowers.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/sprouted_flowers.jpg: Width=1192, Height=670
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/sprouted_flowers.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/sprouted_flowers.jpg -strip -quality 75 -resize 355x200 /sprouted_flowers.jpg
+Preview successfully created: /sprouted_flowers.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//7731806.png, preview_file=/7731806.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/7731806.png, preview_file=/7731806.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/7731806.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/7731806.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/7731806.png: Width=2560, Height=1600
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/7731806.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/7731806.png -strip -quality 75 -resize 320x200 /7731806.png
+Preview successfully created: /7731806.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//Arch.png, preview_file=/Arch.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/Arch.png, preview_file=/Arch.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/Arch.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/Arch.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/Arch.png: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/Arch.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/Arch.png -strip -quality 75 -resize 355x200 /Arch.png
+Preview successfully created: /Arch.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//board.png, preview_file=/board.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/board.png, preview_file=/board.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/board.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/board.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/board.png: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/board.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/board.png -strip -quality 75 -resize 355x200 /board.png
+Preview successfully created: /board.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//chinatown.png, preview_file=/chinatown.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/chinatown.png, preview_file=/chinatown.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/chinatown.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/chinatown.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/chinatown.png: Width=2880, Height=1620
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/chinatown.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/chinatown.png -strip -quality 75 -resize 355x200 /chinatown.png
+Preview successfully created: /chinatown.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//finalizer.png, preview_file=/finalizer.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/finalizer.png, preview_file=/finalizer.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/finalizer.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/finalizer.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/finalizer.png: Width=2732, Height=1536
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/finalizer.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/finalizer.png -strip -quality 75 -resize 355x200 /finalizer.png
+Preview successfully created: /finalizer.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_cat-waves.png, preview_file=/gruvbox_cat-waves.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_cat-waves.png, preview_file=/gruvbox_cat-waves.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_cat-waves.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_cat-waves.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_cat-waves.png: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_cat-waves.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_cat-waves.png -strip -quality 75 -resize 355x200 /gruvbox_cat-waves.png
+Preview successfully created: /gruvbox_cat-waves.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_grid.png, preview_file=/gruvbox_grid.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_grid.png, preview_file=/gruvbox_grid.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_grid.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_grid.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_grid.png: Width=1920, Height=1080
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_grid.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_grid.png -strip -quality 75 -resize 355x200 /gruvbox_grid.png
+Preview successfully created: /gruvbox_grid.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_image55.png, preview_file=/gruvbox_image55.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_image55.png, preview_file=/gruvbox_image55.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_image55.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_image55.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_image55.png: Width=1920, Height=1080
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_image55.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_image55.png -strip -quality 75 -resize 355x200 /gruvbox_image55.png
+Preview successfully created: /gruvbox_image55.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//gruvbox_minimal_space.png, preview_file=/gruvbox_minimal_space.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_minimal_space.png, preview_file=/gruvbox_minimal_space.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_minimal_space.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_minimal_space.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_minimal_space.png: Width=2560, Height=1600
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox_minimal_space.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox_minimal_space.png -strip -quality 75 -resize 320x200 /gruvbox_minimal_space.png
+Preview successfully created: /gruvbox_minimal_space.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//gruvbox-pacman-ghosts.png, preview_file=/gruvbox-pacman-ghosts.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/gruvbox-pacman-ghosts.png, preview_file=/gruvbox-pacman-ghosts.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox-pacman-ghosts.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox-pacman-ghosts.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox-pacman-ghosts.png: Width=4264, Height=2400
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvbox-pacman-ghosts.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/gruvbox-pacman-ghosts.png -strip -quality 75 -resize 355x200 /gruvbox-pacman-ghosts.png
+Preview successfully created: /gruvbox-pacman-ghosts.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//gruvb_solarsys.png, preview_file=/gruvb_solarsys.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/gruvb_solarsys.png, preview_file=/gruvb_solarsys.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/gruvb_solarsys.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/gruvb_solarsys.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/gruvb_solarsys.png: Width=1920, Height=1080
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/gruvb_solarsys.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/gruvb_solarsys.png -strip -quality 75 -resize 355x200 /gruvb_solarsys.png
+Preview successfully created: /gruvb_solarsys.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//haz-mat.png, preview_file=/haz-mat.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/haz-mat.png, preview_file=/haz-mat.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/haz-mat.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/haz-mat.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/haz-mat.png: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/haz-mat.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/haz-mat.png -strip -quality 75 -resize 355x200 /haz-mat.png
+Preview successfully created: /haz-mat.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//PJbX0MG.png, preview_file=/PJbX0MG.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/PJbX0MG.png, preview_file=/PJbX0MG.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/PJbX0MG.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/PJbX0MG.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/PJbX0MG.png: Width=3440, Height=1440
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/PJbX0MG.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/PJbX0MG.png -strip -quality 75 -resize 477x200 /PJbX0MG.png
+Preview successfully created: /PJbX0MG.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//qcqKfdZ.png, preview_file=/qcqKfdZ.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/qcqKfdZ.png, preview_file=/qcqKfdZ.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/qcqKfdZ.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/qcqKfdZ.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/qcqKfdZ.png: Width=1920, Height=1080
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/qcqKfdZ.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/qcqKfdZ.png -strip -quality 75 -resize 355x200 /qcqKfdZ.png
+Preview successfully created: /qcqKfdZ.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//repair.png, preview_file=/repair.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/repair.png, preview_file=/repair.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/repair.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/repair.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/repair.png: Width=3977, Height=2651
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/repair.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/repair.png -strip -quality 75 -resize 300x200 /repair.png
+Preview successfully created: /repair.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//solar-system-minimal.png, preview_file=/solar-system-minimal.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/solar-system-minimal.png, preview_file=/solar-system-minimal.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/solar-system-minimal.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/solar-system-minimal.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/solar-system-minimal.png: Width=2880, Height=1800
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/solar-system-minimal.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/solar-system-minimal.png -strip -quality 75 -resize 320x200 /solar-system-minimal.png
+Preview successfully created: /solar-system-minimal.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//sve.png, preview_file=/sve.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/sve.png, preview_file=/sve.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/sve.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/sve.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/sve.png: Width=1920, Height=1080
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/sve.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/sve.png -strip -quality 75 -resize 355x200 /sve.png
+Preview successfully created: /sve.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//wallpaper.png, preview_file=/wallpaper.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/wallpaper.png, preview_file=/wallpaper.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/wallpaper.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/wallpaper.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/wallpaper.png: Width=3840, Height=2160
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/wallpaper.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/wallpaper.png -strip -quality 75 -resize 355x200 /wallpaper.png
+Preview successfully created: /wallpaper.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//wp11058333.png, preview_file=/wp11058333.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/wp11058333.png, preview_file=/wp11058333.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/wp11058333.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/wp11058333.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/wp11058333.png: Width=1920, Height=1080
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/wp11058333.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/wp11058333.png -strip -quality 75 -resize 355x200 /wp11058333.png
+Preview successfully created: /wp11058333.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//classroom.jpg, preview_file=/classroom.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/classroom.jpg, preview_file=/classroom.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/classroom.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/classroom.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/classroom.jpg: Width=1200, Height=585
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/classroom.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/classroom.jpg -strip -quality 75 -resize 410x200 /classroom.jpg
+Preview successfully created: /classroom.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//The-Wind-Rises.jpg, preview_file=/The-Wind-Rises.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/The-Wind-Rises.jpg, preview_file=/The-Wind-Rises.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/The-Wind-Rises.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/The-Wind-Rises.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/The-Wind-Rises.jpg: Width=1920, Height=1080
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/The-Wind-Rises.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/The-Wind-Rises.jpg -strip -quality 75 -resize 355x200 /The-Wind-Rises.jpg
+Preview successfully created: /The-Wind-Rises.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//wall.jpg, preview_file=/wall.jpg
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/wall.jpg, preview_file=/wall.jpg
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/wall.jpg
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/wall.jpg
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/wall.jpg: Width=1920, Height=1080
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/wall.jpg
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/wall.jpg -strip -quality 75 -resize 355x200 /wall.jpg
+Preview successfully created: /wall.jpg
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//5m5kLI9.png, preview_file=/5m5kLI9.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/5m5kLI9.png, preview_file=/5m5kLI9.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/5m5kLI9.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/5m5kLI9.png
+Dimensions for /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/5m5kLI9.png: Width=1920, Height=1040
+/home/iori/Pictures/Wallpapers
+/home/iori/Pictures/Wallpapers/.previews/5m5kLI9.png
+Running convert command: convert /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/5m5kLI9.png -strip -quality 75 -resize 369x200 /5m5kLI9.png
+Preview successfully created: /5m5kLI9.png
+Before cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox//Gruvbox-anime//ghibli-japanese-walled-garden.png, preview_file=/ghibli-japanese-walled-garden.png
+After cleaning: original_file=/home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/ghibli-japanese-walled-garden.png, preview_file=/ghibli-japanese-walled-garden.png
+Checking preview for: /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/ghibli-japanese-walled-garden.png
+Creating preview for /home/iori/Pictures/Wallpapers/Gruvbox/Gruvbox-anime/ghibli-japanese-walled-garden.png

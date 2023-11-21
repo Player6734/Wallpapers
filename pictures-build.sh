@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PICTURES_DIR=$(pwd)
-PREVIEWS_DIR="$PICTURES_DIR/.previews"
+PREVIEWS_DIR="$PICTURES_DIR/.preview"
 SUBDIR_HTML_DIR="subdir-html"  # Name of the new directory to store HTML files
 mkdir -p "$SUBDIR_HTML_DIR"
 mkdir -p "$PREVIEWS_DIR"
