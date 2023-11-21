@@ -96,8 +96,10 @@ process_directory() {
     # Remove trailing slash from relative_path if present
     relative_path="${relative_path%/}"
 
-    local html_file_name="${relative_path//\//-}.html"  # Replace '/' with '-' in file name
-    local html_file_path="${SUBDIR_HTML_DIR}/${html_file_name}"
+    local html_file_path="${SUBDIR_HTML_DIR}/${relative_path}/index.html"  # Use index.html in corresponding subdirectory
+
+    # Ensure the directory exists
+    mkdir -p "$(dirname "$html_file_path")"
 
     # Write the header for the HTML file
     write_header "$html_file_path" "$(basename "$dir_path")"
